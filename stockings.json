@@ -1,0 +1,5293 @@
+{
+ "generated": "2026-09-07",
+ "kind": "planned",
+ "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
+ "water_count": 162,
+ "event_count": 620,
+ "stockings": {
+  "huddleston-pond": [
+   {
+    "week": "2026-01-05",
+    "legals": 200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 25,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 25
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 500,
+    "trophy": 1025,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1525
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 0,
+    "trophy": 25,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 25
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   }
+  ],
+  "ee-wilson-pond": [
+   {
+    "week": "2026-01-26",
+    "legals": 1300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   },
+   {
+    "week": "2026-02-02",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 1390,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1390
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 1300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 1625,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1625
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 850,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 850
+   }
+  ],
+  "junction-city-pond": [
+   {
+    "week": "2026-01-26",
+    "legals": 1455,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1455
+   },
+   {
+    "week": "2026-02-02",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-02-16",
+    "legals": 1330,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1330
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 1660,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1660
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 2750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2750
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-11-09",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-11-23",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-12-21",
+    "legals": 1300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   }
+  ],
+  "walter-wirth-lake": [
+   {
+    "week": "2026-01-26",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-02-02",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-02-16",
+    "legals": 1560,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1560
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 1520,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1520
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 1120,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1120
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 2200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2200
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1900
+   },
+   {
+    "week": "2026-11-02",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-11-23",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-12-21",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "sheridan-pond": [
+   {
+    "week": "2026-01-26",
+    "legals": 200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 340,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 340
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 798,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 798
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   }
+  ],
+  "timber-linn-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-02-16",
+    "legals": 800,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 840
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1125
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1800,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1840
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-11-02",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-11-23",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-12-21",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   }
+  ],
+  "dune-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 566,
+    "trophy": 36,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 602
+   },
+   {
+    "week": "2026-02-09",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 692,
+    "trophy": 36,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 728
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1466,
+    "trophy": 72,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1538
+   }
+  ],
+  "carter-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   }
+  ],
+  "alton-baker-canal": [
+   {
+    "week": "2026-02-02",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-02-16",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 1100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1100
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-27",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-03",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-10",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-24",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-09-07",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-10-19",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-10-26",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-11-02",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-11-09",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   }
+  ],
+  "cleawox-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 3000,
+    "trophy": 221,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3221
+   },
+   {
+    "week": "2026-02-09",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 4500,
+    "trophy": 292,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4792
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1766,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1916
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1500,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   }
+  ],
+  "munsel-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 1500,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   },
+   {
+    "week": "2026-02-09",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 2500,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2650
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 3500,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3650
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 2000,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2150
+   }
+  ],
+  "thissel-pond": [
+   {
+    "week": "2026-02-02",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 666,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 706
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 666,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 706
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2000,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2300
+   }
+  ],
+  "sunnyside-pond": [
+   {
+    "week": "2026-02-02",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   }
+  ],
+  "waverly-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 2200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2200
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-11-23",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-12-21",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   }
+  ],
+  "mt-hood-pond": [
+   {
+    "week": "2026-02-09",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   }
+  ],
+  "salish-pond-west": [
+   {
+    "week": "2026-02-09",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 1050,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1050
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 0,
+    "trophy": 667,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 667
+   }
+  ],
+  "lake-selmac": [
+   {
+    "week": "2026-02-09",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "st-louis-ponds": [
+   {
+    "week": "2026-02-09",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1563,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1563
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1125
+   }
+  ],
+  "reinhart-pond": [
+   {
+    "week": "2026-02-09",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "big-creek-reservoir-2": [
+   {
+    "week": "2026-02-09",
+    "legals": 2000,
+    "trophy": 100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2100
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 3600,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3800
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 5000,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5200
+   }
+  ],
+  "silver-creek-reservoir": [
+   {
+    "week": "2026-02-09",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 4664,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4664
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 1735,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1935
+   }
+  ],
+  "big-creek-reservoir-1": [
+   {
+    "week": "2026-02-09",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2040,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2090
+   }
+  ],
+  "olalla-creek-reservoir": [
+   {
+    "week": "2026-02-09",
+    "legals": 2500,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2700
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2332,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2332
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 2500,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2700
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 4000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "henry-hagg-lake": [
+   {
+    "week": "2026-02-09",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 12000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 12000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 2335,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3335
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 4000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 4000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 2950,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2950
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 3000,
+    "trophy": 1100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4100
+   },
+   {
+    "week": "2026-10-19",
+    "legals": 3000,
+    "trophy": 1100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4100
+   }
+  ],
+  "roaring-river-park-pond": [
+   {
+    "week": "2026-02-16",
+    "legals": 125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 125
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 125
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 125
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 125
+   }
+  ],
+  "powers-pond": [
+   {
+    "week": "2026-02-23",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 3000,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3150
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 0,
+    "trophy": 100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 100
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 1300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   }
+  ],
+  "progress-lake": [
+   {
+    "week": "2026-02-23",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "saunders-lake": [
+   {
+    "week": "2026-02-23",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 1300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   }
+  ],
+  "cottage-grove-reservoir": [
+   {
+    "week": "2026-02-23",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 4500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 3750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   }
+  ],
+  "freeway-lake-east": [
+   {
+    "week": "2026-03-02",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "krumbo-reservoir": [
+   {
+    "week": "2026-03-02",
+    "legals": 13000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 13000
+   }
+  ],
+  "dorena-reservoir": [
+   {
+    "week": "2026-03-02",
+    "legals": 5009,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5009
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 0,
+    "trophy": 5500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 5500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 2700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2700
+   }
+  ],
+  "garrison-lake": [
+   {
+    "week": "2026-03-02",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "canby-pond": [
+   {
+    "week": "2026-03-09",
+    "legals": 266,
+    "trophy": 193,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 459
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 335,
+    "trophy": 411,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 746
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 235,
+    "trophy": 167,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 402
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 501,
+    "trophy": 193,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 694
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "dexter-reservoir": [
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 5060,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5060
+   }
+  ],
+  "thief-valley-reservoir": [
+   {
+    "week": "2026-03-09",
+    "legals": 10500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 10500
+   }
+  ],
+  "buck-lake": [
+   {
+    "week": "2026-03-09",
+    "legals": 500,
+    "trophy": 36,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 536
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 566,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 566
+   }
+  ],
+  "priday-reservoir": [
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "commonwealth-lake": [
+   {
+    "week": "2026-03-09",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "devil-s-lake": [
+   {
+    "week": "2026-03-09",
+    "legals": 3250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 3250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 8000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 8000
+   }
+  ],
+  "cooper-creek-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 4500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "loren-s-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "south-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1800
+   }
+  ],
+  "lake-lytle": [
+   {
+    "week": "2026-03-16",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   }
+  ],
+  "taylor-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1750,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 1800
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1750,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 1800
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 1600,
+    "trophy": 375,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1975
+   },
+   {
+    "week": "2026-10-26",
+    "legals": 1600,
+    "trophy": 375,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1975
+   }
+  ],
+  "siltcoos-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1332,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1332
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "pine-hollow-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 2500,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2750
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2550
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2550
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2550
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 1600,
+    "trophy": 375,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1975
+   },
+   {
+    "week": "2026-10-26",
+    "legals": 1600,
+    "trophy": 375,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1975
+   }
+  ],
+  "empire-lakes": [
+   {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 250,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 250
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "bethany-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   }
+  ],
+  "rock-creek-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   }
+  ],
+  "coffenbury-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 2200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2200
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 1750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1750
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "lost-creek-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 20000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 20000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 15000,
+    "trophy": 800,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 15800
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 10000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 11500
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 10000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 11500
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 5000,
+    "trophy": 2300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7300
+   }
+  ],
+  "cullaby-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "willow-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 4000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 4000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 4000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   }
+  ],
+  "galesville-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   }
+  ],
+  "thompson-valley-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 3600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3600
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   }
+  ],
+  "tahoe-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "town-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 2770,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2770
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1750
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "mercer-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "sunset-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 150
+   }
+  ],
+  "bradley-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 1600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1600
+   }
+  ],
+  "eel-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 4000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   }
+  ],
+  "plat-i-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "vernonia-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   }
+  ],
+  "emigrant-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "hat-rock-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   }
+  ],
+  "elbow-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "smith-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "hebo-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "nedonna-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "foster-reservoir": [
+   {
+    "week": "2026-03-23",
+    "legals": 3300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3300
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 4125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4125
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 4125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4125
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 4875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4875
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 3900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3900
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "lake-of-the-woods": [
+   {
+    "week": "2026-03-23",
+    "legals": 670,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1670
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 670,
+    "trophy": 600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1270
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1000,
+    "trophy": 600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1600
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 670,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 970
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 670,
+    "trophy": 600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1270
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 0,
+    "trophy": 600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "baker-pond": [
+   {
+    "week": "2026-03-30",
+    "legals": 350,
+    "trophy": 0,
+    "brood": 10,
+    "fingerling": 0,
+    "total": 360
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 350,
+    "trophy": 0,
+    "brood": 10,
+    "fingerling": 0,
+    "total": 360
+   }
+  ],
+  "highway-203-pond": [
+   {
+    "week": "2026-03-30",
+    "legals": 2250,
+    "trophy": 825,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3075
+   }
+  ],
+  "trojan-pond": [
+   {
+    "week": "2026-03-30",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1750
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "butterfield-lake": [
+   {
+    "week": "2026-03-30",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 1600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1600
+   }
+  ],
+  "murray-reservoir": [
+   {
+    "week": "2026-03-30",
+    "legals": 2900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2900
+   }
+  ],
+  "willow-creek-reservoir": [
+   {
+    "week": "2026-03-30",
+    "legals": 1800,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2550
+   }
+  ],
+  "bikini-pond": [
+   {
+    "week": "2026-03-30",
+    "legals": 350,
+    "trophy": 0,
+    "brood": 10,
+    "fingerling": 0,
+    "total": 360
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 650
+   }
+  ],
+  "long-creek-reservoir": [
+   {
+    "week": "2026-03-30",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "roulet-pond": [
+   {
+    "week": "2026-03-30",
+    "legals": 1100,
+    "trophy": 125,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1225
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1100
+   }
+  ],
+  "fall-river": [
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-08-03",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "green-peter-reservoir": [
+   {
+    "week": "2026-04-06",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 6000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 6000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 2800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2800
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 4910,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4910
+   }
+  ],
+  "sutton-lake": [
+   {
+    "week": "2026-04-06",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1332,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1332
+   }
+  ],
+  "morgan-lake": [
+   {
+    "week": "2026-04-06",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "harriet-lake": [
+   {
+    "week": "2026-04-06",
+    "legals": 2666,
+    "trophy": 55,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2721
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 2000,
+    "trophy": 250,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2250
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 3335,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3335
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 2665,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2665
+   },
+   {
+    "week": "2026-08-24",
+    "legals": 1500,
+    "trophy": 667,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2167
+   }
+  ],
+  "arizona-pond": [
+   {
+    "week": "2026-04-06",
+    "legals": 1900,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1950
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1700
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-12-21",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   }
+  ],
+  "floras-lake": [
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 150
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 5450,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5450
+   }
+  ],
+  "salmonberry-lake": [
+   {
+    "week": "2026-04-13",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "red-top-pond": [
+   {
+    "week": "2026-04-13",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "cape-meares-lake": [
+   {
+    "week": "2026-04-13",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "benson-lake": [
+   {
+    "week": "2026-04-13",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "perkins-lake": [
+   {
+    "week": "2026-04-13",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "kingsley-reservoir": [
+   {
+    "week": "2026-04-13",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   }
+  ],
+  "twin-lake-south": [
+   {
+    "week": "2026-04-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-08-31",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "magone-lake": [
+   {
+    "week": "2026-04-20",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   }
+  ],
+  "tenmile-lake": [
+   {
+    "week": "2026-04-20",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "spalding-pond": [
+   {
+    "week": "2026-04-20",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   }
+  ],
+  "medco-pond": [
+   {
+    "week": "2026-04-20",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1100
+   }
+  ],
+  "wolf-creek-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 4500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   }
+  ],
+  "clear-lake": [
+   {
+    "week": "2026-04-20",
+    "legals": 3125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3125
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 25,
+    "fingerling": 0,
+    "total": 3225
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "howard-prairie-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 7500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7500
+   }
+  ],
+  "shevlin-pond": [
+   {
+    "week": "2026-04-20",
+    "legals": 666,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 966
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 0,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 0,
+    "trophy": 280,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 280
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   }
+  ],
+  "pilcher-creek-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 4500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   }
+  ],
+  "antelope-flat-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "fish-lake": [
+   {
+    "week": "2026-04-20",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 4500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2250
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 2000,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 900,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   }
+  ],
+  "ochoco-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 800,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   }
+  ],
+  "marr-pond": [
+   {
+    "week": "2026-04-20",
+    "legals": 250,
+    "trophy": 75,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 325
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 400,
+    "trophy": 75,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 475
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 500,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   }
+  ],
+  "leaburg-lake": [
+   {
+    "week": "2026-04-20",
+    "legals": 2250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2250
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-07-27",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-08-10",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-08-24",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "wallowa-wildlife-pond": [
+   {
+    "week": "2026-04-20",
+    "legals": 250,
+    "trophy": 75,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 325
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 1000,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1050
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 500,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   }
+  ],
+  "cutsforth-pond": [
+   {
+    "week": "2026-04-27",
+    "legals": 700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 700
+   }
+  ],
+  "loon-lake": [
+   {
+    "week": "2026-04-27",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   }
+  ],
+  "penland-lake": [
+   {
+    "week": "2026-04-27",
+    "legals": 2300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2300
+   }
+  ],
+  "quartzville-creek": [
+   {
+    "week": "2026-04-27",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 1650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 1650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 1650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   },
+   {
+    "week": "2026-07-27",
+    "legals": 1650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
+   }
+  ],
+  "anson-wright-park-pond": [
+   {
+    "week": "2026-04-27",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 850,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 850
+   }
+  ],
+  "twin-lake-north": [
+   {
+    "week": "2026-04-27",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-08-31",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
+  "timothy-lake": [
+   {
+    "week": "2026-05-04",
+    "legals": 2100,
+    "trophy": 1950,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4050
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 1400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 2100,
+    "trophy": 550,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2650
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 2100,
+    "trophy": 550,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2650
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2100,
+    "trophy": 550,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2650
+   }
+  ],
+  "hemlock-lake": [
+   {
+    "week": "2026-05-11",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 2750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2750
+   }
+  ],
+  "eckman-lake": [
+   {
+    "week": "2026-05-11",
+    "legals": 1332,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1382
+   }
+  ],
+  "lake-in-the-woods": [
+   {
+    "week": "2026-05-11",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "walton-lake": [
+   {
+    "week": "2026-05-11",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-09-07",
+    "legals": 0,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "lemolo-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 6350,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 6350
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 5100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5100
+   }
+  ],
+  "lake-marie": [
+   {
+    "week": "2026-05-11",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   }
+  ],
+  "detroit-lake": [
+   {
+    "week": "2026-05-11",
+    "legals": 0,
+    "trophy": 12000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 12000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 2000,
+    "trophy": 7000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 9000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 8000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 8000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 4000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 8000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 8000
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 13000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 14500
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 6900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 6900
+   }
+  ],
+  "yellow-jacket-pond": [
+   {
+    "week": "2026-05-11",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   }
+  ],
+  "luger-pond": [
+   {
+    "week": "2026-05-11",
+    "legals": 450,
+    "trophy": 100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   }
+  ],
+  "holbrook-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 2000,
+    "trophy": 450,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2450
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 670,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 970
+   }
+  ],
+  "lofton-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 1330,
+    "trophy": 450,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1780
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 670,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 970
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 1000,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   }
+  ],
+  "ben-irving-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "chickahominy-reservoir": [
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 11250,
+    "total": 11250
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
+  "ana-reservoir": [
+   {
+    "week": "2026-05-18",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   }
+  ],
+  "rogue-river-above-lost-creek": [
+   {
+    "week": "2026-05-18",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-27",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-08-24",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-08-31",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "heart-lake": [
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "trillium-lake": [
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 50
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 2000,
+    "trophy": 167,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2217
+   },
+   {
+    "week": "2026-08-24",
+    "legals": 2000,
+    "trophy": 133,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2133
+   }
+  ],
+  "breitenbush-river": [
+   {
+    "week": "2026-05-18",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-27",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-03",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-10",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   }
+  ],
+  "jubilee-lake": [
+   {
+    "week": "2026-05-18",
+    "legals": 7700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7700
+   }
+  ],
+  "wallowa-lake": [
+   {
+    "week": "2026-05-18",
+    "legals": 7250,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7550
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 7350,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7650
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 7350,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7650
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 11350,
+    "trophy": 305,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 11655
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 7250,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7550
+   },
+   {
+    "week": "2026-08-03",
+    "legals": 0,
+    "trophy": 180,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 180
+   }
+  ],
+  "small-fry-lake": [
+   {
+    "week": "2026-05-25",
+    "legals": 400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 334
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 334
+   }
+  ],
+  "north-fork-reservoir": [
+   {
+    "week": "2026-05-25",
+    "legals": 7500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7500
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 3600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3600
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 3600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3600
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 7500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7500
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 3600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3600
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 3600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3600
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 3702,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3702
+   }
+  ],
+  "olallie-lake": [
+   {
+    "week": "2026-05-25",
+    "legals": 9335,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 9335
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 0,
+    "trophy": 1300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   }
+  ],
+  "twin-ponds": [
+   {
+    "week": "2026-06-01",
+    "legals": 1850,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1850
+   }
+  ],
+  "anthony-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 3450,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3450
+   }
+  ],
+  "big-lava-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 8100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 8100
+   }
+  ],
+  "frog-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 2250,
+    "trophy": 400,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2700
+   }
+  ],
+  "devils-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 1383,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1383
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1383,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1383
+   },
+   {
+    "week": "2026-08-03",
+    "legals": 1384,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1384
+   }
+  ],
+  "grande-ronde-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "fourmile-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 2000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   }
+  ],
+  "victor-pond": [
+   {
+    "week": "2026-06-08",
+    "legals": 500,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   }
+  ],
+  "honeymoon-pond": [
+   {
+    "week": "2026-06-15",
+    "legals": 500,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 100
+   }
+  ],
+  "estacada-lake": [
+   {
+    "week": "2026-06-15",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   }
+  ],
+  "big-cultus-lake": [
+   {
+    "week": "2026-06-22",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "three-creeks-lake": [
+   {
+    "week": "2026-06-22",
+    "legals": 4000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "kinney-lake": [
+   {
+    "week": "2026-06-22",
+    "legals": 2500,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2700
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 0,
+    "trophy": 100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 100
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   }
+  ],
+  "deadhorse-lake": [
+   {
+    "week": "2026-06-22",
+    "legals": 2400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 1900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1900
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "east-lake": [
+   {
+    "week": "2026-06-22",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "campbell-lake": [
+   {
+    "week": "2026-07-06",
+    "legals": 1600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1600
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "paulina-lake": [
+   {
+    "week": "2026-07-06",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "hosmer-lake": [
+   {
+    "week": "2026-07-13",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "salt-creek-summit-pond": [
+   {
+    "week": "2026-07-13",
+    "legals": 700,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 100
+   }
+  ],
+  "mcgraw-pond": [
+   {
+    "week": "2026-07-13",
+    "legals": 700,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "miller-lake": [
+   {
+    "week": "2026-09-14",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   }
+  ],
+  "faraday-lake": [
+   {
+    "week": "2026-09-14",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   }
+  ]
+ }
+}
