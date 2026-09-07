@@ -163,7 +163,14 @@ def fetch_schedule(start: str, end: str) -> list[dict]:
         soup = BeautifulSoup(r.text, "lxml")
         table = soup.find("table")
         if not table:
-            sys.exit(f"No table on page {page}. Selector needs updating.")
+            # Past the last page ODFW returns a page with NO table at all --
+            # that is the normal end of pagination, not a broken selector.
+            # Only page 0 having no table means the page really changed.
+            if page == 0:
+                sys.exit("No table on page 0. ODFW changed the page markup; "
+                         "the CSS selector needs updating.")
+            print(f"  page {page}: no table -- end of results")
+            break
         if headers is None:
             headers = [th.get_text(strip=True).lower() for th in table.find_all("th")]
 
