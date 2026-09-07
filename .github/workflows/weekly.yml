@@ -1,0 +1,60 @@
+name: Weekly ODFW capture
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'      # Mondays 14:00 UTC = 7am Pacific
+  workflow_dispatch:           # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write              # needed to commit the captured data back
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      # JOB 1 -- the irreplaceable part. ODFW overwrites these weekly and keeps
+      # no archive, so this must run even if everything after it fails.
+      - name: Capture zone reports
+        run: python zone_snapshot.py --root ./archive
+
+      # JOB 2 -- the schedule. Only needs a full-year pull occasionally, but it
+      # is cheap and catches ODFW changing the parameters on us.
+      - name: Pull stocking schedule
+        id: schedule
+        continue-on-error: true
+        run: |
+          YEAR=$(date +%Y)
+          python odfw_ingest.py --start "$YEAR-01-01" --end "$YEAR-12-31" --out ./data
+
+      - name: Build stockings.json
+        if: steps.schedule.outcome == 'success'
+        continue-on-error: true
+        run: python build_stockings.py --events ./data/stocking_events.json --waters ./waters.json --out ./stockings.json
+
+      - name: Commit whatever we captured
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A archive data stockings.json unmatched.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "nothing changed this week"
+          else
+            git commit -m "Weekly capture $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      # If ODFW blocks the runner's IP, the archive step above still succeeded.
+      - name: Warn if the schedule pull failed
+        if: steps.schedule.outcome != 'success'
+        run: |
+          echo "::warning::Schedule pull failed -- likely ODFW blocking the runner IP."
+          echo "The zone report archive still captured. Run odfw_ingest.py locally if this persists."
