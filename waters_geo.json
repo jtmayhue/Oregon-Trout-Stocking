@@ -1,0 +1,3080 @@
+[
+ {
+  "odfw_raw": "ALDRICH PDS",
+  "name": "Aldrich Ponds",
+  "lat": 44.41428,
+  "lon": -119.44534,
+  "acres": "8",
+  "amenities": [
+   "parking"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ALTON BAKER CANAL",
+  "name": "Alton Baker Canal",
+  "lat": 44.05661,
+  "lon": -123.08177,
+  "acres": null,
+  "amenities": [
+   "accessible"
+  ],
+  "species": [],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ANA RES",
+  "name": "Ana Reservoir",
+  "lat": 42.99763,
+  "lon": -120.74949,
+  "acres": "60",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ANTELOPE FLAT RES",
+  "name": "Antelope Flat Reservoir",
+  "lat": 44.04022,
+  "lon": -120.3772,
+  "acres": "170",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ANTHONY LK",
+  "name": "Anthony Lake",
+  "lat": 44.95906,
+  "lon": -118.22935,
+  "acres": "22",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "APPLEGATE RES",
+  "name": "Applegate Reservoir",
+  "lat": 42.05084,
+  "lon": -123.1256,
+  "acres": "988",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "largemouth",
+   "smallmouth",
+   "crappie"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ARIZONA PD",
+  "name": "Arizona Pond",
+  "lat": 42.60882,
+  "lon": -124.39133,
+  "acres": null,
+  "amenities": [
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BAKER PD",
+  "name": "Baker Pond",
+  "lat": 45.3432,
+  "lon": -121.32356,
+  "acres": "2",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BEN IRVING RES",
+  "name": "Ben Irving Reservoir",
+  "lat": 43.05158,
+  "lon": -123.59482,
+  "acres": "250",
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BENSON LK",
+  "name": "Benson Lake",
+  "lat": 45.57666,
+  "lon": -122.12607,
+  "acres": "40",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BETHANY PD",
+  "name": "Bethany Pond",
+  "lat": 45.55675,
+  "lon": -122.86787,
+  "acres": "10",
+  "amenities": [
+   "accessible",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BIKINI PD",
+  "name": "Bikini Pond",
+  "lat": 45.68336,
+  "lon": -121.29017,
+  "acres": "4",
+  "amenities": [
+   "accessible",
+   "restroom",
+   "camping",
+   "bank_access",
+   "parking"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BOLAN LK",
+  "name": "Bolan Lake",
+  "lat": 42.02298,
+  "lon": -123.45892,
+  "acres": "13",
+  "amenities": [
+   "boat_ramp"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BRADLEY LK",
+  "name": "Bradley Lake",
+  "lat": 43.06355,
+  "lon": -124.42437,
+  "acres": "30",
+  "amenities": [
+   "boat_ramp",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BREITENBUSH R",
+  "name": "Breitenbush River",
+  "lat": 44.78293,
+  "lon": -121.98635,
+  "acres": null,
+  "amenities": [
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BUCK LK",
+  "name": "Buck Lake",
+  "lat": 44.06533,
+  "lon": -124.0992,
+  "acres": "5",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BULL PRAIRIE RES",
+  "name": "Bull Prairie Reservoir",
+  "lat": 44.97328,
+  "lon": -119.66579,
+  "acres": "27",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BUTTERFIELD LK",
+  "name": "Butterfield Lake",
+  "lat": 43.51905,
+  "lon": -124.2195,
+  "acres": "50",
+  "amenities": [
+   "dock",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "bluegill"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CAMPBELL LK",
+  "name": "Campbell Lake",
+  "lat": 42.56365,
+  "lon": -120.75446,
+  "acres": "21",
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CANBY PD",
+  "name": "Canby Pond",
+  "lat": 45.25279,
+  "lon": -122.70465,
+  "acres": "1",
+  "amenities": [
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "crappie",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CAPE MEARES LK",
+  "name": "Cape Meares Lake",
+  "lat": 45.50421,
+  "lon": -123.94848,
+  "acres": "65",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "bluegill",
+   "bullhead",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CARTER LK",
+  "name": "Carter Lake",
+  "lat": 43.85591,
+  "lon": -124.14679,
+  "acres": "28",
+  "amenities": [
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CHICKAHOMINY RES",
+  "name": "Chickahominy Reservoir",
+  "lat": 43.54525,
+  "lon": -119.61425,
+  "acres": "530",
+  "amenities": [
+   "boat_ramp"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CLEAR LK",
+  "name": "Clear Lake",
+  "lat": 45.1784,
+  "lon": -121.69703,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CLEAWOX LK",
+  "name": "Cleawox Lake",
+  "lat": 43.93181,
+  "lon": -124.11221,
+  "acres": "87",
+  "amenities": [
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "COFFENBURY LK",
+  "name": "Coffenbury Lake",
+  "lat": 46.1782,
+  "lon": -123.96563,
+  "acres": "50",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "bullhead",
+   "perch",
+   "steelhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "COMMONWEALTH LK",
+  "name": "Commonwealth Lake",
+  "lat": 45.51122,
+  "lon": -122.80925,
+  "acres": null,
+  "amenities": [
+   "accessible",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "crappie",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "COOPER CR RES",
+  "name": "Cooper Creek Reservoir",
+  "lat": 43.37642,
+  "lon": -123.27518,
+  "acres": "160",
+  "amenities": [
+   "boat_ramp",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "COTTAGE GROVE RES",
+  "name": "Cottage Grove Reservoir",
+  "lat": 43.71557,
+  "lon": -123.06142,
+  "acres": "1150",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible",
+   "restroom",
+   "parking"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "catfish",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CULLABY LK",
+  "name": "Cullaby Lake",
+  "lat": 46.08569,
+  "lon": -123.90767,
+  "acres": "200",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CULTUS LK, B",
+  "name": "Big Cultus Lake",
+  "lat": 43.82883,
+  "lon": -121.83799,
+  "acres": "785",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "CUTSFORTH PD",
+  "name": "Cutsforth Pond",
+  "lat": 45.19071,
+  "lon": -119.32364,
+  "acres": "2",
+  "amenities": [
+   "dock",
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DEADHORSE LK",
+  "name": "Deadhorse Lake",
+  "lat": 42.55689,
+  "lon": -120.77702,
+  "acres": "31",
+  "amenities": [
+   "accessible",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DEVIL'S LK",
+  "name": "Devil's Lake",
+  "lat": 44.97032,
+  "lon": -124.00912,
+  "acres": "680",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DEVILS LK",
+  "name": "Devils Lake",
+  "lat": 44.03462,
+  "lon": -121.76475,
+  "acres": "23",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DEXTER RES",
+  "name": "Dexter Reservoir",
+  "lat": 43.91793,
+  "lon": -122.81316,
+  "acres": "1025",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DORENA RES",
+  "name": "Dorena Reservoir",
+  "lat": 43.7714,
+  "lon": -122.93547,
+  "acres": "1840",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "catfish",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DORMAN PD",
+  "name": "Dorman Pond",
+  "lat": 45.61331,
+  "lon": -123.24546,
+  "acres": "8",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DUNE LK",
+  "name": "Dune Lake",
+  "lat": 44.06678,
+  "lon": -124.10079,
+  "acres": "2",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "EAST LK",
+  "name": "East Lake",
+  "lat": 43.73147,
+  "lon": -121.19616,
+  "acres": "1050",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ECKMAN LK",
+  "name": "Eckman Lake",
+  "lat": 44.41538,
+  "lon": -124.03481,
+  "acres": null,
+  "amenities": [
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "EE WILSON PD",
+  "name": "EE Wilson Pond",
+  "lat": 44.70752,
+  "lon": -123.20802,
+  "acres": null,
+  "amenities": [
+   "accessible"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "EEL LK",
+  "name": "Eel Lake",
+  "lat": 43.60409,
+  "lon": -124.17735,
+  "acres": "355",
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth",
+   "smallmouth",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ELBOW LK",
+  "name": "Elbow Lake",
+  "lat": 43.78783,
+  "lon": -124.15117,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ESTACADA LK",
+  "name": "Estacada Lake",
+  "lat": 45.29753,
+  "lon": -122.3492,
+  "acres": "150",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FALL R",
+  "name": "Fall River",
+  "lat": 43.63607,
+  "lon": -121.54175,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FARADAY LK",
+  "name": "Faraday Lake",
+  "lat": 45.26622,
+  "lon": -122.31331,
+  "acres": "25",
+  "amenities": [
+   "accessible",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FISH LK",
+  "name": "Fish Lake",
+  "lat": 42.73869,
+  "lon": -118.64539,
+  "acres": "20",
+  "amenities": [
+   "camping",
+   "boat_ramp",
+   "accessible"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FLORAS LK",
+  "name": "Floras Lake",
+  "lat": 42.90168,
+  "lon": -124.50213,
+  "acres": "250",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FOSTER RES",
+  "name": "Foster Reservoir",
+  "lat": 44.4134,
+  "lon": -122.6257,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "parking",
+   "dock",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FOURMILE LK",
+  "name": "Fourmile Lake",
+  "lat": 42.45462,
+  "lon": -122.24753,
+  "acres": "740",
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FREEWAY LK, EAST",
+  "name": "Freeway Lake East",
+  "lat": 44.59193,
+  "lon": -123.05928,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "FROG LK",
+  "name": "Frog Lake",
+  "lat": 45.21678,
+  "lon": -121.69659,
+  "acres": "11",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "GALESVILLE RES",
+  "name": "Galesville Reservoir",
+  "lat": 42.84929,
+  "lon": -123.15846,
+  "acres": "630",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "kokanee",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "GARRISON LK",
+  "name": "Garrison Lake",
+  "lat": 42.75571,
+  "lon": -124.5081,
+  "acres": "134",
+  "amenities": [
+   "boat_ramp",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "GRANDE RONDE LK",
+  "name": "Grande Ronde Lake",
+  "lat": 44.9771,
+  "lon": -118.24199,
+  "acres": "10",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HARRIET LK",
+  "name": "Harriet Lake",
+  "lat": 45.07219,
+  "lon": -121.95923,
+  "acres": "23",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HAT ROCK PD",
+  "name": "Hat Rock Pond",
+  "lat": 45.91521,
+  "lon": -119.17248,
+  "acres": "6",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HEART LK",
+  "name": "Heart Lake",
+  "lat": 42.25526,
+  "lon": -120.83886,
+  "acres": "19",
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "kokanee",
+   "catfish",
+   "bullhead",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HEBO LK",
+  "name": "Hebo Lake",
+  "lat": 45.23132,
+  "lon": -123.79716,
+  "acres": null,
+  "amenities": [
+   "accessible",
+   "restroom",
+   "camping",
+   "bank_access",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HEMLOCK LK (HEMLOCK MEADOW RES)",
+  "name": "Hemlock Lake",
+  "lat": 43.1883,
+  "lon": -122.69807,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HIGHWAY 203 PD",
+  "name": "Highway 203 Pond",
+  "lat": 44.86084,
+  "lon": -117.81352,
+  "acres": "10",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HOLBROOK RES",
+  "name": "Holbrook Reservoir",
+  "lat": 42.26557,
+  "lon": -120.85319,
+  "acres": "40",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HONEYMOON PD",
+  "name": "Honeymoon Pond",
+  "lat": 45.81199,
+  "lon": -116.9432,
+  "acres": null,
+  "amenities": [
+   "accessible"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HOSMER LK",
+  "name": "Hosmer Lake",
+  "lat": 43.96348,
+  "lon": -121.78559,
+  "acres": "112",
+  "amenities": [
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "brook",
+   "cutthroat"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HOWARD PRAIRIE RES",
+  "name": "Howard Prairie Reservoir",
+  "lat": 42.24013,
+  "lon": -122.41051,
+  "acres": "1990",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HUDDLESTON PD (FMR HAMPTON PD)",
+  "name": "Huddleston Pond",
+  "lat": 45.07932,
+  "lon": -123.47831,
+  "acres": "5",
+  "amenities": [
+   "accessible",
+   "restroom",
+   "parking",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HUNTER PD (STARKEY FOREST PDS)",
+  "name": "Hunter Pond",
+  "lat": 45.15097,
+  "lon": -118.54442,
+  "acres": null,
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HYATT RES",
+  "name": "Hyatt Reservoir",
+  "lat": 42.17314,
+  "lon": -122.46829,
+  "acres": "950",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "JUBILEE LK",
+  "name": "Jubilee Lake",
+  "lat": 45.83086,
+  "lon": -117.9654,
+  "acres": "97",
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "camping",
+   "bank_access",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "JUNCTION CITY PD",
+  "name": "Junction City Pond",
+  "lat": 44.18039,
+  "lon": -123.20418,
+  "acres": "8",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "KINNEY LK",
+  "name": "Kinney Lake",
+  "lat": 45.31383,
+  "lon": -117.10233,
+  "acres": "20",
+  "amenities": [
+   "camping",
+   "parking"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "KRUMBO RES",
+  "name": "Krumbo Reservoir",
+  "lat": 42.951,
+  "lon": -118.80723,
+  "acres": "150",
+  "amenities": [
+   "dock",
+   "accessible"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LAKE IN THE WOODS",
+  "name": "Lake in the Woods",
+  "lat": 43.21707,
+  "lon": -122.72521,
+  "acres": "4",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LAKE MARIE",
+  "name": "Lake Marie",
+  "lat": 43.66011,
+  "lon": -124.19286,
+  "acres": "5",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LAKE OF THE WOODS",
+  "name": "Lake of the Woods",
+  "lat": 44.58829,
+  "lon": -121.83852,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook",
+   "brown",
+   "kokanee",
+   "largemouth",
+   "smallmouth",
+   "crappie",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LAURANCE LK",
+  "name": "Laurance Lake",
+  "lat": 45.45999,
+  "lon": -121.65738,
+  "acres": "104",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LAVA LK, B",
+  "name": "Big Lava Lake",
+  "lat": 43.91459,
+  "lon": -121.76778,
+  "acres": "160",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LEABURG LK",
+  "name": "Leaburg Lake",
+  "lat": 44.13947,
+  "lon": -122.60931,
+  "acres": "55",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LEMOLO RES",
+  "name": "Lemolo Reservoir",
+  "lat": 43.31437,
+  "lon": -122.19346,
+  "acres": "415",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LOFTON RES",
+  "name": "Lofton Reservoir",
+  "lat": 42.26088,
+  "lon": -120.81856,
+  "acres": "42",
+  "amenities": [
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LOON LK",
+  "name": "Loon Lake",
+  "lat": 43.59637,
+  "lon": -123.84708,
+  "acres": "294",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LOREN'S PD",
+  "name": "Loren's Pond",
+  "lat": 45.43462,
+  "lon": -123.73846,
+  "acres": null,
+  "amenities": [
+   "boat_ramp"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LOST CREEK RES",
+  "name": "Lost Creek Reservoir",
+  "lat": 42.68417,
+  "lon": -122.61976,
+  "acres": "3500",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "largemouth",
+   "smallmouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LUGER PD",
+  "name": "Luger Pond",
+  "lat": 45.77011,
+  "lon": -117.95771,
+  "acres": "5",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LYTLE LK",
+  "name": "Lake Lytle",
+  "lat": 45.62739,
+  "lon": -123.9387,
+  "acres": "65",
+  "amenities": [
+   "boat_ramp"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "perch",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MAGONE LK",
+  "name": "Magone Lake",
+  "lat": 44.54911,
+  "lon": -118.91272,
+  "acres": "50",
+  "amenities": [
+   "dock",
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MARR PD",
+  "name": "Marr Pond",
+  "lat": 45.42046,
+  "lon": -117.29287,
+  "acres": "2",
+  "amenities": [
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MCGRAW PD",
+  "name": "McGraw Pond",
+  "lat": 45.16662,
+  "lon": -116.84074,
+  "acres": null,
+  "amenities": [
+   "accessible",
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MEDCO PD",
+  "name": "Medco Pond",
+  "lat": 42.65599,
+  "lon": -122.43812,
+  "acres": "25",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MERCER LK",
+  "name": "Mercer Lake",
+  "lat": 44.04978,
+  "lon": -124.05839,
+  "acres": null,
+  "amenities": [
+   "accessible"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "bluegill",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MILLER LK",
+  "name": "Miller Lake",
+  "lat": 43.22706,
+  "lon": -121.9665,
+  "acres": "600",
+  "amenities": [
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook",
+   "brown",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MORGAN LK",
+  "name": "Morgan Lake",
+  "lat": 45.30241,
+  "lon": -118.13762,
+  "acres": "60",
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow",
+   "crappie"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MT HOOD PD (MHCC CAMPUS)",
+  "name": "Mt. Hood Pond",
+  "lat": 45.51329,
+  "lon": -122.39774,
+  "acres": "5",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MUNSEL LK",
+  "name": "Munsel Lake",
+  "lat": 44.00627,
+  "lon": -124.08807,
+  "acres": "104",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth",
+   "bluegill",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "MURRAY RES (FMR HARDY MURRAY RES)",
+  "name": "Murray Reservoir",
+  "lat": 44.35354,
+  "lon": -118.10583,
+  "acres": "45",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "NEDONNA PD",
+  "name": "Nedonna Pond",
+  "lat": 45.64376,
+  "lon": -123.93872,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "NORTH FORK RES",
+  "name": "North Fork Reservoir",
+  "lat": 45.23794,
+  "lon": -122.25856,
+  "acres": "350",
+  "amenities": [
+   "dock",
+   "accessible",
+   "parking",
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "NORTH LK",
+  "name": "North Lake",
+  "lat": 45.21521,
+  "lon": -123.7203,
+  "acres": null,
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "OCHOCO RES",
+  "name": "Ochoco Reservoir",
+  "lat": 43.84245,
+  "lon": -120.57495,
+  "acres": "1100",
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "smallmouth",
+   "crappie",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "OLALLA CR RES",
+  "name": "Olalla Creek Reservoir",
+  "lat": 44.68129,
+  "lon": -123.92825,
+  "acres": "120",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "cutthroat"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "OLALLIE LK",
+  "name": "Olallie Lake",
+  "lat": 44.85198,
+  "lon": -121.745,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PAULINA LK",
+  "name": "Paulina Lake",
+  "lat": 43.71278,
+  "lon": -121.27331,
+  "acres": "1520",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PENLAND LK",
+  "name": "Penland Lake",
+  "lat": 45.12087,
+  "lon": -119.31582,
+  "acres": "67",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "bank_access",
+   "no_motors"
+  ],
+  "species": [],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PERKINS LK",
+  "name": "Perkins Lake",
+  "lat": 43.82635,
+  "lon": -124.14934,
+  "acres": "5",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PILCHER CREEK RES",
+  "name": "Pilcher Creek Reservoir",
+  "lat": 45.04067,
+  "lon": -118.07799,
+  "acres": "140",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "crappie",
+   "catfish",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PINE HOLLOW RES",
+  "name": "Pine Hollow Reservoir",
+  "lat": 45.24235,
+  "lon": -121.29219,
+  "acres": "240",
+  "amenities": [
+   "boat_ramp",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PLAT I RES",
+  "name": "Plat I Reservoir",
+  "lat": 43.39578,
+  "lon": -123.25202,
+  "acres": "155",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "POISON CREEK RES.",
+  "name": "Poison Creek Reservoir",
+  "lat": 44.01313,
+  "lon": -118.91477,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "POWERS PD",
+  "name": "Powers Pond",
+  "lat": 42.89236,
+  "lon": -124.07744,
+  "acres": "23",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PRIDAY RES",
+  "name": "Priday Reservoir",
+  "lat": 42.34047,
+  "lon": -119.90242,
+  "acres": "210",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "crappie",
+   "catfish",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "PROGRESS LK",
+  "name": "Progress Lake",
+  "lat": 45.42897,
+  "lon": -122.83179,
+  "acres": "10",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "QUARTZVILLE CR",
+  "name": "Quartzville Creek",
+  "lat": 44.57644,
+  "lon": -122.3212,
+  "acres": null,
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ROARING RVR PARK PD",
+  "name": "Roaring River Park Pond",
+  "lat": 44.62448,
+  "lon": -122.71712,
+  "acres": null,
+  "amenities": [],
+  "species": [],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ROCK CREEK RES",
+  "name": "Rock Creek Reservoir",
+  "lat": 45.22044,
+  "lon": -121.39111,
+  "acres": "100",
+  "amenities": [
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ROGUE R above Lost Creek",
+  "name": "Rogue River above Lost Creek",
+  "lat": 42.90539,
+  "lon": -122.46104,
+  "acres": null,
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook",
+   "brown",
+   "cutthroat"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ROULET PD",
+  "name": "Roulet Pond",
+  "lat": 45.58822,
+  "lon": -117.86147,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SALISH PD, W",
+  "name": "Salish Pond West",
+  "lat": 45.52983,
+  "lon": -122.44971,
+  "acres": "70",
+  "amenities": [
+   "dock",
+   "accessible",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "crappie",
+   "catfish"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SALMONBERRY LK",
+  "name": "Salmonberry Lake",
+  "lat": 45.88768,
+  "lon": -122.93555,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SALT CR SUMMIT PD",
+  "name": "Salt Creek Summit Pond",
+  "lat": 45.20946,
+  "lon": -117.06371,
+  "acres": null,
+  "amenities": [
+   "accessible"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SAUNDERS LK",
+  "name": "Saunders Lake",
+  "lat": 43.53408,
+  "lon": -124.21962,
+  "acres": "55",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SELMAC LK",
+  "name": "Lake Selmac",
+  "lat": 42.25863,
+  "lon": -123.57811,
+  "acres": "160",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SHERIDAN PD",
+  "name": "Sheridan Pond",
+  "lat": 45.0876,
+  "lon": -123.39152,
+  "acres": "2",
+  "amenities": [
+   "restroom",
+   "parking"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SHEVLIN PD",
+  "name": "Shevlin Pond",
+  "lat": 44.67256,
+  "lon": -121.30554,
+  "acres": null,
+  "amenities": [
+   "dock",
+   "accessible",
+   "restroom",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SILTCOOS LK",
+  "name": "Siltcoos Lake",
+  "lat": 43.87692,
+  "lon": -124.09023,
+  "acres": "3164",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SILVER CR RES",
+  "name": "Silver Creek Reservoir",
+  "lat": 44.98329,
+  "lon": -122.74574,
+  "acres": "65",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "catfish"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SMALL FRY LK",
+  "name": "Small Fry Lake",
+  "lat": 45.22195,
+  "lon": -122.24288,
+  "acres": null,
+  "amenities": [
+   "accessible",
+   "restroom"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SMITH LK",
+  "name": "Smith Lake",
+  "lat": 45.57845,
+  "lon": -123.94949,
+  "acres": "35",
+  "amenities": [
+   "dock",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "bluegill",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SOUTH LK",
+  "name": "South Lake",
+  "lat": 45.2026,
+  "lon": -123.7215,
+  "acres": "5",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SPALDING PD",
+  "name": "Spalding Pond",
+  "lat": 42.3467,
+  "lon": -123.704,
+  "acres": "3",
+  "amenities": [
+   "accessible",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SPRING LK",
+  "name": "Spring Lake",
+  "lat": 45.59563,
+  "lon": -123.94527,
+  "acres": "13",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ST LOUIS PD",
+  "name": "St. Louis Ponds",
+  "lat": 45.11316,
+  "lon": -122.93195,
+  "acres": "240",
+  "amenities": [
+   "accessible",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "catfish",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SUNSET LK (N COAST RANGE)",
+  "name": "Sunset Lake",
+  "lat": 46.10097,
+  "lon": -123.92959,
+  "acres": "107",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "bank_access",
+   "parking"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SUTTON LK",
+  "name": "Sutton Lake",
+  "lat": 44.05882,
+  "lon": -124.09234,
+  "acres": "107",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TAHOE LK",
+  "name": "Tahoe Lake",
+  "lat": 45.35006,
+  "lon": -123.60095,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "accessible",
+   "restroom",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TAYLOR LK",
+  "name": "Taylor Lake",
+  "lat": 45.6412,
+  "lon": -121.20692,
+  "acres": "35",
+  "amenities": [
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "crappie"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "THIEF VALLEY RES",
+  "name": "Thief Valley Reservoir",
+  "lat": 45.02572,
+  "lon": -117.78889,
+  "acres": "685",
+  "amenities": [
+   "boat_ramp",
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "catfish",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "THISSEL PD",
+  "name": "Thissel Pond",
+  "lat": 44.39998,
+  "lon": -123.74995,
+  "acres": "3",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "THREE CREEKS LK",
+  "name": "Three Creeks Lake",
+  "lat": 44.09609,
+  "lon": -121.62468,
+  "acres": "28",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TIMBER LINN LK",
+  "name": "Timber Linn Lake",
+  "lat": 44.63832,
+  "lon": -123.05611,
+  "acres": "11",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TIMOTHY LK",
+  "name": "Timothy Lake",
+  "lat": 45.11363,
+  "lon": -121.77358,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook",
+   "cutthroat",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TOWN LK",
+  "name": "Town Lake",
+  "lat": 45.22455,
+  "lon": -123.95599,
+  "acres": "9",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TRILLIUM LK",
+  "name": "Trillium Lake",
+  "lat": 45.27084,
+  "lon": -121.73684,
+  "acres": "60",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible",
+   "camping"
+  ],
+  "species": [],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TROUT FARM PD",
+  "name": "Trout Farm Pond",
+  "lat": 44.30538,
+  "lon": -118.55265,
+  "acres": null,
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TWIN LK",
+  "name": "Twin Lakes",
+  "lat": 43.22955,
+  "lon": -122.58962,
+  "acres": "12",
+  "amenities": [
+   "camping",
+   "boat_ramp"
+  ],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TWIN LK, N",
+  "name": "Twin Lake North",
+  "lat": 43.73166,
+  "lon": -121.76379,
+  "acres": "130",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TWIN LK, S",
+  "name": "Twin Lake South",
+  "lat": 43.71481,
+  "lon": -121.77216,
+  "acres": "99",
+  "amenities": [
+   "camping",
+   "bank_access",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TWIN PDS",
+  "name": "Twin Ponds",
+  "lat": 45.07847,
+  "lon": -118.89391,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "VICTOR PD",
+  "name": "Victor Pond",
+  "lat": 45.59407,
+  "lon": -117.55401,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WALLOWA LK",
+  "name": "Wallowa Lake",
+  "lat": 45.33454,
+  "lon": -117.21828,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "kokanee"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WALLOWA WLDLIFE PD (WEAVRS PD)",
+  "name": "Wallowa Wildlife Pond",
+  "lat": 45.5956,
+  "lon": -117.57595,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WALTER WIRTH LK",
+  "name": "Walter Wirth Lake",
+  "lat": 44.91,
+  "lon": -122.99,
+  "acres": "20",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "catfish",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WALTON LK",
+  "name": "Walton Lake",
+  "lat": 44.43308,
+  "lon": -120.33694,
+  "acres": "19",
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "camping",
+   "no_motors"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WAVERLY LK",
+  "name": "Waverly Lake",
+  "lat": 44.64038,
+  "lon": -123.06966,
+  "acres": null,
+  "amenities": [
+   "dock",
+   "restroom",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "catfish"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WILLOW CREEK RES",
+  "name": "Willow Creek Reservoir",
+  "lat": 45.34299,
+  "lon": -119.53998,
+  "acres": "125",
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible",
+   "restroom",
+   "parking"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "smallmouth",
+   "crappie",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WILLOW LK (former Willow Cr Res)",
+  "name": "Willow Lake",
+  "lat": 42.46939,
+  "lon": -122.45789,
+  "acres": "927",
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "kokanee",
+   "largemouth",
+   "crappie",
+   "bullhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WOAHINK LK",
+  "name": "Woahink Lake",
+  "lat": 43.91657,
+  "lon": -124.10088,
+  "acres": "820",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "cutthroat",
+   "largemouth",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "WOLF CREEK RES",
+  "name": "Wolf Creek Reservoir",
+  "lat": 45.06394,
+  "lon": -118.0335,
+  "acres": "230",
+  "amenities": [
+   "boat_ramp",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "crappie"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "ANSON WRIGHT PD",
+  "name": "Anson Wright Park Pond",
+  "lat": 45.10939,
+  "lon": -119.62624,
+  "acres": null,
+  "amenities": [
+   "restroom"
+  ],
+  "species": [],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BIG CREEK RES-1",
+  "name": "Big Creek Reservoir 1",
+  "lat": 44.65815,
+  "lon": -124.04049,
+  "acres": "20",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "BIG CREEK RES-2",
+  "name": "Big Creek Reservoir 2",
+  "lat": 44.65818,
+  "lon": -124.02904,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brown",
+   "bullhead"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "DETROIT RES",
+  "name": "Detroit Lake",
+  "lat": 44.72823,
+  "lon": -122.17617,
+  "acres": null,
+  "amenities": [
+   "camping",
+   "boat_ramp",
+   "accessible",
+   "restroom",
+   "parking"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "EMIGRANT RES",
+  "name": "Emigrant Lake",
+  "lat": 42.15961,
+  "lon": -122.617,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "restroom",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "smallmouth",
+   "crappie"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "HENRY HAGG LK",
+  "name": "Henry Hagg Lake",
+  "lat": 45.48433,
+  "lon": -123.20987,
+  "acres": "1110",
+  "amenities": [
+   "boat_ramp"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "largemouth",
+   "smallmouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "KINGSLEY RES, UPR",
+  "name": "Kingsley Reservoir",
+  "lat": 45.64114,
+  "lon": -121.67391,
+  "acres": "60",
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "steelhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "RED TOP LK",
+  "name": "Red Top Pond",
+  "lat": 43.08038,
+  "lon": -122.95609,
+  "acres": null,
+  "amenities": [
+   "camping"
+  ],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "REINHART PARK PD",
+  "name": "Reinhart Pond",
+  "lat": 42.42956,
+  "lon": -123.34862,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "SUNNYSIDE PARK PD",
+  "name": "Sunnyside Pond",
+  "lat": 44.4283,
+  "lon": -122.60908,
+  "acres": "8",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "largemouth",
+   "crappie",
+   "bluegill"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "THOMPSON (VALLEY) RES",
+  "name": "Thompson Valley Reservoir",
+  "lat": 42.94361,
+  "lon": -121.06625,
+  "acres": "2500",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "largemouth"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "TROJAN RECREATION LK",
+  "name": "Trojan Pond",
+  "lat": 46.03652,
+  "lon": -122.89071,
+  "acres": "15",
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "VERNONIA LK",
+  "name": "Vernonia Pond",
+  "lat": 45.85711,
+  "lon": -123.17322,
+  "acres": null,
+  "amenities": [
+   "boat_ramp",
+   "dock",
+   "accessible",
+   "restroom",
+   "camping",
+   "bank_access"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "steelhead"
+  ],
+  "has_camping": true,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "YELLOW JACKET LK",
+  "name": "Yellow Jacket Pond",
+  "lat": 45.22364,
+  "lon": -118.88443,
+  "acres": null,
+  "amenities": [],
+  "species": [
+   "rainbow"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "GREEN PETER RES",
+  "name": "Green Peter Reservoir",
+  "lat": 44.48139,
+  "lon": -122.51781,
+  "acres": "328",
+  "amenities": [
+   "boat_ramp",
+   "restroom"
+  ],
+  "species": [
+   "rainbow",
+   "kokanee"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "LONG CREEK PD",
+  "name": "Long Creek Reservoir",
+  "lat": 44.35914,
+  "lon": -118.15985,
+  "acres": "8",
+  "amenities": [],
+  "species": [
+   "rainbow",
+   "brook"
+  ],
+  "has_camping": false,
+  "coord_note": null
+ },
+ {
+  "odfw_raw": "EMPIRE LK, LWR",
+  "name": "Empire Lakes",
+  "lat": 43.3967,
+  "lon": -124.26296,
+  "acres": "120",
+  "amenities": [
+   "boat_ramp",
+   "accessible"
+  ],
+  "species": [
+   "rainbow",
+   "bluegill",
+   "catfish",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": "shared point with sibling water"
+ },
+ {
+  "odfw_raw": "EMPIRE LK, UPR",
+  "name": "Empire Lakes",
+  "lat": 43.3967,
+  "lon": -124.26296,
+  "acres": "120",
+  "amenities": [
+   "boat_ramp",
+   "accessible"
+  ],
+  "species": [
+   "rainbow",
+   "bluegill",
+   "catfish",
+   "perch"
+  ],
+  "has_camping": false,
+  "coord_note": "shared point with sibling water"
+ },
+ {
+  "odfw_raw": "TENMILE LK, N",
+  "name": "Tenmile Lake",
+  "lat": 43.57193,
+  "lon": -124.16688,
+  "acres": "2723",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": "shared point with sibling water"
+ },
+ {
+  "odfw_raw": "TENMILE LK, S",
+  "name": "Tenmile Lake",
+  "lat": 43.57193,
+  "lon": -124.16688,
+  "acres": "2723",
+  "amenities": [
+   "boat_ramp",
+   "camping"
+  ],
+  "species": [
+   "rainbow",
+   "brown",
+   "cutthroat",
+   "largemouth",
+   "crappie",
+   "bluegill",
+   "bullhead",
+   "perch"
+  ],
+  "has_camping": true,
+  "coord_note": "shared point with sibling water"
+ }
+]

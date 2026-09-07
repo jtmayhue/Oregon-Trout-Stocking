@@ -1,0 +1,260 @@
+{
+ "quarantined": 51,
+ "waters": [
+  {
+   "odfw_raw": "ALDER LK",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "BECKER PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "BLUE R",
+   "reason": "no map match (BLUE R is Blue River, not Blue Lake)",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "BLUE RIVER RES",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "BURNS GRAVEL PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "CARMEN RES",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "CENTURY GRAVEL PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "CLEARWATER BAY-2",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "COTTONWOOD PIT",
+   "reason": "no map match (Cottonwood Meadows is a different water)",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "DEER LK",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "EXPO PD 1 (ROGUE)",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "FALL CR (WILLAMETTE R)",
+   "reason": "no map match (Fall Creek is not Fall River)",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "FALL CR RES",
+   "reason": "no map match (Fall Creek Res is not Fall River)",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "HAINES PD-1",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "HALDEMAN PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "HILLS CR RES",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "HOLLIDAY PARK PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "LADD (PEACH) PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "LAIRD LK",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "LIBBY PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "MCKENZIE R-1 (below Leaburg Dam)",
+   "reason": "river reach, no single point",
+   "recoverable": false
+  },
+  {
+   "odfw_raw": "MCKENZIE R-2 (above Leaburg Dam)",
+   "reason": "river reach, no single point",
+   "recoverable": false
+  },
+  {
+   "odfw_raw": "MCNARY CHANNEL PDS",
+   "reason": "plural group, multiple ponds",
+   "recoverable": false
+  },
+  {
+   "odfw_raw": "METOLIUS PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "MIDDLE FK PD (HOOD R)",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "MORROW CO OHV PARK PD #2 (Red Rock)",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "MORROW CO OHV PARK PD #3 (O'Brien)",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "MORROW CO OHV PARK PD #4 (Wilson)",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "NORTH POWDER PD-1",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "PINE NURSERY PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "POWDER R-2",
+   "reason": "river reach, no single point",
+   "recoverable": false
+  },
+  {
+   "odfw_raw": "PRINEVILLE FISHING PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "REDMOND FIREMAN'S PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "ROW R NATURE PK-Fmr Cott. Grv. Pd",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "RUNNING Y PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "SALMON CR",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "SANTIAM R, N FK-2",
+   "reason": "river reach, no single point",
+   "recoverable": false
+  },
+  {
+   "odfw_raw": "SEVENTH ST PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "SMITH R RES",
+   "reason": "no map match (Smith Lake is a different water)",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "SMOCK PRAIRIE RES",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "SPRAGUE PIT PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "SUMMIT PRAIRIE PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "TAYLOR GREEN PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "TEEPEE PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "TIPTON PD, N",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "TURNER LK",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "UMATILLA FOREST PDS, N",
+   "reason": "plural group, multiple ponds",
+   "recoverable": false
+  },
+  {
+   "odfw_raw": "Weaver Road Pd",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "WESTON HIGHWAY PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "WILDCAT PD",
+   "reason": "no map match",
+   "recoverable": true
+  },
+  {
+   "odfw_raw": "WILLAMETTE R, CST FK",
+   "reason": "river reach, no single point",
+   "recoverable": false
+  }
+ ]
+}

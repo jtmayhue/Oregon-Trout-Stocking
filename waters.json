@@ -1,0 +1,3925 @@
+{
+ "generated": "2026-09-07",
+ "source": "ODFW trout stocking maps + weekly stocking schedule",
+ "water_count": 176,
+ "waters": [
+  {
+   "id": "aldrich-ponds",
+   "name": "Aldrich Ponds",
+   "type": "pond",
+   "odfw_names": [
+    "ALDRICH PDS"
+   ],
+   "lat": 44.41428,
+   "lon": -119.44534,
+   "coord_precision": "water",
+   "acres": 8,
+   "amenities": [
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "alton-baker-canal",
+   "name": "Alton Baker Canal",
+   "type": "river",
+   "odfw_names": [
+    "ALTON BAKER CANAL"
+   ],
+   "lat": 44.05661,
+   "lon": -123.08177,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [
+    "accessible"
+   ],
+   "species": [],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "ana-reservoir",
+   "name": "Ana Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "ANA RES"
+   ],
+   "lat": 42.99763,
+   "lon": -120.74949,
+   "coord_precision": "water",
+   "acres": 60,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "anson-wright-park-pond",
+   "name": "Anson Wright Park Pond",
+   "type": "pond",
+   "odfw_names": [
+    "ANSON WRIGHT PD"
+   ],
+   "lat": 45.10939,
+   "lon": -119.62624,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "restroom"
+   ],
+   "species": [],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "antelope-flat-reservoir",
+   "name": "Antelope Flat Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "ANTELOPE FLAT RES"
+   ],
+   "lat": 44.04022,
+   "lon": -120.3772,
+   "coord_precision": "water",
+   "acres": 170,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "anthony-lake",
+   "name": "Anthony Lake",
+   "type": "lake",
+   "odfw_names": [
+    "ANTHONY LK"
+   ],
+   "lat": 44.95906,
+   "lon": -118.22935,
+   "coord_precision": "water",
+   "acres": 22,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "applegate-reservoir",
+   "name": "Applegate Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "APPLEGATE RES"
+   ],
+   "lat": 42.05084,
+   "lon": -123.1256,
+   "coord_precision": "water",
+   "acres": 988,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "largemouth",
+    "smallmouth",
+    "crappie"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "arizona-pond",
+   "name": "Arizona Pond",
+   "type": "pond",
+   "odfw_names": [
+    "ARIZONA PD"
+   ],
+   "lat": 42.60882,
+   "lon": -124.39133,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "baker-pond",
+   "name": "Baker Pond",
+   "type": "pond",
+   "odfw_names": [
+    "BAKER PD"
+   ],
+   "lat": 45.3432,
+   "lon": -121.32356,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "ben-irving-reservoir",
+   "name": "Ben Irving Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "BEN IRVING RES"
+   ],
+   "lat": 43.05158,
+   "lon": -123.59482,
+   "coord_precision": "water",
+   "acres": 250,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "benson-lake",
+   "name": "Benson Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BENSON LK"
+   ],
+   "lat": 45.57666,
+   "lon": -122.12607,
+   "coord_precision": "water",
+   "acres": 40,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "bethany-pond",
+   "name": "Bethany Pond",
+   "type": "pond",
+   "odfw_names": [
+    "BETHANY PD"
+   ],
+   "lat": 45.55675,
+   "lon": -122.86787,
+   "coord_precision": "water",
+   "acres": 10,
+   "amenities": [
+    "accessible",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "big-creek-reservoir-1",
+   "name": "Big Creek Reservoir 1",
+   "type": "reservoir",
+   "odfw_names": [
+    "BIG CREEK RES-1"
+   ],
+   "lat": 44.65815,
+   "lon": -124.04049,
+   "coord_precision": "water",
+   "acres": 20,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "big-creek-reservoir-2",
+   "name": "Big Creek Reservoir 2",
+   "type": "reservoir",
+   "odfw_names": [
+    "BIG CREEK RES-2"
+   ],
+   "lat": 44.65818,
+   "lon": -124.02904,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "big-cultus-lake",
+   "name": "Big Cultus Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CULTUS LK, B"
+   ],
+   "lat": 43.82883,
+   "lon": -121.83799,
+   "coord_precision": "water",
+   "acres": 785,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "big-lava-lake",
+   "name": "Big Lava Lake",
+   "type": "lake",
+   "odfw_names": [
+    "LAVA LK, B"
+   ],
+   "lat": 43.91459,
+   "lon": -121.76778,
+   "coord_precision": "water",
+   "acres": 160,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "bikini-pond",
+   "name": "Bikini Pond",
+   "type": "pond",
+   "odfw_names": [
+    "BIKINI PD"
+   ],
+   "lat": 45.68336,
+   "lon": -121.29017,
+   "coord_precision": "water",
+   "acres": 4,
+   "amenities": [
+    "accessible",
+    "restroom",
+    "camping",
+    "bank_access",
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "bolan-lake",
+   "name": "Bolan Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BOLAN LK"
+   ],
+   "lat": 42.02298,
+   "lon": -123.45892,
+   "coord_precision": "water",
+   "acres": 13,
+   "amenities": [
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "bradley-lake",
+   "name": "Bradley Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BRADLEY LK"
+   ],
+   "lat": 43.06355,
+   "lon": -124.42437,
+   "coord_precision": "water",
+   "acres": 30,
+   "amenities": [
+    "boat_ramp",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "breitenbush-river",
+   "name": "Breitenbush River",
+   "type": "river",
+   "odfw_names": [
+    "BREITENBUSH R"
+   ],
+   "lat": 44.78293,
+   "lon": -121.98635,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "buck-lake",
+   "name": "Buck Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BUCK LK"
+   ],
+   "lat": 44.06533,
+   "lon": -124.0992,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "bull-prairie-reservoir",
+   "name": "Bull Prairie Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "BULL PRAIRIE RES"
+   ],
+   "lat": 44.97328,
+   "lon": -119.66579,
+   "coord_precision": "water",
+   "acres": 27,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "butterfield-lake",
+   "name": "Butterfield Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BUTTERFIELD LK"
+   ],
+   "lat": 43.51905,
+   "lon": -124.2195,
+   "coord_precision": "water",
+   "acres": 50,
+   "amenities": [
+    "dock",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bluegill"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "campbell-lake",
+   "name": "Campbell Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CAMPBELL LK"
+   ],
+   "lat": 42.56365,
+   "lon": -120.75446,
+   "coord_precision": "water",
+   "acres": 21,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "canby-pond",
+   "name": "Canby Pond",
+   "type": "pond",
+   "odfw_names": [
+    "CANBY PD"
+   ],
+   "lat": 45.25279,
+   "lon": -122.70465,
+   "coord_precision": "water",
+   "acres": 1,
+   "amenities": [
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "crappie",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "cape-meares-lake",
+   "name": "Cape Meares Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CAPE MEARES LK"
+   ],
+   "lat": 45.50421,
+   "lon": -123.94848,
+   "coord_precision": "water",
+   "acres": 65,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "bluegill",
+    "bullhead",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "carter-lake",
+   "name": "Carter Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CARTER LK"
+   ],
+   "lat": 43.85591,
+   "lon": -124.14679,
+   "coord_precision": "water",
+   "acres": 28,
+   "amenities": [
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "chickahominy-reservoir",
+   "name": "Chickahominy Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "CHICKAHOMINY RES"
+   ],
+   "lat": 43.54525,
+   "lon": -119.61425,
+   "coord_precision": "water",
+   "acres": 530,
+   "amenities": [
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "clear-lake",
+   "name": "Clear Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CLEAR LK"
+   ],
+   "lat": 45.1784,
+   "lon": -121.69703,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "cleawox-lake",
+   "name": "Cleawox Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CLEAWOX LK"
+   ],
+   "lat": 43.93181,
+   "lon": -124.11221,
+   "coord_precision": "water",
+   "acres": 87,
+   "amenities": [
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "coffenbury-lake",
+   "name": "Coffenbury Lake",
+   "type": "lake",
+   "odfw_names": [
+    "COFFENBURY LK"
+   ],
+   "lat": 46.1782,
+   "lon": -123.96563,
+   "coord_precision": "water",
+   "acres": 50,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "bullhead",
+    "perch",
+    "steelhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "commonwealth-lake",
+   "name": "Commonwealth Lake",
+   "type": "lake",
+   "odfw_names": [
+    "COMMONWEALTH LK"
+   ],
+   "lat": 45.51122,
+   "lon": -122.80925,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "crappie",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "cooper-creek-reservoir",
+   "name": "Cooper Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "COOPER CR RES"
+   ],
+   "lat": 43.37642,
+   "lon": -123.27518,
+   "coord_precision": "water",
+   "acres": 160,
+   "amenities": [
+    "boat_ramp",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "cottage-grove-reservoir",
+   "name": "Cottage Grove Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "COTTAGE GROVE RES"
+   ],
+   "lat": 43.71557,
+   "lon": -123.06142,
+   "coord_precision": "water",
+   "acres": 1150,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "restroom",
+    "parking"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "catfish",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "cullaby-lake",
+   "name": "Cullaby Lake",
+   "type": "lake",
+   "odfw_names": [
+    "CULLABY LK"
+   ],
+   "lat": 46.08569,
+   "lon": -123.90767,
+   "coord_precision": "water",
+   "acres": 200,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "cutsforth-pond",
+   "name": "Cutsforth Pond",
+   "type": "pond",
+   "odfw_names": [
+    "CUTSFORTH PD"
+   ],
+   "lat": 45.19071,
+   "lon": -119.32364,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [
+    "dock",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "deadhorse-lake",
+   "name": "Deadhorse Lake",
+   "type": "lake",
+   "odfw_names": [
+    "DEADHORSE LK"
+   ],
+   "lat": 42.55689,
+   "lon": -120.77702,
+   "coord_precision": "water",
+   "acres": 31,
+   "amenities": [
+    "accessible",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "detroit-lake",
+   "name": "Detroit Lake",
+   "type": "lake",
+   "odfw_names": [
+    "DETROIT RES"
+   ],
+   "lat": 44.72823,
+   "lon": -122.17617,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping",
+    "boat_ramp",
+    "accessible",
+    "restroom",
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "devil-s-lake",
+   "name": "Devil's Lake",
+   "type": "lake",
+   "odfw_names": [
+    "DEVIL'S LK"
+   ],
+   "lat": 44.97032,
+   "lon": -124.00912,
+   "coord_precision": "water",
+   "acres": 680,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "devils-lake",
+   "name": "Devils Lake",
+   "type": "lake",
+   "odfw_names": [
+    "DEVILS LK"
+   ],
+   "lat": 44.03462,
+   "lon": -121.76475,
+   "coord_precision": "water",
+   "acres": 23,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "dexter-reservoir",
+   "name": "Dexter Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "DEXTER RES"
+   ],
+   "lat": 43.91793,
+   "lon": -122.81316,
+   "coord_precision": "water",
+   "acres": 1025,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "dorena-reservoir",
+   "name": "Dorena Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "DORENA RES"
+   ],
+   "lat": 43.7714,
+   "lon": -122.93547,
+   "coord_precision": "water",
+   "acres": 1840,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "catfish",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "dorman-pond",
+   "name": "Dorman Pond",
+   "type": "pond",
+   "odfw_names": [
+    "DORMAN PD"
+   ],
+   "lat": 45.61331,
+   "lon": -123.24546,
+   "coord_precision": "water",
+   "acres": 8,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "dune-lake",
+   "name": "Dune Lake",
+   "type": "lake",
+   "odfw_names": [
+    "DUNE LK"
+   ],
+   "lat": 44.06678,
+   "lon": -124.10079,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "ee-wilson-pond",
+   "name": "EE Wilson Pond",
+   "type": "pond",
+   "odfw_names": [
+    "EE WILSON PD"
+   ],
+   "lat": 44.70752,
+   "lon": -123.20802,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "east-lake",
+   "name": "East Lake",
+   "type": "lake",
+   "odfw_names": [
+    "EAST LK"
+   ],
+   "lat": 43.73147,
+   "lon": -121.19616,
+   "coord_precision": "water",
+   "acres": 1050,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "eckman-lake",
+   "name": "Eckman Lake",
+   "type": "lake",
+   "odfw_names": [
+    "ECKMAN LK"
+   ],
+   "lat": 44.41538,
+   "lon": -124.03481,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "eel-lake",
+   "name": "Eel Lake",
+   "type": "lake",
+   "odfw_names": [
+    "EEL LK"
+   ],
+   "lat": 43.60409,
+   "lon": -124.17735,
+   "coord_precision": "water",
+   "acres": 355,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth",
+    "smallmouth",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "elbow-lake",
+   "name": "Elbow Lake",
+   "type": "lake",
+   "odfw_names": [
+    "ELBOW LK"
+   ],
+   "lat": 43.78783,
+   "lon": -124.15117,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "emigrant-lake",
+   "name": "Emigrant Lake",
+   "type": "lake",
+   "odfw_names": [
+    "EMIGRANT RES"
+   ],
+   "lat": 42.15961,
+   "lon": -122.617,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "smallmouth",
+    "crappie"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "empire-lakes",
+   "name": "Empire Lakes",
+   "type": "lake",
+   "odfw_names": [
+    "EMPIRE LK, LWR",
+    "EMPIRE LK, UPR"
+   ],
+   "lat": 43.3967,
+   "lon": -124.26296,
+   "coord_precision": "shared_with_sibling",
+   "acres": 120,
+   "amenities": [
+    "boat_ramp",
+    "accessible"
+   ],
+   "species": [
+    "rainbow",
+    "bluegill",
+    "catfish",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "estacada-lake",
+   "name": "Estacada Lake",
+   "type": "lake",
+   "odfw_names": [
+    "ESTACADA LK"
+   ],
+   "lat": 45.29753,
+   "lon": -122.3492,
+   "coord_precision": "water",
+   "acres": 150,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "fall-river",
+   "name": "Fall River",
+   "type": "river",
+   "odfw_names": [
+    "FALL R"
+   ],
+   "lat": 43.63607,
+   "lon": -121.54175,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "faraday-lake",
+   "name": "Faraday Lake",
+   "type": "lake",
+   "odfw_names": [
+    "FARADAY LK"
+   ],
+   "lat": 45.26622,
+   "lon": -122.31331,
+   "coord_precision": "water",
+   "acres": 25,
+   "amenities": [
+    "accessible",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "fish-lake",
+   "name": "Fish Lake",
+   "type": "lake",
+   "odfw_names": [
+    "FISH LK"
+   ],
+   "lat": 42.73869,
+   "lon": -118.64539,
+   "coord_precision": "water",
+   "acres": 20,
+   "amenities": [
+    "camping",
+    "boat_ramp",
+    "accessible"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "floras-lake",
+   "name": "Floras Lake",
+   "type": "lake",
+   "odfw_names": [
+    "FLORAS LK"
+   ],
+   "lat": 42.90168,
+   "lon": -124.50213,
+   "coord_precision": "water",
+   "acres": 250,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "foster-reservoir",
+   "name": "Foster Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "FOSTER RES"
+   ],
+   "lat": 44.4134,
+   "lon": -122.6257,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "parking",
+    "dock",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "fourmile-lake",
+   "name": "Fourmile Lake",
+   "type": "lake",
+   "odfw_names": [
+    "FOURMILE LK"
+   ],
+   "lat": 42.45462,
+   "lon": -122.24753,
+   "coord_precision": "water",
+   "acres": 740,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "freeway-lake-east",
+   "name": "Freeway Lake East",
+   "type": "lake",
+   "odfw_names": [
+    "FREEWAY LK, EAST"
+   ],
+   "lat": 44.59193,
+   "lon": -123.05928,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "frog-lake",
+   "name": "Frog Lake",
+   "type": "lake",
+   "odfw_names": [
+    "FROG LK"
+   ],
+   "lat": 45.21678,
+   "lon": -121.69659,
+   "coord_precision": "water",
+   "acres": 11,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "galesville-reservoir",
+   "name": "Galesville Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "GALESVILLE RES"
+   ],
+   "lat": 42.84929,
+   "lon": -123.15846,
+   "coord_precision": "water",
+   "acres": 630,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat",
+    "kokanee",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "garrison-lake",
+   "name": "Garrison Lake",
+   "type": "lake",
+   "odfw_names": [
+    "GARRISON LK"
+   ],
+   "lat": 42.75571,
+   "lon": -124.5081,
+   "coord_precision": "water",
+   "acres": 134,
+   "amenities": [
+    "boat_ramp",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "grande-ronde-lake",
+   "name": "Grande Ronde Lake",
+   "type": "lake",
+   "odfw_names": [
+    "GRANDE RONDE LK"
+   ],
+   "lat": 44.9771,
+   "lon": -118.24199,
+   "coord_precision": "water",
+   "acres": 10,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "green-peter-reservoir",
+   "name": "Green Peter Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "GREEN PETER RES"
+   ],
+   "lat": 44.48139,
+   "lon": -122.51781,
+   "coord_precision": "water",
+   "acres": 328,
+   "amenities": [
+    "boat_ramp",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "kokanee"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "harriet-lake",
+   "name": "Harriet Lake",
+   "type": "lake",
+   "odfw_names": [
+    "HARRIET LK"
+   ],
+   "lat": 45.07219,
+   "lon": -121.95923,
+   "coord_precision": "water",
+   "acres": 23,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "hat-rock-pond",
+   "name": "Hat Rock Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HAT ROCK PD"
+   ],
+   "lat": 45.91521,
+   "lon": -119.17248,
+   "coord_precision": "water",
+   "acres": 6,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "heart-lake",
+   "name": "Heart Lake",
+   "type": "lake",
+   "odfw_names": [
+    "HEART LK"
+   ],
+   "lat": 42.25526,
+   "lon": -120.83886,
+   "coord_precision": "water",
+   "acres": 19,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "kokanee",
+    "catfish",
+    "bullhead",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "hebo-lake",
+   "name": "Hebo Lake",
+   "type": "lake",
+   "odfw_names": [
+    "HEBO LK"
+   ],
+   "lat": 45.23132,
+   "lon": -123.79716,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible",
+    "restroom",
+    "camping",
+    "bank_access",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "hemlock-lake",
+   "name": "Hemlock Lake",
+   "type": "lake",
+   "odfw_names": [
+    "HEMLOCK LK (HEMLOCK MEADOW RES)"
+   ],
+   "lat": 43.1883,
+   "lon": -122.69807,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "henry-hagg-lake",
+   "name": "Henry Hagg Lake",
+   "type": "lake",
+   "odfw_names": [
+    "HENRY HAGG LK"
+   ],
+   "lat": 45.48433,
+   "lon": -123.20987,
+   "coord_precision": "water",
+   "acres": 1110,
+   "amenities": [
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat",
+    "largemouth",
+    "smallmouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "highway-203-pond",
+   "name": "Highway 203 Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HIGHWAY 203 PD"
+   ],
+   "lat": 44.86084,
+   "lon": -117.81352,
+   "coord_precision": "water",
+   "acres": 10,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "holbrook-reservoir",
+   "name": "Holbrook Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "HOLBROOK RES"
+   ],
+   "lat": 42.26557,
+   "lon": -120.85319,
+   "coord_precision": "water",
+   "acres": 40,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "honeymoon-pond",
+   "name": "Honeymoon Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HONEYMOON PD"
+   ],
+   "lat": 45.81199,
+   "lon": -116.9432,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "hosmer-lake",
+   "name": "Hosmer Lake",
+   "type": "lake",
+   "odfw_names": [
+    "HOSMER LK"
+   ],
+   "lat": 43.96348,
+   "lon": -121.78559,
+   "coord_precision": "water",
+   "acres": 112,
+   "amenities": [
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "brook",
+    "cutthroat"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "howard-prairie-reservoir",
+   "name": "Howard Prairie Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "HOWARD PRAIRIE RES"
+   ],
+   "lat": 42.24013,
+   "lon": -122.41051,
+   "coord_precision": "water",
+   "acres": 1990,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "huddleston-pond",
+   "name": "Huddleston Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HUDDLESTON PD (FMR HAMPTON PD)"
+   ],
+   "lat": 45.07932,
+   "lon": -123.47831,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [
+    "accessible",
+    "restroom",
+    "parking",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "hunter-pond",
+   "name": "Hunter Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HUNTER PD (STARKEY FOREST PDS)"
+   ],
+   "lat": 45.15097,
+   "lon": -118.54442,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "hyatt-reservoir",
+   "name": "Hyatt Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "HYATT RES"
+   ],
+   "lat": 42.17314,
+   "lon": -122.46829,
+   "coord_precision": "water",
+   "acres": 950,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "jubilee-lake",
+   "name": "Jubilee Lake",
+   "type": "lake",
+   "odfw_names": [
+    "JUBILEE LK"
+   ],
+   "lat": 45.83086,
+   "lon": -117.9654,
+   "coord_precision": "water",
+   "acres": 97,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "camping",
+    "bank_access",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "junction-city-pond",
+   "name": "Junction City Pond",
+   "type": "pond",
+   "odfw_names": [
+    "JUNCTION CITY PD"
+   ],
+   "lat": 44.18039,
+   "lon": -123.20418,
+   "coord_precision": "water",
+   "acres": 8,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "kingsley-reservoir",
+   "name": "Kingsley Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "KINGSLEY RES, UPR"
+   ],
+   "lat": 45.64114,
+   "lon": -121.67391,
+   "coord_precision": "water",
+   "acres": 60,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "kinney-lake",
+   "name": "Kinney Lake",
+   "type": "lake",
+   "odfw_names": [
+    "KINNEY LK"
+   ],
+   "lat": 45.31383,
+   "lon": -117.10233,
+   "coord_precision": "water",
+   "acres": 20,
+   "amenities": [
+    "camping",
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "krumbo-reservoir",
+   "name": "Krumbo Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "KRUMBO RES"
+   ],
+   "lat": 42.951,
+   "lon": -118.80723,
+   "coord_precision": "water",
+   "acres": 150,
+   "amenities": [
+    "dock",
+    "accessible"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lake-lytle",
+   "name": "Lake Lytle",
+   "type": "lake",
+   "odfw_names": [
+    "LYTLE LK"
+   ],
+   "lat": 45.62739,
+   "lon": -123.9387,
+   "coord_precision": "water",
+   "acres": 65,
+   "amenities": [
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "perch",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lake-marie",
+   "name": "Lake Marie",
+   "type": "lake",
+   "odfw_names": [
+    "LAKE MARIE"
+   ],
+   "lat": 43.66011,
+   "lon": -124.19286,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lake-selmac",
+   "name": "Lake Selmac",
+   "type": "lake",
+   "odfw_names": [
+    "SELMAC LK"
+   ],
+   "lat": 42.25863,
+   "lon": -123.57811,
+   "coord_precision": "water",
+   "acres": 160,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lake-in-the-woods",
+   "name": "Lake in the Woods",
+   "type": "lake",
+   "odfw_names": [
+    "LAKE IN THE WOODS"
+   ],
+   "lat": 43.21707,
+   "lon": -122.72521,
+   "coord_precision": "water",
+   "acres": 4,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lake-of-the-woods",
+   "name": "Lake of the Woods",
+   "type": "lake",
+   "odfw_names": [
+    "LAKE OF THE WOODS"
+   ],
+   "lat": 44.58829,
+   "lon": -121.83852,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook",
+    "brown",
+    "kokanee",
+    "largemouth",
+    "smallmouth",
+    "crappie",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "laurance-lake",
+   "name": "Laurance Lake",
+   "type": "lake",
+   "odfw_names": [
+    "LAURANCE LK"
+   ],
+   "lat": 45.45999,
+   "lon": -121.65738,
+   "coord_precision": "water",
+   "acres": 104,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "leaburg-lake",
+   "name": "Leaburg Lake",
+   "type": "lake",
+   "odfw_names": [
+    "LEABURG LK"
+   ],
+   "lat": 44.13947,
+   "lon": -122.60931,
+   "coord_precision": "water",
+   "acres": 55,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lemolo-reservoir",
+   "name": "Lemolo Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "LEMOLO RES"
+   ],
+   "lat": 43.31437,
+   "lon": -122.19346,
+   "coord_precision": "water",
+   "acres": 415,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lofton-reservoir",
+   "name": "Lofton Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "LOFTON RES"
+   ],
+   "lat": 42.26088,
+   "lon": -120.81856,
+   "coord_precision": "water",
+   "acres": 42,
+   "amenities": [
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "long-creek-reservoir",
+   "name": "Long Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "LONG CREEK PD"
+   ],
+   "lat": 44.35914,
+   "lon": -118.15985,
+   "coord_precision": "water",
+   "acres": 8,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "loon-lake",
+   "name": "Loon Lake",
+   "type": "lake",
+   "odfw_names": [
+    "LOON LK"
+   ],
+   "lat": 43.59637,
+   "lon": -123.84708,
+   "coord_precision": "water",
+   "acres": 294,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "loren-s-pond",
+   "name": "Loren's Pond",
+   "type": "pond",
+   "odfw_names": [
+    "LOREN'S PD"
+   ],
+   "lat": 45.43462,
+   "lon": -123.73846,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "lost-creek-reservoir",
+   "name": "Lost Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "LOST CREEK RES"
+   ],
+   "lat": 42.68417,
+   "lon": -122.61976,
+   "coord_precision": "water",
+   "acres": 3500,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat",
+    "largemouth",
+    "smallmouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "luger-pond",
+   "name": "Luger Pond",
+   "type": "pond",
+   "odfw_names": [
+    "LUGER PD"
+   ],
+   "lat": 45.77011,
+   "lon": -117.95771,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "magone-lake",
+   "name": "Magone Lake",
+   "type": "lake",
+   "odfw_names": [
+    "MAGONE LK"
+   ],
+   "lat": 44.54911,
+   "lon": -118.91272,
+   "coord_precision": "water",
+   "acres": 50,
+   "amenities": [
+    "dock",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "marr-pond",
+   "name": "Marr Pond",
+   "type": "pond",
+   "odfw_names": [
+    "MARR PD"
+   ],
+   "lat": 45.42046,
+   "lon": -117.29287,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "mcgraw-pond",
+   "name": "McGraw Pond",
+   "type": "pond",
+   "odfw_names": [
+    "MCGRAW PD"
+   ],
+   "lat": 45.16662,
+   "lon": -116.84074,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "medco-pond",
+   "name": "Medco Pond",
+   "type": "pond",
+   "odfw_names": [
+    "MEDCO PD"
+   ],
+   "lat": 42.65599,
+   "lon": -122.43812,
+   "coord_precision": "water",
+   "acres": 25,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "mercer-lake",
+   "name": "Mercer Lake",
+   "type": "lake",
+   "odfw_names": [
+    "MERCER LK"
+   ],
+   "lat": 44.04978,
+   "lon": -124.05839,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bluegill",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "miller-lake",
+   "name": "Miller Lake",
+   "type": "lake",
+   "odfw_names": [
+    "MILLER LK"
+   ],
+   "lat": 43.22706,
+   "lon": -121.9665,
+   "coord_precision": "water",
+   "acres": 600,
+   "amenities": [
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook",
+    "brown",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "morgan-lake",
+   "name": "Morgan Lake",
+   "type": "lake",
+   "odfw_names": [
+    "MORGAN LK"
+   ],
+   "lat": 45.30241,
+   "lon": -118.13762,
+   "coord_precision": "water",
+   "acres": 60,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "crappie"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "mt-hood-pond",
+   "name": "Mt. Hood Pond",
+   "type": "pond",
+   "odfw_names": [
+    "MT HOOD PD (MHCC CAMPUS)"
+   ],
+   "lat": 45.51329,
+   "lon": -122.39774,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "munsel-lake",
+   "name": "Munsel Lake",
+   "type": "lake",
+   "odfw_names": [
+    "MUNSEL LK"
+   ],
+   "lat": 44.00627,
+   "lon": -124.08807,
+   "coord_precision": "water",
+   "acres": 104,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth",
+    "bluegill",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "murray-reservoir",
+   "name": "Murray Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "MURRAY RES (FMR HARDY MURRAY RES)"
+   ],
+   "lat": 44.35354,
+   "lon": -118.10583,
+   "coord_precision": "water",
+   "acres": 45,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "nedonna-pond",
+   "name": "Nedonna Pond",
+   "type": "pond",
+   "odfw_names": [
+    "NEDONNA PD"
+   ],
+   "lat": 45.64376,
+   "lon": -123.93872,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "north-fork-reservoir",
+   "name": "North Fork Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "NORTH FORK RES"
+   ],
+   "lat": 45.23794,
+   "lon": -122.25856,
+   "coord_precision": "water",
+   "acres": 350,
+   "amenities": [
+    "dock",
+    "accessible",
+    "parking",
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "north-lake",
+   "name": "North Lake",
+   "type": "lake",
+   "odfw_names": [
+    "NORTH LK"
+   ],
+   "lat": 45.21521,
+   "lon": -123.7203,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "ochoco-reservoir",
+   "name": "Ochoco Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "OCHOCO RES"
+   ],
+   "lat": 43.84245,
+   "lon": -120.57495,
+   "coord_precision": "water",
+   "acres": 1100,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "smallmouth",
+    "crappie",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "olalla-creek-reservoir",
+   "name": "Olalla Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "OLALLA CR RES"
+   ],
+   "lat": 44.68129,
+   "lon": -123.92825,
+   "coord_precision": "water",
+   "acres": 120,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "cutthroat"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "olallie-lake",
+   "name": "Olallie Lake",
+   "type": "lake",
+   "odfw_names": [
+    "OLALLIE LK"
+   ],
+   "lat": 44.85198,
+   "lon": -121.745,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "paulina-lake",
+   "name": "Paulina Lake",
+   "type": "lake",
+   "odfw_names": [
+    "PAULINA LK"
+   ],
+   "lat": 43.71278,
+   "lon": -121.27331,
+   "coord_precision": "water",
+   "acres": 1520,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "penland-lake",
+   "name": "Penland Lake",
+   "type": "lake",
+   "odfw_names": [
+    "PENLAND LK"
+   ],
+   "lat": 45.12087,
+   "lon": -119.31582,
+   "coord_precision": "water",
+   "acres": 67,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "bank_access",
+    "no_motors"
+   ],
+   "species": [],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "perkins-lake",
+   "name": "Perkins Lake",
+   "type": "lake",
+   "odfw_names": [
+    "PERKINS LK"
+   ],
+   "lat": 43.82635,
+   "lon": -124.14934,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "pilcher-creek-reservoir",
+   "name": "Pilcher Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "PILCHER CREEK RES"
+   ],
+   "lat": 45.04067,
+   "lon": -118.07799,
+   "coord_precision": "water",
+   "acres": 140,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "crappie",
+    "catfish",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "pine-hollow-reservoir",
+   "name": "Pine Hollow Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "PINE HOLLOW RES"
+   ],
+   "lat": 45.24235,
+   "lon": -121.29219,
+   "coord_precision": "water",
+   "acres": 240,
+   "amenities": [
+    "boat_ramp",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "plat-i-reservoir",
+   "name": "Plat I Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "PLAT I RES"
+   ],
+   "lat": 43.39578,
+   "lon": -123.25202,
+   "coord_precision": "water",
+   "acres": 155,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "poison-creek-reservoir",
+   "name": "Poison Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "POISON CREEK RES."
+   ],
+   "lat": 44.01313,
+   "lon": -118.91477,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "powers-pond",
+   "name": "Powers Pond",
+   "type": "pond",
+   "odfw_names": [
+    "POWERS PD"
+   ],
+   "lat": 42.89236,
+   "lon": -124.07744,
+   "coord_precision": "water",
+   "acres": 23,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "priday-reservoir",
+   "name": "Priday Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "PRIDAY RES"
+   ],
+   "lat": 42.34047,
+   "lon": -119.90242,
+   "coord_precision": "water",
+   "acres": 210,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "crappie",
+    "catfish",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "progress-lake",
+   "name": "Progress Lake",
+   "type": "lake",
+   "odfw_names": [
+    "PROGRESS LK"
+   ],
+   "lat": 45.42897,
+   "lon": -122.83179,
+   "coord_precision": "water",
+   "acres": 10,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "quartzville-creek",
+   "name": "Quartzville Creek",
+   "type": "river",
+   "odfw_names": [
+    "QUARTZVILLE CR"
+   ],
+   "lat": 44.57644,
+   "lon": -122.3212,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "red-top-pond",
+   "name": "Red Top Pond",
+   "type": "pond",
+   "odfw_names": [
+    "RED TOP LK"
+   ],
+   "lat": 43.08038,
+   "lon": -122.95609,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "reinhart-pond",
+   "name": "Reinhart Pond",
+   "type": "pond",
+   "odfw_names": [
+    "REINHART PARK PD"
+   ],
+   "lat": 42.42956,
+   "lon": -123.34862,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "roaring-river-park-pond",
+   "name": "Roaring River Park Pond",
+   "type": "river",
+   "odfw_names": [
+    "ROARING RVR PARK PD"
+   ],
+   "lat": 44.62448,
+   "lon": -122.71712,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [],
+   "species": [],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "rock-creek-reservoir",
+   "name": "Rock Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "ROCK CREEK RES"
+   ],
+   "lat": 45.22044,
+   "lon": -121.39111,
+   "coord_precision": "water",
+   "acres": 100,
+   "amenities": [
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "rogue-river-above-lost-creek",
+   "name": "Rogue River above Lost Creek",
+   "type": "river",
+   "odfw_names": [
+    "ROGUE R above Lost Creek"
+   ],
+   "lat": 42.90539,
+   "lon": -122.46104,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook",
+    "brown",
+    "cutthroat"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "roulet-pond",
+   "name": "Roulet Pond",
+   "type": "pond",
+   "odfw_names": [
+    "ROULET PD"
+   ],
+   "lat": 45.58822,
+   "lon": -117.86147,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "salish-pond-west",
+   "name": "Salish Pond West",
+   "type": "pond",
+   "odfw_names": [
+    "SALISH PD, W"
+   ],
+   "lat": 45.52983,
+   "lon": -122.44971,
+   "coord_precision": "water",
+   "acres": 70,
+   "amenities": [
+    "dock",
+    "accessible",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "crappie",
+    "catfish"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "salmonberry-lake",
+   "name": "Salmonberry Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SALMONBERRY LK"
+   ],
+   "lat": 45.88768,
+   "lon": -122.93555,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "salt-creek-summit-pond",
+   "name": "Salt Creek Summit Pond",
+   "type": "river",
+   "odfw_names": [
+    "SALT CR SUMMIT PD"
+   ],
+   "lat": 45.20946,
+   "lon": -117.06371,
+   "coord_precision": "access_point",
+   "acres": null,
+   "amenities": [
+    "accessible"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "saunders-lake",
+   "name": "Saunders Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SAUNDERS LK"
+   ],
+   "lat": 43.53408,
+   "lon": -124.21962,
+   "coord_precision": "water",
+   "acres": 55,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "sheridan-pond",
+   "name": "Sheridan Pond",
+   "type": "pond",
+   "odfw_names": [
+    "SHERIDAN PD"
+   ],
+   "lat": 45.0876,
+   "lon": -123.39152,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [
+    "restroom",
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "shevlin-pond",
+   "name": "Shevlin Pond",
+   "type": "pond",
+   "odfw_names": [
+    "SHEVLIN PD"
+   ],
+   "lat": 44.67256,
+   "lon": -121.30554,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "dock",
+    "accessible",
+    "restroom",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "siltcoos-lake",
+   "name": "Siltcoos Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SILTCOOS LK"
+   ],
+   "lat": 43.87692,
+   "lon": -124.09023,
+   "coord_precision": "water",
+   "acres": 3164,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "silver-creek-reservoir",
+   "name": "Silver Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "SILVER CR RES"
+   ],
+   "lat": 44.98329,
+   "lon": -122.74574,
+   "coord_precision": "water",
+   "acres": 65,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "catfish"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "small-fry-lake",
+   "name": "Small Fry Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SMALL FRY LK"
+   ],
+   "lat": 45.22195,
+   "lon": -122.24288,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible",
+    "restroom"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "smith-lake",
+   "name": "Smith Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SMITH LK"
+   ],
+   "lat": 45.57845,
+   "lon": -123.94949,
+   "coord_precision": "water",
+   "acres": 35,
+   "amenities": [
+    "dock",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bluegill",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "south-lake",
+   "name": "South Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SOUTH LK"
+   ],
+   "lat": 45.2026,
+   "lon": -123.7215,
+   "coord_precision": "water",
+   "acres": 5,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "spalding-pond",
+   "name": "Spalding Pond",
+   "type": "pond",
+   "odfw_names": [
+    "SPALDING PD"
+   ],
+   "lat": 42.3467,
+   "lon": -123.704,
+   "coord_precision": "water",
+   "acres": 3,
+   "amenities": [
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "spring-lake",
+   "name": "Spring Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SPRING LK"
+   ],
+   "lat": 45.59563,
+   "lon": -123.94527,
+   "coord_precision": "water",
+   "acres": 13,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "st-louis-ponds",
+   "name": "St. Louis Ponds",
+   "type": "pond",
+   "odfw_names": [
+    "ST LOUIS PD"
+   ],
+   "lat": 45.11316,
+   "lon": -122.93195,
+   "coord_precision": "water",
+   "acres": 240,
+   "amenities": [
+    "accessible",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "catfish",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "sunnyside-pond",
+   "name": "Sunnyside Pond",
+   "type": "pond",
+   "odfw_names": [
+    "SUNNYSIDE PARK PD"
+   ],
+   "lat": 44.4283,
+   "lon": -122.60908,
+   "coord_precision": "water",
+   "acres": 8,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "crappie",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "sunset-lake",
+   "name": "Sunset Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SUNSET LK (N COAST RANGE)"
+   ],
+   "lat": 46.10097,
+   "lon": -123.92959,
+   "coord_precision": "water",
+   "acres": 107,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "bank_access",
+    "parking"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "sutton-lake",
+   "name": "Sutton Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SUTTON LK"
+   ],
+   "lat": 44.05882,
+   "lon": -124.09234,
+   "coord_precision": "water",
+   "acres": 107,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "tahoe-lake",
+   "name": "Tahoe Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TAHOE LK"
+   ],
+   "lat": 45.35006,
+   "lon": -123.60095,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "accessible",
+    "restroom",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "taylor-lake",
+   "name": "Taylor Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TAYLOR LK"
+   ],
+   "lat": 45.6412,
+   "lon": -121.20692,
+   "coord_precision": "water",
+   "acres": 35,
+   "amenities": [
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "crappie"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "tenmile-lake",
+   "name": "Tenmile Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TENMILE LK, N",
+    "TENMILE LK, S"
+   ],
+   "lat": 43.57193,
+   "lon": -124.16688,
+   "coord_precision": "shared_with_sibling",
+   "acres": 2723,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "thief-valley-reservoir",
+   "name": "Thief Valley Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "THIEF VALLEY RES"
+   ],
+   "lat": 45.02572,
+   "lon": -117.78889,
+   "coord_precision": "water",
+   "acres": 685,
+   "amenities": [
+    "boat_ramp",
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "catfish",
+    "bullhead",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "thissel-pond",
+   "name": "Thissel Pond",
+   "type": "pond",
+   "odfw_names": [
+    "THISSEL PD"
+   ],
+   "lat": 44.39998,
+   "lon": -123.74995,
+   "coord_precision": "water",
+   "acres": 3,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "thompson-valley-reservoir",
+   "name": "Thompson Valley Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "THOMPSON (VALLEY) RES"
+   ],
+   "lat": 42.94361,
+   "lon": -121.06625,
+   "coord_precision": "water",
+   "acres": 2500,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "three-creeks-lake",
+   "name": "Three Creeks Lake",
+   "type": "lake",
+   "odfw_names": [
+    "THREE CREEKS LK"
+   ],
+   "lat": 44.09609,
+   "lon": -121.62468,
+   "coord_precision": "water",
+   "acres": 28,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "timber-linn-lake",
+   "name": "Timber Linn Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TIMBER LINN LK"
+   ],
+   "lat": 44.63832,
+   "lon": -123.05611,
+   "coord_precision": "water",
+   "acres": 11,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "timothy-lake",
+   "name": "Timothy Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TIMOTHY LK"
+   ],
+   "lat": 45.11363,
+   "lon": -121.77358,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook",
+    "cutthroat",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "town-lake",
+   "name": "Town Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TOWN LK"
+   ],
+   "lat": 45.22455,
+   "lon": -123.95599,
+   "coord_precision": "water",
+   "acres": 9,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "trillium-lake",
+   "name": "Trillium Lake",
+   "type": "lake",
+   "odfw_names": [
+    "TRILLIUM LK"
+   ],
+   "lat": 45.27084,
+   "lon": -121.73684,
+   "coord_precision": "water",
+   "acres": 60,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "camping"
+   ],
+   "species": [],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "trojan-pond",
+   "name": "Trojan Pond",
+   "type": "pond",
+   "odfw_names": [
+    "TROJAN RECREATION LK"
+   ],
+   "lat": 46.03652,
+   "lon": -122.89071,
+   "coord_precision": "water",
+   "acres": 15,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "trout-farm-pond",
+   "name": "Trout Farm Pond",
+   "type": "pond",
+   "odfw_names": [
+    "TROUT FARM PD"
+   ],
+   "lat": 44.30538,
+   "lon": -118.55265,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "twin-lake-north",
+   "name": "Twin Lake North",
+   "type": "lake",
+   "odfw_names": [
+    "TWIN LK, N"
+   ],
+   "lat": 43.73166,
+   "lon": -121.76379,
+   "coord_precision": "water",
+   "acres": 130,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "twin-lake-south",
+   "name": "Twin Lake South",
+   "type": "lake",
+   "odfw_names": [
+    "TWIN LK, S"
+   ],
+   "lat": 43.71481,
+   "lon": -121.77216,
+   "coord_precision": "water",
+   "acres": 99,
+   "amenities": [
+    "camping",
+    "bank_access",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "twin-lakes",
+   "name": "Twin Lakes",
+   "type": "lake",
+   "odfw_names": [
+    "TWIN LK"
+   ],
+   "lat": 43.22955,
+   "lon": -122.58962,
+   "coord_precision": "water",
+   "acres": 12,
+   "amenities": [
+    "camping",
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow",
+    "brook"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "twin-ponds",
+   "name": "Twin Ponds",
+   "type": "pond",
+   "odfw_names": [
+    "TWIN PDS"
+   ],
+   "lat": 45.07847,
+   "lon": -118.89391,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "vernonia-pond",
+   "name": "Vernonia Pond",
+   "type": "pond",
+   "odfw_names": [
+    "VERNONIA LK"
+   ],
+   "lat": 45.85711,
+   "lon": -123.17322,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "restroom",
+    "camping",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "bullhead",
+    "steelhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "victor-pond",
+   "name": "Victor Pond",
+   "type": "pond",
+   "odfw_names": [
+    "VICTOR PD"
+   ],
+   "lat": 45.59407,
+   "lon": -117.55401,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "wallowa-lake",
+   "name": "Wallowa Lake",
+   "type": "lake",
+   "odfw_names": [
+    "WALLOWA LK"
+   ],
+   "lat": 45.33454,
+   "lon": -117.21828,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "wallowa-wildlife-pond",
+   "name": "Wallowa Wildlife Pond",
+   "type": "pond",
+   "odfw_names": [
+    "WALLOWA WLDLIFE PD (WEAVRS PD)"
+   ],
+   "lat": 45.5956,
+   "lon": -117.57595,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "walter-wirth-lake",
+   "name": "Walter Wirth Lake",
+   "type": "lake",
+   "odfw_names": [
+    "WALTER WIRTH LK"
+   ],
+   "lat": 44.91,
+   "lon": -122.99,
+   "coord_precision": "water",
+   "acres": 20,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "bluegill",
+    "catfish",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "walton-lake",
+   "name": "Walton Lake",
+   "type": "lake",
+   "odfw_names": [
+    "WALTON LK"
+   ],
+   "lat": 44.43308,
+   "lon": -120.33694,
+   "coord_precision": "water",
+   "acres": 19,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "camping",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "waverly-lake",
+   "name": "Waverly Lake",
+   "type": "lake",
+   "odfw_names": [
+    "WAVERLY LK"
+   ],
+   "lat": 44.64038,
+   "lon": -123.06966,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "dock",
+    "restroom",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "largemouth",
+    "crappie",
+    "catfish"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "willow-creek-reservoir",
+   "name": "Willow Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "WILLOW CREEK RES"
+   ],
+   "lat": 45.34299,
+   "lon": -119.53998,
+   "coord_precision": "water",
+   "acres": 125,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "restroom",
+    "parking"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "smallmouth",
+    "crappie",
+    "bullhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "willow-lake",
+   "name": "Willow Lake",
+   "type": "lake",
+   "odfw_names": [
+    "WILLOW LK (former Willow Cr Res)"
+   ],
+   "lat": 42.46939,
+   "lon": -122.45789,
+   "coord_precision": "water",
+   "acres": 927,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "cutthroat",
+    "kokanee",
+    "largemouth",
+    "crappie",
+    "bullhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "woahink-lake",
+   "name": "Woahink Lake",
+   "type": "lake",
+   "odfw_names": [
+    "WOAHINK LK"
+   ],
+   "lat": 43.91657,
+   "lon": -124.10088,
+   "coord_precision": "water",
+   "acres": 820,
+   "amenities": [
+    "boat_ramp",
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "largemouth",
+    "perch"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "wolf-creek-reservoir",
+   "name": "Wolf Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "WOLF CREEK RES"
+   ],
+   "lat": 45.06394,
+   "lon": -118.0335,
+   "coord_precision": "water",
+   "acres": 230,
+   "amenities": [
+    "boat_ramp",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "crappie"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "yellow-jacket-pond",
+   "name": "Yellow Jacket Pond",
+   "type": "pond",
+   "odfw_names": [
+    "YELLOW JACKET LK"
+   ],
+   "lat": 45.22364,
+   "lon": -118.88443,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  }
+ ]
+}
