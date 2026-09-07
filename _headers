@@ -1,17 +1,17 @@
-# waters.json changes rarely (curated by hand) -- cache it longer.
 /waters.json
   Cache-Control: public, max-age=3600
-  Access-Control-Allow-Origin: *
 
-# stockings.json is rebuilt twice a week -- keep it short so a fresh capture
-# is not hidden behind a stale edge cache.
 /stockings.json
   Cache-Control: public, max-age=900
-  Access-Control-Allow-Origin: *
 
 /status.json
   Cache-Control: public, max-age=300
-  Access-Control-Allow-Origin: *
+
+/quarantine.json
+  Cache-Control: public, max-age=3600
+
+/unmatched.json
+  Cache-Control: public, max-age=900
 
 /*.json
   Access-Control-Allow-Origin: *
