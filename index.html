@@ -1,0 +1,27 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Oregon Trout Stocking — data</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+ :root{color-scheme:light dark}
+ body{font:16px/1.6 -apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+      max-width:44rem;margin:3rem auto;padding:0 1.25rem}
+ h1{font-size:1.4rem;margin-bottom:.25rem}
+ p.sub{margin-top:0;opacity:.7}
+ code{background:rgba(128,128,128,.15);padding:.1em .35em;border-radius:4px}
+ li{margin:.4rem 0}
+ .note{border-left:3px solid rgba(128,128,128,.4);padding-left:1rem;opacity:.85}
+</style>
+<h1>Oregon Trout Stocking</h1>
+<p class="sub">Static data endpoint. Rebuilt from ODFW twice weekly.</p>
+<ul>
+  <li><a href="/waters.json">waters.json</a> — stocked waters: coordinates, amenities, species, acreage</li>
+  <li><a href="/stockings.json">stockings.json</a> — <strong>planned</strong> stockings by water</li>
+  <li><a href="/status.json">status.json</a> — freshness heartbeat</li>
+  <li><a href="/quarantine.json">quarantine.json</a> — waters held back, with reasons</li>
+</ul>
+<p class="note">The schedule is intent, not a receipt. ODFW publishes the
+<em>week</em> a water is scheduled, not the day, and fish are sometimes diverted.
+Confirmed stockings come from the zone reports and carry their own date.</p>
+<p class="note">Source: Oregon Department of Fish &amp; Wildlife. Every value
+here traces to a government publication.</p>
