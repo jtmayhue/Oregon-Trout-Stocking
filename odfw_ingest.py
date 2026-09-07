@@ -174,11 +174,11 @@ def fetch_schedule(start: str, end: str) -> list[dict]:
                 page_rows.append(dict(zip(headers, cells)))
 
         if not page_rows:
-            break                                   # past the last page
+            break                     # an EMPTY page is the only reliable end
         rows.extend(page_rows)
         print(f"  page {page}: {len(page_rows)} rows")
-        if len(page_rows) < PAGE_SIZE:
-            break                                   # short page == last page
+        # Do NOT stop on a short page. ODFW returns short pages mid-run and
+        # breaking there silently truncates the rest of the year.
         time.sleep(0.4)                             # be polite
 
     # ODFW repeats rows across page boundaries. Dedupe on the whole row.
@@ -191,7 +191,48 @@ def fetch_schedule(start: str, end: str) -> list[dict]:
         deduped.append(row)
     if len(deduped) != len(rows):
         print(f"  dropped {len(rows) - len(deduped)} duplicate rows")
+
+    _check_coverage(deduped, start, end)
     return deduped
+
+
+_MONTHS = {m: i for i, m in enumerate(
+    ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'], 1)}
+
+
+def _check_coverage(rows, start, end):
+    """Fail loudly when the returned range is narrower than the one requested.
+
+    This is the Timothy Lake bug generalised. A partial pull looks exactly like
+    a successful one -- same shape, no error, just fewer waters -- and the waters
+    it drops are the out-of-season ones a user is most likely to be following.
+    """
+    dates = []
+    for r in rows:
+        v = next((v for k, v in r.items() if 'week' in k.lower()), '')
+        m = re.search(r'([A-Za-z]{3})\w*\.?\s+(\d{1,2}),\s*(\d{4})', v or '')
+        if m and m.group(1) in _MONTHS:
+            dates.append(f"{m.group(3)}-{_MONTHS[m.group(1)]:02d}-{int(m.group(2)):02d}")
+    if not dates:
+        print("  WARNING: no parseable week dates -- check the table format.")
+        return
+    lo, hi = min(dates), max(dates)
+    print(f"  coverage: {lo} .. {hi}  (requested {start} .. {end})")
+
+    def days(a, b):
+        from datetime import date
+        f = lambda s: date(*map(int, s.split('-')))
+        return (f(b) - f(a)).days
+
+    gap_start, gap_end = days(start, lo), days(hi, end)
+    if gap_start > 45 or gap_end > 45:
+        print("  " + "!" * 68)
+        print(f"  PARTIAL YEAR. Missing ~{max(gap_start,0)}d at the start and "
+              f"~{max(gap_end,0)}d at the end.")
+        print("  Waters stocked only outside this window are MISSING, and the")
+        print("  output will look normal. Do not publish this as a full year.")
+        print("  Re-run; if it persists, ODFW is ignoring the date parameters.")
+        print("  " + "!" * 68)
 
 
 def main():
