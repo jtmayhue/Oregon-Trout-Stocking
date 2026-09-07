@@ -1,7 +1,7 @@
 {
  "generated": "2026-09-07",
  "source": "ODFW trout stocking maps + weekly stocking schedule",
- "water_count": 176,
+ "water_count": 183,
  "waters": [
   {
    "id": "aldrich-ponds",
@@ -476,6 +476,24 @@
     "brook"
    ],
    "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "bully-creek-reservoir",
+   "name": "Bully Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "BULLY CREEK RES"
+   ],
+   "lat": 44.02319,
+   "lon": -117.40265,
+   "coord_precision": "water",
+   "acres": 1001,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -958,6 +976,28 @@
     "rainbow"
    ],
    "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "duncan-reservoir",
+   "name": "Duncan Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "DUNCAN RES"
+   ],
+   "lat": 43.07111,
+   "lon": -120.94364,
+   "coord_precision": "water",
+   "acres": 33,
+   "amenities": [
+    "boat_ramp",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -2052,6 +2092,26 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "little-hyatt-reservoir",
+   "name": "Little Hyatt Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "HYATT RES, LITTLE"
+   ],
+   "lat": 42.15947,
+   "lon": -122.48595,
+   "coord_precision": "water",
+   "acres": 7,
+   "amenities": [
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "lofton-reservoir",
    "name": "Lofton Reservoir",
    "type": "reservoir",
@@ -2532,6 +2592,31 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "olive-lake",
+   "name": "Olive Lake",
+   "type": "lake",
+   "odfw_names": [
+    "OLIVE LK"
+   ],
+   "lat": 44.78329,
+   "lon": -118.59881,
+   "coord_precision": "water",
+   "acres": 160,
+   "amenities": [
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "restroom",
+    "camping"
+   ],
+   "species": [
+    "brook",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "paulina-lake",
    "name": "Paulina Lake",
    "type": "lake",
@@ -2889,6 +2974,26 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "rowe-creek-reservoir",
+   "name": "Rowe Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "ROWE CREEK RES"
+   ],
+   "lat": 44.8048,
+   "lon": -120.17414,
+   "coord_precision": "water",
+   "acres": 20,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "salish-pond-west",
    "name": "Salish Pond West",
    "type": "pond",
@@ -3169,6 +3274,26 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "sru-lake",
+   "name": "Sru Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SRU LK (formerly USFS Lk)"
+   ],
+   "lat": 42.73187,
+   "lon": -124.00588,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "st-louis-ponds",
    "name": "St. Louis Ponds",
    "type": "pond",
@@ -3286,6 +3411,24 @@
    "species": [
     "rainbow",
     "steelhead"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "tatone-pond",
+   "name": "Tatone Pond",
+   "type": "pond",
+   "odfw_names": [
+    "TATONE PD"
+   ],
+   "lat": 45.83358,
+   "lon": -119.79228,
+   "coord_precision": "water",
+   "acres": 1,
+   "amenities": [],
+   "species": [
+    "rainbow"
    ],
    "has_camping": false,
    "source": "ODFW trout stocking maps"
