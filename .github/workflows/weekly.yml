@@ -2,11 +2,16 @@ name: Weekly ODFW capture
 
 on:
   schedule:
-    - cron: '0 14 * * 1'      # Mondays 14:00 UTC = 7am Pacific
-  workflow_dispatch:           # lets you run it by hand from the Actions tab
+    # :17 past the hour, never :00 -- GitHub documents delays at the top of
+    # every hour, and scheduled runs can be dropped entirely under load.
+    - cron: '17 14 * * 1'      # Monday  14:17 UTC = 7:17am Pacific
+    - cron: '17 14 * * 4'      # Thursday, same time -- insurance against a
+                               # skipped Monday. Zone reports update weekly,
+                               # so Thursday still catches that week's content.
+  workflow_dispatch:
 
 permissions:
-  contents: write              # needed to commit the captured data back
+  contents: write
 
 jobs:
   capture:
@@ -21,13 +26,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
 
-      # JOB 1 -- the irreplaceable part. ODFW overwrites these weekly and keeps
-      # no archive, so this must run even if everything after it fails.
+      # JOB 1 -- the irreplaceable part. No continue-on-error: if this breaks
+      # the whole run must go RED so GitHub emails you.
       - name: Capture zone reports
         run: python zone_snapshot.py --root ./archive
 
-      # JOB 2 -- the schedule. Only needs a full-year pull occasionally, but it
-      # is cheap and catches ODFW changing the parameters on us.
       - name: Pull stocking schedule
         id: schedule
         continue-on-error: true
@@ -46,9 +49,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A archive data stockings.json unmatched.json 2>/dev/null || true
           if git diff --staged --quiet; then
-            echo "nothing changed this week"
+            echo "nothing changed this run"
           else
-            git commit -m "Weekly capture $(date -u +%Y-%m-%d)"
+            git commit -m "Capture $(date -u +%Y-%m-%d)"
             git push
           fi
 
@@ -57,3 +60,25 @@ jobs:
         run: |
           echo "::warning::Schedule pull failed. Open this job's 'Pull stocking schedule' step for the reason -- do not assume the cause."
           echo "The zone report archive still captured, which is the part that cannot be redone."
+
+      # CANARY. The workflow watches itself: if the newest capture on disk is
+      # older than 10 days, runs have been silently skipped or the schedule was
+      # auto-disabled. Failing here turns the run RED, which is what actually
+      # reaches your inbox. Without this, a dead pipeline looks like silence.
+      - name: Fail if captures have gone stale
+        if: always()
+        run: |
+          NEWEST=$(ls -1 archive/raw 2>/dev/null | sort | tail -1)
+          if [ -z "$NEWEST" ]; then
+            echo "::error::No captures at all in archive/raw."
+            exit 1
+          fi
+          AGE=$(( ( $(date -u +%s) - $(date -u -d "$NEWEST" +%s) ) / 86400 ))
+          echo "Newest capture: $NEWEST (${AGE} days old)"
+          if [ "$AGE" -gt 10 ]; then
+            echo "::error::Newest capture is ${AGE} days old. Scheduled runs are not happening."
+            echo "Check: Actions tab -> is the workflow disabled? GitHub disables"
+            echo "scheduled workflows in public repos after 60 days of inactivity."
+            exit 1
+          fi
+          echo "Freshness OK."
