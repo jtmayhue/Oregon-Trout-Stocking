@@ -2,8 +2,8 @@
  "generated": "2026-09-07",
  "kind": "planned",
  "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
- "water_count": 162,
- "event_count": 620,
+ "water_count": 169,
+ "event_count": 628,
  "stockings": {
   "huddleston-pond": [
    {
@@ -2457,6 +2457,24 @@
     "total": 5500
    }
   ],
+  "tatone-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   }
+  ],
   "galesville-reservoir": [
    {
     "week": "2026-03-16",
@@ -3845,6 +3863,16 @@
     "total": 550
    }
   ],
+  "bully-creek-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 7000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7000
+   }
+  ],
   "leaburg-lake": [
    {
     "week": "2026-04-20",
@@ -3967,6 +3995,16 @@
     "brood": 0,
     "fingerling": 0,
     "total": 550
+   }
+  ],
+  "sru-lake": [
+   {
+    "week": "2026-04-27",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
    }
   ],
   "cutsforth-pond": [
@@ -4141,6 +4179,16 @@
     "total": 500
    }
   ],
+  "rowe-creek-reservoir": [
+   {
+    "week": "2026-05-04",
+    "legals": 650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 650
+   }
+  ],
   "timothy-lake": [
    {
     "week": "2026-05-04",
@@ -4183,6 +4231,26 @@
     "total": 2650
    }
   ],
+  "olive-lake": [
+   {
+    "week": "2026-05-04",
+    "legals": 3050,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3050
+   }
+  ],
+  "duncan-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
+   }
+  ],
   "hemlock-lake": [
    {
     "week": "2026-05-11",
@@ -4209,6 +4277,16 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1382
+   }
+  ],
+  "little-hyatt-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
    }
   ],
   "lake-in-the-woods": [
