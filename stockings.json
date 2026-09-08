@@ -1,11 +1,14 @@
 {
- "generated": "2026-09-07",
+ "generated": "2026-09-08",
+ "states": [
+  "OR"
+ ],
  "kind": "planned",
  "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
  "water_count": 169,
  "event_count": 628,
  "stockings": {
-  "huddleston-pond": [
+  "or-huddleston-pond": [
    {
     "week": "2026-01-05",
     "legals": 200,
@@ -63,7 +66,7 @@
     "total": 600
    }
   ],
-  "ee-wilson-pond": [
+  "or-ee-wilson-pond": [
    {
     "week": "2026-01-26",
     "legals": 1300,
@@ -169,7 +172,7 @@
     "total": 850
    }
   ],
-  "junction-city-pond": [
+  "or-junction-city-pond": [
    {
     "week": "2026-01-26",
     "legals": 1455,
@@ -299,7 +302,7 @@
     "total": 1300
    }
   ],
-  "walter-wirth-lake": [
+  "or-walter-wirth-lake": [
    {
     "week": "2026-01-26",
     "legals": 1500,
@@ -437,7 +440,7 @@
     "total": 1500
    }
   ],
-  "sheridan-pond": [
+  "or-sheridan-pond": [
    {
     "week": "2026-01-26",
     "legals": 200,
@@ -503,7 +506,7 @@
     "total": 800
    }
   ],
-  "timber-linn-lake": [
+  "or-timber-linn-lake": [
    {
     "week": "2026-02-02",
     "legals": 1000,
@@ -633,7 +636,7 @@
     "total": 900
    }
   ],
-  "dune-lake": [
+  "or-dune-lake": [
    {
     "week": "2026-02-02",
     "legals": 566,
@@ -667,7 +670,7 @@
     "total": 1538
    }
   ],
-  "carter-lake": [
+  "or-carter-lake": [
    {
     "week": "2026-02-02",
     "legals": 1000,
@@ -701,7 +704,7 @@
     "total": 800
    }
   ],
-  "alton-baker-canal": [
+  "or-alton-baker-canal": [
    {
     "week": "2026-02-02",
     "legals": 1250,
@@ -935,7 +938,7 @@
     "total": 600
    }
   ],
-  "cleawox-lake": [
+  "or-cleawox-lake": [
    {
     "week": "2026-02-02",
     "legals": 3000,
@@ -977,7 +980,7 @@
     "total": 1650
    }
   ],
-  "munsel-lake": [
+  "or-munsel-lake": [
    {
     "week": "2026-02-02",
     "legals": 1500,
@@ -1019,7 +1022,7 @@
     "total": 2150
    }
   ],
-  "thissel-pond": [
+  "or-thissel-pond": [
    {
     "week": "2026-02-02",
     "legals": 666,
@@ -1061,7 +1064,7 @@
     "total": 2300
    }
   ],
-  "sunnyside-pond": [
+  "or-sunnyside-pond": [
    {
     "week": "2026-02-02",
     "legals": 1000,
@@ -1119,7 +1122,7 @@
     "total": 1140
    }
   ],
-  "waverly-lake": [
+  "or-waverly-lake": [
    {
     "week": "2026-02-02",
     "legals": 900,
@@ -1177,7 +1180,7 @@
     "total": 800
    }
   ],
-  "mt-hood-pond": [
+  "or-mt-hood-pond": [
    {
     "week": "2026-02-09",
     "legals": 666,
@@ -1211,7 +1214,7 @@
     "total": 666
    }
   ],
-  "salish-pond-west": [
+  "or-salish-pond-west": [
    {
     "week": "2026-02-09",
     "legals": 0,
@@ -1237,7 +1240,7 @@
     "total": 667
    }
   ],
-  "lake-selmac": [
+  "or-lake-selmac": [
    {
     "week": "2026-02-09",
     "legals": 5000,
@@ -1279,7 +1282,7 @@
     "total": 1000
    }
   ],
-  "st-louis-ponds": [
+  "or-st-louis-ponds": [
    {
     "week": "2026-02-09",
     "legals": 0,
@@ -1329,7 +1332,7 @@
     "total": 1125
    }
   ],
-  "reinhart-pond": [
+  "or-reinhart-pond": [
    {
     "week": "2026-02-09",
     "legals": 300,
@@ -1363,7 +1366,7 @@
     "total": 300
    }
   ],
-  "big-creek-reservoir-2": [
+  "or-big-creek-reservoir-2": [
    {
     "week": "2026-02-09",
     "legals": 2000,
@@ -1397,7 +1400,7 @@
     "total": 5200
    }
   ],
-  "silver-creek-reservoir": [
+  "or-silver-creek-reservoir": [
    {
     "week": "2026-02-09",
     "legals": 0,
@@ -1423,7 +1426,7 @@
     "total": 1935
    }
   ],
-  "big-creek-reservoir-1": [
+  "or-big-creek-reservoir-1": [
    {
     "week": "2026-02-09",
     "legals": 1000,
@@ -1473,7 +1476,7 @@
     "total": 2090
    }
   ],
-  "olalla-creek-reservoir": [
+  "or-olalla-creek-reservoir": [
    {
     "week": "2026-02-09",
     "legals": 2500,
@@ -1515,7 +1518,7 @@
     "total": 200
    }
   ],
-  "henry-hagg-lake": [
+  "or-henry-hagg-lake": [
    {
     "week": "2026-02-09",
     "legals": 0,
@@ -1597,7 +1600,7 @@
     "total": 4100
    }
   ],
-  "roaring-river-park-pond": [
+  "or-roaring-river-park-pond": [
    {
     "week": "2026-02-16",
     "legals": 125,
@@ -1631,7 +1634,7 @@
     "total": 125
    }
   ],
-  "powers-pond": [
+  "or-powers-pond": [
    {
     "week": "2026-02-23",
     "legals": 3000,
@@ -1673,7 +1676,7 @@
     "total": 1300
    }
   ],
-  "progress-lake": [
+  "or-progress-lake": [
    {
     "week": "2026-02-23",
     "legals": 1000,
@@ -1707,7 +1710,7 @@
     "total": 1000
    }
   ],
-  "saunders-lake": [
+  "or-saunders-lake": [
    {
     "week": "2026-02-23",
     "legals": 3000,
@@ -1741,7 +1744,7 @@
     "total": 1300
    }
   ],
-  "cottage-grove-reservoir": [
+  "or-cottage-grove-reservoir": [
    {
     "week": "2026-02-23",
     "legals": 3750,
@@ -1775,7 +1778,7 @@
     "total": 3750
    }
   ],
-  "freeway-lake-east": [
+  "or-freeway-lake-east": [
    {
     "week": "2026-03-02",
     "legals": 500,
@@ -1785,7 +1788,7 @@
     "total": 500
    }
   ],
-  "krumbo-reservoir": [
+  "or-krumbo-reservoir": [
    {
     "week": "2026-03-02",
     "legals": 13000,
@@ -1795,7 +1798,7 @@
     "total": 13000
    }
   ],
-  "dorena-reservoir": [
+  "or-dorena-reservoir": [
    {
     "week": "2026-03-02",
     "legals": 5009,
@@ -1829,7 +1832,7 @@
     "total": 2700
    }
   ],
-  "garrison-lake": [
+  "or-garrison-lake": [
    {
     "week": "2026-03-02",
     "legals": 0,
@@ -1863,7 +1866,7 @@
     "total": 200
    }
   ],
-  "canby-pond": [
+  "or-canby-pond": [
    {
     "week": "2026-03-09",
     "legals": 266,
@@ -1921,7 +1924,7 @@
     "total": 300
    }
   ],
-  "dexter-reservoir": [
+  "or-dexter-reservoir": [
    {
     "week": "2026-03-09",
     "legals": 0,
@@ -1963,7 +1966,7 @@
     "total": 5060
    }
   ],
-  "thief-valley-reservoir": [
+  "or-thief-valley-reservoir": [
    {
     "week": "2026-03-09",
     "legals": 10500,
@@ -1973,7 +1976,7 @@
     "total": 10500
    }
   ],
-  "buck-lake": [
+  "or-buck-lake": [
    {
     "week": "2026-03-09",
     "legals": 500,
@@ -1991,7 +1994,7 @@
     "total": 566
    }
   ],
-  "priday-reservoir": [
+  "or-priday-reservoir": [
    {
     "week": "2026-03-09",
     "legals": 0,
@@ -2001,7 +2004,7 @@
     "total": 200
    }
   ],
-  "commonwealth-lake": [
+  "or-commonwealth-lake": [
    {
     "week": "2026-03-09",
     "legals": 800,
@@ -2019,7 +2022,7 @@
     "total": 500
    }
   ],
-  "devil-s-lake": [
+  "or-devil-s-lake": [
    {
     "week": "2026-03-09",
     "legals": 3250,
@@ -2045,7 +2048,7 @@
     "total": 8000
    }
   ],
-  "cooper-creek-reservoir": [
+  "or-cooper-creek-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 4500,
@@ -2079,7 +2082,7 @@
     "total": 2500
    }
   ],
-  "loren-s-pond": [
+  "or-loren-s-pond": [
    {
     "week": "2026-03-16",
     "legals": 1500,
@@ -2089,7 +2092,7 @@
     "total": 1500
    }
   ],
-  "south-lake": [
+  "or-south-lake": [
    {
     "week": "2026-03-16",
     "legals": 1800,
@@ -2099,7 +2102,7 @@
     "total": 1800
    }
   ],
-  "lake-lytle": [
+  "or-lake-lytle": [
    {
     "week": "2026-03-16",
     "legals": 2500,
@@ -2117,7 +2120,7 @@
     "total": 2000
    }
   ],
-  "taylor-lake": [
+  "or-taylor-lake": [
    {
     "week": "2026-03-16",
     "legals": 1750,
@@ -2151,7 +2154,7 @@
     "total": 1975
    }
   ],
-  "siltcoos-lake": [
+  "or-siltcoos-lake": [
    {
     "week": "2026-03-16",
     "legals": 1332,
@@ -2169,7 +2172,7 @@
     "total": 1000
    }
   ],
-  "pine-hollow-reservoir": [
+  "or-pine-hollow-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 2500,
@@ -2219,7 +2222,7 @@
     "total": 1975
    }
   ],
-  "empire-lakes": [
+  "or-empire-lakes": [
    {
     "week": "2026-03-16",
     "legals": 0,
@@ -2293,7 +2296,7 @@
     "total": 3000
    }
   ],
-  "bethany-pond": [
+  "or-bethany-pond": [
    {
     "week": "2026-03-16",
     "legals": 600,
@@ -2303,7 +2306,7 @@
     "total": 600
    }
   ],
-  "rock-creek-reservoir": [
+  "or-rock-creek-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 3000,
@@ -2337,7 +2340,7 @@
     "total": 3250
    }
   ],
-  "coffenbury-lake": [
+  "or-coffenbury-lake": [
    {
     "week": "2026-03-16",
     "legals": 2200,
@@ -2379,7 +2382,7 @@
     "total": 500
    }
   ],
-  "lost-creek-reservoir": [
+  "or-lost-creek-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 20000,
@@ -2421,7 +2424,7 @@
     "total": 7300
    }
   ],
-  "cullaby-lake": [
+  "or-cullaby-lake": [
    {
     "week": "2026-03-16",
     "legals": 1000,
@@ -2431,7 +2434,7 @@
     "total": 1000
    }
   ],
-  "willow-lake": [
+  "or-willow-lake": [
    {
     "week": "2026-03-16",
     "legals": 4000,
@@ -2457,7 +2460,7 @@
     "total": 5500
    }
   ],
-  "tatone-pond": [
+  "or-tatone-pond": [
    {
     "week": "2026-03-16",
     "legals": 500,
@@ -2475,7 +2478,7 @@
     "total": 500
    }
   ],
-  "galesville-reservoir": [
+  "or-galesville-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 3000,
@@ -2501,7 +2504,7 @@
     "total": 3750
    }
   ],
-  "thompson-valley-reservoir": [
+  "or-thompson-valley-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 3600,
@@ -2527,7 +2530,7 @@
     "total": 2400
    }
   ],
-  "tahoe-lake": [
+  "or-tahoe-lake": [
    {
     "week": "2026-03-16",
     "legals": 500,
@@ -2545,7 +2548,7 @@
     "total": 500
    }
   ],
-  "town-lake": [
+  "or-town-lake": [
    {
     "week": "2026-03-16",
     "legals": 2770,
@@ -2587,7 +2590,7 @@
     "total": 300
    }
   ],
-  "mercer-lake": [
+  "or-mercer-lake": [
    {
     "week": "2026-03-16",
     "legals": 1500,
@@ -2597,7 +2600,7 @@
     "total": 1500
    }
   ],
-  "sunset-lake": [
+  "or-sunset-lake": [
    {
     "week": "2026-03-16",
     "legals": 1000,
@@ -2623,7 +2626,7 @@
     "total": 150
    }
   ],
-  "bradley-lake": [
+  "or-bradley-lake": [
    {
     "week": "2026-03-16",
     "legals": 0,
@@ -2657,7 +2660,7 @@
     "total": 1600
    }
   ],
-  "eel-lake": [
+  "or-eel-lake": [
    {
     "week": "2026-03-16",
     "legals": 2000,
@@ -2683,7 +2686,7 @@
     "total": 4000
    }
   ],
-  "plat-i-reservoir": [
+  "or-plat-i-reservoir": [
    {
     "week": "2026-03-16",
     "legals": 1500,
@@ -2693,7 +2696,7 @@
     "total": 1500
    }
   ],
-  "vernonia-pond": [
+  "or-vernonia-pond": [
    {
     "week": "2026-03-16",
     "legals": 2500,
@@ -2711,7 +2714,7 @@
     "total": 2000
    }
   ],
-  "emigrant-lake": [
+  "or-emigrant-lake": [
    {
     "week": "2026-03-16",
     "legals": 1000,
@@ -2737,7 +2740,7 @@
     "total": 1000
    }
   ],
-  "hat-rock-pond": [
+  "or-hat-rock-pond": [
    {
     "week": "2026-03-16",
     "legals": 1000,
@@ -2763,7 +2766,7 @@
     "total": 1200
    }
   ],
-  "elbow-lake": [
+  "or-elbow-lake": [
    {
     "week": "2026-03-16",
     "legals": 1500,
@@ -2773,7 +2776,7 @@
     "total": 1500
    }
   ],
-  "smith-lake": [
+  "or-smith-lake": [
    {
     "week": "2026-03-16",
     "legals": 1500,
@@ -2783,7 +2786,7 @@
     "total": 1500
    }
   ],
-  "hebo-lake": [
+  "or-hebo-lake": [
    {
     "week": "2026-03-16",
     "legals": 2500,
@@ -2809,7 +2812,7 @@
     "total": 1500
    }
   ],
-  "nedonna-pond": [
+  "or-nedonna-pond": [
    {
     "week": "2026-03-16",
     "legals": 300,
@@ -2827,7 +2830,7 @@
     "total": 500
    }
   ],
-  "foster-reservoir": [
+  "or-foster-reservoir": [
    {
     "week": "2026-03-23",
     "legals": 3300,
@@ -2893,7 +2896,7 @@
     "total": 3000
    }
   ],
-  "lake-of-the-woods": [
+  "or-lake-of-the-woods": [
    {
     "week": "2026-03-23",
     "legals": 670,
@@ -2951,7 +2954,7 @@
     "total": 1500
    }
   ],
-  "baker-pond": [
+  "or-baker-pond": [
    {
     "week": "2026-03-30",
     "legals": 350,
@@ -2969,7 +2972,7 @@
     "total": 360
    }
   ],
-  "highway-203-pond": [
+  "or-highway-203-pond": [
    {
     "week": "2026-03-30",
     "legals": 2250,
@@ -2979,7 +2982,7 @@
     "total": 3075
    }
   ],
-  "trojan-pond": [
+  "or-trojan-pond": [
    {
     "week": "2026-03-30",
     "legals": 2000,
@@ -3029,7 +3032,7 @@
     "total": 1000
    }
   ],
-  "butterfield-lake": [
+  "or-butterfield-lake": [
    {
     "week": "2026-03-30",
     "legals": 3000,
@@ -3047,7 +3050,7 @@
     "total": 1600
    }
   ],
-  "murray-reservoir": [
+  "or-murray-reservoir": [
    {
     "week": "2026-03-30",
     "legals": 2900,
@@ -3057,7 +3060,7 @@
     "total": 2900
    }
   ],
-  "willow-creek-reservoir": [
+  "or-willow-creek-reservoir": [
    {
     "week": "2026-03-30",
     "legals": 1800,
@@ -3067,7 +3070,7 @@
     "total": 2550
    }
   ],
-  "bikini-pond": [
+  "or-bikini-pond": [
    {
     "week": "2026-03-30",
     "legals": 350,
@@ -3085,7 +3088,7 @@
     "total": 650
    }
   ],
-  "long-creek-reservoir": [
+  "or-long-creek-reservoir": [
    {
     "week": "2026-03-30",
     "legals": 1000,
@@ -3095,7 +3098,7 @@
     "total": 1000
    }
   ],
-  "roulet-pond": [
+  "or-roulet-pond": [
    {
     "week": "2026-03-30",
     "legals": 1100,
@@ -3121,7 +3124,7 @@
     "total": 1100
    }
   ],
-  "fall-river": [
+  "or-fall-river": [
    {
     "week": "2026-04-06",
     "legals": 0,
@@ -3187,7 +3190,7 @@
     "total": 500
    }
   ],
-  "green-peter-reservoir": [
+  "or-green-peter-reservoir": [
    {
     "week": "2026-04-06",
     "legals": 3500,
@@ -3237,7 +3240,7 @@
     "total": 4910
    }
   ],
-  "sutton-lake": [
+  "or-sutton-lake": [
    {
     "week": "2026-04-06",
     "legals": 2000,
@@ -3255,7 +3258,7 @@
     "total": 1332
    }
   ],
-  "morgan-lake": [
+  "or-morgan-lake": [
    {
     "week": "2026-04-06",
     "legals": 500,
@@ -3265,7 +3268,7 @@
     "total": 500
    }
   ],
-  "harriet-lake": [
+  "or-harriet-lake": [
    {
     "week": "2026-04-06",
     "legals": 2666,
@@ -3315,7 +3318,7 @@
     "total": 2167
    }
   ],
-  "arizona-pond": [
+  "or-arizona-pond": [
    {
     "week": "2026-04-06",
     "legals": 1900,
@@ -3349,7 +3352,7 @@
     "total": 400
    }
   ],
-  "floras-lake": [
+  "or-floras-lake": [
    {
     "week": "2026-04-06",
     "legals": 0,
@@ -3367,7 +3370,7 @@
     "total": 5450
    }
   ],
-  "salmonberry-lake": [
+  "or-salmonberry-lake": [
    {
     "week": "2026-04-13",
     "legals": 1000,
@@ -3385,7 +3388,7 @@
     "total": 1000
    }
   ],
-  "red-top-pond": [
+  "or-red-top-pond": [
    {
     "week": "2026-04-13",
     "legals": 1250,
@@ -3403,7 +3406,7 @@
     "total": 750
    }
   ],
-  "cape-meares-lake": [
+  "or-cape-meares-lake": [
    {
     "week": "2026-04-13",
     "legals": 3000,
@@ -3429,7 +3432,7 @@
     "total": 300
    }
   ],
-  "benson-lake": [
+  "or-benson-lake": [
    {
     "week": "2026-04-13",
     "legals": 1500,
@@ -3439,7 +3442,7 @@
     "total": 1500
    }
   ],
-  "perkins-lake": [
+  "or-perkins-lake": [
    {
     "week": "2026-04-13",
     "legals": 300,
@@ -3449,7 +3452,7 @@
     "total": 300
    }
   ],
-  "kingsley-reservoir": [
+  "or-kingsley-reservoir": [
    {
     "week": "2026-04-13",
     "legals": 3500,
@@ -3467,7 +3470,7 @@
     "total": 3500
    }
   ],
-  "twin-lake-south": [
+  "or-twin-lake-south": [
    {
     "week": "2026-04-13",
     "legals": 2500,
@@ -3509,7 +3512,7 @@
     "total": 500
    }
   ],
-  "magone-lake": [
+  "or-magone-lake": [
    {
     "week": "2026-04-20",
     "legals": 3500,
@@ -3519,7 +3522,7 @@
     "total": 3500
    }
   ],
-  "tenmile-lake": [
+  "or-tenmile-lake": [
    {
     "week": "2026-04-20",
     "legals": 3000,
@@ -3537,7 +3540,7 @@
     "total": 3000
    }
   ],
-  "spalding-pond": [
+  "or-spalding-pond": [
    {
     "week": "2026-04-20",
     "legals": 600,
@@ -3555,7 +3558,7 @@
     "total": 600
    }
   ],
-  "medco-pond": [
+  "or-medco-pond": [
    {
     "week": "2026-04-20",
     "legals": 2000,
@@ -3581,7 +3584,7 @@
     "total": 1100
    }
   ],
-  "wolf-creek-reservoir": [
+  "or-wolf-creek-reservoir": [
    {
     "week": "2026-04-20",
     "legals": 4500,
@@ -3591,7 +3594,7 @@
     "total": 4500
    }
   ],
-  "clear-lake": [
+  "or-clear-lake": [
    {
     "week": "2026-04-20",
     "legals": 3125,
@@ -3665,7 +3668,7 @@
     "total": 3000
    }
   ],
-  "howard-prairie-reservoir": [
+  "or-howard-prairie-reservoir": [
    {
     "week": "2026-04-20",
     "legals": 7500,
@@ -3675,7 +3678,7 @@
     "total": 7500
    }
   ],
-  "shevlin-pond": [
+  "or-shevlin-pond": [
    {
     "week": "2026-04-20",
     "legals": 666,
@@ -3733,7 +3736,7 @@
     "total": 666
    }
   ],
-  "pilcher-creek-reservoir": [
+  "or-pilcher-creek-reservoir": [
    {
     "week": "2026-04-20",
     "legals": 4500,
@@ -3743,7 +3746,7 @@
     "total": 4500
    }
   ],
-  "antelope-flat-reservoir": [
+  "or-antelope-flat-reservoir": [
    {
     "week": "2026-04-20",
     "legals": 1000,
@@ -3761,7 +3764,7 @@
     "total": 200
    }
   ],
-  "fish-lake": [
+  "or-fish-lake": [
    {
     "week": "2026-04-20",
     "legals": 5000,
@@ -3827,7 +3830,7 @@
     "total": 900
    }
   ],
-  "ochoco-reservoir": [
+  "or-ochoco-reservoir": [
    {
     "week": "2026-04-20",
     "legals": 0,
@@ -3837,7 +3840,7 @@
     "total": 800
    }
   ],
-  "marr-pond": [
+  "or-marr-pond": [
    {
     "week": "2026-04-20",
     "legals": 250,
@@ -3863,7 +3866,7 @@
     "total": 550
    }
   ],
-  "bully-creek-reservoir": [
+  "or-bully-creek-reservoir": [
    {
     "week": "2026-04-20",
     "legals": 7000,
@@ -3873,7 +3876,7 @@
     "total": 7000
    }
   ],
-  "leaburg-lake": [
+  "or-leaburg-lake": [
    {
     "week": "2026-04-20",
     "legals": 2250,
@@ -3971,7 +3974,7 @@
     "total": 1000
    }
   ],
-  "wallowa-wildlife-pond": [
+  "or-wallowa-wildlife-pond": [
    {
     "week": "2026-04-20",
     "legals": 250,
@@ -3997,7 +4000,7 @@
     "total": 550
    }
   ],
-  "sru-lake": [
+  "or-sru-lake": [
    {
     "week": "2026-04-27",
     "legals": 1000,
@@ -4007,7 +4010,7 @@
     "total": 1000
    }
   ],
-  "cutsforth-pond": [
+  "or-cutsforth-pond": [
    {
     "week": "2026-04-27",
     "legals": 700,
@@ -4017,7 +4020,7 @@
     "total": 700
    }
   ],
-  "loon-lake": [
+  "or-loon-lake": [
    {
     "week": "2026-04-27",
     "legals": 3500,
@@ -4035,7 +4038,7 @@
     "total": 3500
    }
   ],
-  "penland-lake": [
+  "or-penland-lake": [
    {
     "week": "2026-04-27",
     "legals": 2300,
@@ -4045,7 +4048,7 @@
     "total": 2300
    }
   ],
-  "quartzville-creek": [
+  "or-quartzville-creek": [
    {
     "week": "2026-04-27",
     "legals": 1400,
@@ -4119,7 +4122,7 @@
     "total": 1650
    }
   ],
-  "anson-wright-park-pond": [
+  "or-anson-wright-park-pond": [
    {
     "week": "2026-04-27",
     "legals": 1000,
@@ -4137,7 +4140,7 @@
     "total": 850
    }
   ],
-  "twin-lake-north": [
+  "or-twin-lake-north": [
    {
     "week": "2026-04-27",
     "legals": 0,
@@ -4179,7 +4182,7 @@
     "total": 500
    }
   ],
-  "rowe-creek-reservoir": [
+  "or-rowe-creek-reservoir": [
    {
     "week": "2026-05-04",
     "legals": 650,
@@ -4189,7 +4192,7 @@
     "total": 650
    }
   ],
-  "timothy-lake": [
+  "or-timothy-lake": [
    {
     "week": "2026-05-04",
     "legals": 2100,
@@ -4231,7 +4234,7 @@
     "total": 2650
    }
   ],
-  "olive-lake": [
+  "or-olive-lake": [
    {
     "week": "2026-05-04",
     "legals": 3050,
@@ -4241,7 +4244,7 @@
     "total": 3050
    }
   ],
-  "duncan-reservoir": [
+  "or-duncan-reservoir": [
    {
     "week": "2026-05-11",
     "legals": 1500,
@@ -4251,7 +4254,7 @@
     "total": 1500
    }
   ],
-  "hemlock-lake": [
+  "or-hemlock-lake": [
    {
     "week": "2026-05-11",
     "legals": 3750,
@@ -4269,7 +4272,7 @@
     "total": 2750
    }
   ],
-  "eckman-lake": [
+  "or-eckman-lake": [
    {
     "week": "2026-05-11",
     "legals": 1332,
@@ -4279,7 +4282,7 @@
     "total": 1382
    }
   ],
-  "little-hyatt-reservoir": [
+  "or-little-hyatt-reservoir": [
    {
     "week": "2026-05-11",
     "legals": 800,
@@ -4289,7 +4292,7 @@
     "total": 800
    }
   ],
-  "lake-in-the-woods": [
+  "or-lake-in-the-woods": [
    {
     "week": "2026-05-11",
     "legals": 750,
@@ -4307,7 +4310,7 @@
     "total": 750
    }
   ],
-  "walton-lake": [
+  "or-walton-lake": [
    {
     "week": "2026-05-11",
     "legals": 0,
@@ -4341,7 +4344,7 @@
     "total": 750
    }
   ],
-  "lemolo-reservoir": [
+  "or-lemolo-reservoir": [
    {
     "week": "2026-05-11",
     "legals": 6350,
@@ -4367,7 +4370,7 @@
     "total": 5100
    }
   ],
-  "lake-marie": [
+  "or-lake-marie": [
    {
     "week": "2026-05-11",
     "legals": 1250,
@@ -4377,7 +4380,7 @@
     "total": 1250
    }
   ],
-  "detroit-lake": [
+  "or-detroit-lake": [
    {
     "week": "2026-05-11",
     "legals": 0,
@@ -4435,7 +4438,7 @@
     "total": 6900
    }
   ],
-  "yellow-jacket-pond": [
+  "or-yellow-jacket-pond": [
    {
     "week": "2026-05-11",
     "legals": 5000,
@@ -4445,7 +4448,7 @@
     "total": 5000
    }
   ],
-  "luger-pond": [
+  "or-luger-pond": [
    {
     "week": "2026-05-11",
     "legals": 450,
@@ -4455,7 +4458,7 @@
     "total": 550
    }
   ],
-  "holbrook-reservoir": [
+  "or-holbrook-reservoir": [
    {
     "week": "2026-05-11",
     "legals": 2000,
@@ -4473,7 +4476,7 @@
     "total": 970
    }
   ],
-  "lofton-reservoir": [
+  "or-lofton-reservoir": [
    {
     "week": "2026-05-11",
     "legals": 1330,
@@ -4499,7 +4502,7 @@
     "total": 1300
    }
   ],
-  "ben-irving-reservoir": [
+  "or-ben-irving-reservoir": [
    {
     "week": "2026-05-11",
     "legals": 2500,
@@ -4509,7 +4512,7 @@
     "total": 2500
    }
   ],
-  "chickahominy-reservoir": [
+  "or-chickahominy-reservoir": [
    {
     "week": "2026-05-18",
     "legals": 0,
@@ -4527,7 +4530,7 @@
     "total": 1500
    }
   ],
-  "ana-reservoir": [
+  "or-ana-reservoir": [
    {
     "week": "2026-05-18",
     "legals": 2400,
@@ -4553,7 +4556,7 @@
     "total": 2400
    }
   ],
-  "rogue-river-above-lost-creek": [
+  "or-rogue-river-above-lost-creek": [
    {
     "week": "2026-05-18",
     "legals": 2500,
@@ -4667,7 +4670,7 @@
     "total": 2500
    }
   ],
-  "heart-lake": [
+  "or-heart-lake": [
    {
     "week": "2026-05-18",
     "legals": 0,
@@ -4677,7 +4680,7 @@
     "total": 300
    }
   ],
-  "trillium-lake": [
+  "or-trillium-lake": [
    {
     "week": "2026-05-18",
     "legals": 0,
@@ -4703,7 +4706,7 @@
     "total": 2133
    }
   ],
-  "breitenbush-river": [
+  "or-breitenbush-river": [
    {
     "week": "2026-05-18",
     "legals": 1400,
@@ -4793,7 +4796,7 @@
     "total": 900
    }
   ],
-  "jubilee-lake": [
+  "or-jubilee-lake": [
    {
     "week": "2026-05-18",
     "legals": 7700,
@@ -4803,7 +4806,7 @@
     "total": 7700
    }
   ],
-  "wallowa-lake": [
+  "or-wallowa-lake": [
    {
     "week": "2026-05-18",
     "legals": 7250,
@@ -4853,7 +4856,7 @@
     "total": 180
    }
   ],
-  "small-fry-lake": [
+  "or-small-fry-lake": [
    {
     "week": "2026-05-25",
     "legals": 400,
@@ -4895,7 +4898,7 @@
     "total": 334
    }
   ],
-  "north-fork-reservoir": [
+  "or-north-fork-reservoir": [
    {
     "week": "2026-05-25",
     "legals": 7500,
@@ -4953,7 +4956,7 @@
     "total": 3702
    }
   ],
-  "olallie-lake": [
+  "or-olallie-lake": [
    {
     "week": "2026-05-25",
     "legals": 9335,
@@ -4971,7 +4974,7 @@
     "total": 1300
    }
   ],
-  "twin-ponds": [
+  "or-twin-ponds": [
    {
     "week": "2026-06-01",
     "legals": 1850,
@@ -4981,7 +4984,7 @@
     "total": 1850
    }
   ],
-  "anthony-lake": [
+  "or-anthony-lake": [
    {
     "week": "2026-06-01",
     "legals": 3450,
@@ -4991,7 +4994,7 @@
     "total": 3450
    }
   ],
-  "big-lava-lake": [
+  "or-big-lava-lake": [
    {
     "week": "2026-06-01",
     "legals": 8100,
@@ -5001,7 +5004,7 @@
     "total": 8100
    }
   ],
-  "frog-lake": [
+  "or-frog-lake": [
    {
     "week": "2026-06-01",
     "legals": 2250,
@@ -5011,7 +5014,7 @@
     "total": 2700
    }
   ],
-  "devils-lake": [
+  "or-devils-lake": [
    {
     "week": "2026-06-01",
     "legals": 1383,
@@ -5037,7 +5040,7 @@
     "total": 1384
    }
   ],
-  "grande-ronde-lake": [
+  "or-grande-ronde-lake": [
    {
     "week": "2026-06-01",
     "legals": 3000,
@@ -5047,7 +5050,7 @@
     "total": 3000
    }
   ],
-  "fourmile-lake": [
+  "or-fourmile-lake": [
    {
     "week": "2026-06-01",
     "legals": 2000,
@@ -5089,7 +5092,7 @@
     "total": 2000
    }
   ],
-  "victor-pond": [
+  "or-victor-pond": [
    {
     "week": "2026-06-08",
     "legals": 500,
@@ -5099,7 +5102,7 @@
     "total": 550
    }
   ],
-  "honeymoon-pond": [
+  "or-honeymoon-pond": [
    {
     "week": "2026-06-15",
     "legals": 500,
@@ -5117,7 +5120,7 @@
     "total": 100
    }
   ],
-  "estacada-lake": [
+  "or-estacada-lake": [
    {
     "week": "2026-06-15",
     "legals": 1334,
@@ -5159,7 +5162,7 @@
     "total": 1400
    }
   ],
-  "big-cultus-lake": [
+  "or-big-cultus-lake": [
    {
     "week": "2026-06-22",
     "legals": 2500,
@@ -5177,7 +5180,7 @@
     "total": 2500
    }
   ],
-  "three-creeks-lake": [
+  "or-three-creeks-lake": [
    {
     "week": "2026-06-22",
     "legals": 4000,
@@ -5195,7 +5198,7 @@
     "total": 200
    }
   ],
-  "kinney-lake": [
+  "or-kinney-lake": [
    {
     "week": "2026-06-22",
     "legals": 2500,
@@ -5221,7 +5224,7 @@
     "total": 1200
    }
   ],
-  "deadhorse-lake": [
+  "or-deadhorse-lake": [
    {
     "week": "2026-06-22",
     "legals": 2400,
@@ -5247,7 +5250,7 @@
     "total": 1000
    }
   ],
-  "east-lake": [
+  "or-east-lake": [
    {
     "week": "2026-06-22",
     "legals": 2500,
@@ -5265,7 +5268,7 @@
     "total": 2500
    }
   ],
-  "campbell-lake": [
+  "or-campbell-lake": [
    {
     "week": "2026-07-06",
     "legals": 1600,
@@ -5283,7 +5286,7 @@
     "total": 1000
    }
   ],
-  "paulina-lake": [
+  "or-paulina-lake": [
    {
     "week": "2026-07-06",
     "legals": 2500,
@@ -5293,7 +5296,7 @@
     "total": 2500
    }
   ],
-  "hosmer-lake": [
+  "or-hosmer-lake": [
    {
     "week": "2026-07-13",
     "legals": 750,
@@ -5303,7 +5306,7 @@
     "total": 750
    }
   ],
-  "salt-creek-summit-pond": [
+  "or-salt-creek-summit-pond": [
    {
     "week": "2026-07-13",
     "legals": 700,
@@ -5321,7 +5324,7 @@
     "total": 100
    }
   ],
-  "mcgraw-pond": [
+  "or-mcgraw-pond": [
    {
     "week": "2026-07-13",
     "legals": 700,
@@ -5331,7 +5334,7 @@
     "total": 750
    }
   ],
-  "miller-lake": [
+  "or-miller-lake": [
    {
     "week": "2026-09-14",
     "legals": 2000,
@@ -5341,7 +5344,7 @@
     "total": 2000
    }
   ],
-  "faraday-lake": [
+  "or-faraday-lake": [
    {
     "week": "2026-09-14",
     "legals": 1334,
