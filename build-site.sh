@@ -26,6 +26,7 @@ def count(p,key):
 json.dump({
  "generated": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
  "newest_zone_capture": newest,
+ "states": count("waters.json","states"),
  "water_count": count("waters.json","water_count"),
  "event_count": count("stockings.json","event_count"),
  "stockings_generated": count("stockings.json","generated"),

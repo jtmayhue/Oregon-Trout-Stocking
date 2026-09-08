@@ -1,10 +1,14 @@
 {
- "generated": "2026-09-07",
+ "generated": "2026-09-08",
  "source": "ODFW trout stocking maps + weekly stocking schedule",
+ "states": [
+  "OR"
+ ],
  "water_count": 183,
  "waters": [
   {
-   "id": "aldrich-ponds",
+   "id": "or-aldrich-ponds",
+   "state": "OR",
    "name": "Aldrich Ponds",
    "type": "pond",
    "odfw_names": [
@@ -24,7 +28,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "alton-baker-canal",
+   "id": "or-alton-baker-canal",
+   "state": "OR",
    "name": "Alton Baker Canal",
    "type": "river",
    "odfw_names": [
@@ -42,7 +47,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "ana-reservoir",
+   "id": "or-ana-reservoir",
+   "state": "OR",
    "name": "Ana Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -64,7 +70,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "anson-wright-park-pond",
+   "id": "or-anson-wright-park-pond",
+   "state": "OR",
    "name": "Anson Wright Park Pond",
    "type": "pond",
    "odfw_names": [
@@ -82,7 +89,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "antelope-flat-reservoir",
+   "id": "or-antelope-flat-reservoir",
+   "state": "OR",
    "name": "Antelope Flat Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -103,7 +111,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "anthony-lake",
+   "id": "or-anthony-lake",
+   "state": "OR",
    "name": "Anthony Lake",
    "type": "lake",
    "odfw_names": [
@@ -126,7 +135,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "applegate-reservoir",
+   "id": "or-applegate-reservoir",
+   "state": "OR",
    "name": "Applegate Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -148,7 +158,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "arizona-pond",
+   "id": "or-arizona-pond",
+   "state": "OR",
    "name": "Arizona Pond",
    "type": "pond",
    "odfw_names": [
@@ -169,7 +180,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "baker-pond",
+   "id": "or-baker-pond",
+   "state": "OR",
    "name": "Baker Pond",
    "type": "pond",
    "odfw_names": [
@@ -189,7 +201,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "ben-irving-reservoir",
+   "id": "or-ben-irving-reservoir",
+   "state": "OR",
    "name": "Ben Irving Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -217,7 +230,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "benson-lake",
+   "id": "or-benson-lake",
+   "state": "OR",
    "name": "Benson Lake",
    "type": "lake",
    "odfw_names": [
@@ -241,7 +255,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "bethany-pond",
+   "id": "or-bethany-pond",
+   "state": "OR",
    "name": "Bethany Pond",
    "type": "pond",
    "odfw_names": [
@@ -266,7 +281,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "big-creek-reservoir-1",
+   "id": "or-big-creek-reservoir-1",
+   "state": "OR",
    "name": "Big Creek Reservoir 1",
    "type": "reservoir",
    "odfw_names": [
@@ -286,7 +302,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "big-creek-reservoir-2",
+   "id": "or-big-creek-reservoir-2",
+   "state": "OR",
    "name": "Big Creek Reservoir 2",
    "type": "reservoir",
    "odfw_names": [
@@ -306,7 +323,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "big-cultus-lake",
+   "id": "or-big-cultus-lake",
+   "state": "OR",
    "name": "Big Cultus Lake",
    "type": "lake",
    "odfw_names": [
@@ -327,7 +345,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "big-lava-lake",
+   "id": "or-big-lava-lake",
+   "state": "OR",
    "name": "Big Lava Lake",
    "type": "lake",
    "odfw_names": [
@@ -349,7 +368,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "bikini-pond",
+   "id": "or-bikini-pond",
+   "state": "OR",
    "name": "Bikini Pond",
    "type": "pond",
    "odfw_names": [
@@ -373,7 +393,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "bolan-lake",
+   "id": "or-bolan-lake",
+   "state": "OR",
    "name": "Bolan Lake",
    "type": "lake",
    "odfw_names": [
@@ -393,7 +414,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "bradley-lake",
+   "id": "or-bradley-lake",
+   "state": "OR",
    "name": "Bradley Lake",
    "type": "lake",
    "odfw_names": [
@@ -415,7 +437,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "breitenbush-river",
+   "id": "or-breitenbush-river",
+   "state": "OR",
    "name": "Breitenbush River",
    "type": "river",
    "odfw_names": [
@@ -438,7 +461,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "buck-lake",
+   "id": "or-buck-lake",
+   "state": "OR",
    "name": "Buck Lake",
    "type": "lake",
    "odfw_names": [
@@ -456,7 +480,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "bull-prairie-reservoir",
+   "id": "or-bull-prairie-reservoir",
+   "state": "OR",
    "name": "Bull Prairie Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -479,7 +504,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "bully-creek-reservoir",
+   "id": "or-bully-creek-reservoir",
+   "state": "OR",
    "name": "Bully Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -497,7 +523,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "butterfield-lake",
+   "id": "or-butterfield-lake",
+   "state": "OR",
    "name": "Butterfield Lake",
    "type": "lake",
    "odfw_names": [
@@ -520,7 +547,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "campbell-lake",
+   "id": "or-campbell-lake",
+   "state": "OR",
    "name": "Campbell Lake",
    "type": "lake",
    "odfw_names": [
@@ -543,7 +571,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "canby-pond",
+   "id": "or-canby-pond",
+   "state": "OR",
    "name": "Canby Pond",
    "type": "pond",
    "odfw_names": [
@@ -566,7 +595,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "cape-meares-lake",
+   "id": "or-cape-meares-lake",
+   "state": "OR",
    "name": "Cape Meares Lake",
    "type": "lake",
    "odfw_names": [
@@ -589,7 +619,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "carter-lake",
+   "id": "or-carter-lake",
+   "state": "OR",
    "name": "Carter Lake",
    "type": "lake",
    "odfw_names": [
@@ -610,7 +641,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "chickahominy-reservoir",
+   "id": "or-chickahominy-reservoir",
+   "state": "OR",
    "name": "Chickahominy Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -630,7 +662,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "clear-lake",
+   "id": "or-clear-lake",
+   "state": "OR",
    "name": "Clear Lake",
    "type": "lake",
    "odfw_names": [
@@ -651,7 +684,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "cleawox-lake",
+   "id": "or-cleawox-lake",
+   "state": "OR",
    "name": "Cleawox Lake",
    "type": "lake",
    "odfw_names": [
@@ -677,7 +711,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "coffenbury-lake",
+   "id": "or-coffenbury-lake",
+   "state": "OR",
    "name": "Coffenbury Lake",
    "type": "lake",
    "odfw_names": [
@@ -705,7 +740,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "commonwealth-lake",
+   "id": "or-commonwealth-lake",
+   "state": "OR",
    "name": "Commonwealth Lake",
    "type": "lake",
    "odfw_names": [
@@ -728,7 +764,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "cooper-creek-reservoir",
+   "id": "or-cooper-creek-reservoir",
+   "state": "OR",
    "name": "Cooper Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -755,7 +792,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "cottage-grove-reservoir",
+   "id": "or-cottage-grove-reservoir",
+   "state": "OR",
    "name": "Cottage Grove Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -783,7 +821,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "cullaby-lake",
+   "id": "or-cullaby-lake",
+   "state": "OR",
    "name": "Cullaby Lake",
    "type": "lake",
    "odfw_names": [
@@ -810,7 +849,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "cutsforth-pond",
+   "id": "or-cutsforth-pond",
+   "state": "OR",
    "name": "Cutsforth Pond",
    "type": "pond",
    "odfw_names": [
@@ -833,7 +873,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "deadhorse-lake",
+   "id": "or-deadhorse-lake",
+   "state": "OR",
    "name": "Deadhorse Lake",
    "type": "lake",
    "odfw_names": [
@@ -855,7 +896,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "detroit-lake",
+   "id": "or-detroit-lake",
+   "state": "OR",
    "name": "Detroit Lake",
    "type": "lake",
    "odfw_names": [
@@ -879,7 +921,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "devil-s-lake",
+   "id": "or-devil-s-lake",
+   "state": "OR",
    "name": "Devil's Lake",
    "type": "lake",
    "odfw_names": [
@@ -897,7 +940,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "devils-lake",
+   "id": "or-devils-lake",
+   "state": "OR",
    "name": "Devils Lake",
    "type": "lake",
    "odfw_names": [
@@ -918,7 +962,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "dexter-reservoir",
+   "id": "or-dexter-reservoir",
+   "state": "OR",
    "name": "Dexter Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -936,7 +981,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "dorena-reservoir",
+   "id": "or-dorena-reservoir",
+   "state": "OR",
    "name": "Dorena Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -961,7 +1007,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "dorman-pond",
+   "id": "or-dorman-pond",
+   "state": "OR",
    "name": "Dorman Pond",
    "type": "pond",
    "odfw_names": [
@@ -979,7 +1026,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "duncan-reservoir",
+   "id": "or-duncan-reservoir",
+   "state": "OR",
    "name": "Duncan Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1001,7 +1049,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "dune-lake",
+   "id": "or-dune-lake",
+   "state": "OR",
    "name": "Dune Lake",
    "type": "lake",
    "odfw_names": [
@@ -1019,7 +1068,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "ee-wilson-pond",
+   "id": "or-ee-wilson-pond",
+   "state": "OR",
    "name": "EE Wilson Pond",
    "type": "pond",
    "odfw_names": [
@@ -1039,7 +1089,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "east-lake",
+   "id": "or-east-lake",
+   "state": "OR",
    "name": "East Lake",
    "type": "lake",
    "odfw_names": [
@@ -1062,7 +1113,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "eckman-lake",
+   "id": "or-eckman-lake",
+   "state": "OR",
    "name": "Eckman Lake",
    "type": "lake",
    "odfw_names": [
@@ -1084,7 +1136,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "eel-lake",
+   "id": "or-eel-lake",
+   "state": "OR",
    "name": "Eel Lake",
    "type": "lake",
    "odfw_names": [
@@ -1110,7 +1163,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "elbow-lake",
+   "id": "or-elbow-lake",
+   "state": "OR",
    "name": "Elbow Lake",
    "type": "lake",
    "odfw_names": [
@@ -1135,7 +1189,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "emigrant-lake",
+   "id": "or-emigrant-lake",
+   "state": "OR",
    "name": "Emigrant Lake",
    "type": "lake",
    "odfw_names": [
@@ -1160,7 +1215,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "empire-lakes",
+   "id": "or-empire-lakes",
+   "state": "OR",
    "name": "Empire Lakes",
    "type": "lake",
    "odfw_names": [
@@ -1185,7 +1241,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "estacada-lake",
+   "id": "or-estacada-lake",
+   "state": "OR",
    "name": "Estacada Lake",
    "type": "lake",
    "odfw_names": [
@@ -1210,7 +1267,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "fall-river",
+   "id": "or-fall-river",
+   "state": "OR",
    "name": "Fall River",
    "type": "river",
    "odfw_names": [
@@ -1228,7 +1286,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "faraday-lake",
+   "id": "or-faraday-lake",
+   "state": "OR",
    "name": "Faraday Lake",
    "type": "lake",
    "odfw_names": [
@@ -1250,7 +1309,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "fish-lake",
+   "id": "or-fish-lake",
+   "state": "OR",
    "name": "Fish Lake",
    "type": "lake",
    "odfw_names": [
@@ -1273,7 +1333,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "floras-lake",
+   "id": "or-floras-lake",
+   "state": "OR",
    "name": "Floras Lake",
    "type": "lake",
    "odfw_names": [
@@ -1297,7 +1358,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "foster-reservoir",
+   "id": "or-foster-reservoir",
+   "state": "OR",
    "name": "Foster Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1322,7 +1384,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "fourmile-lake",
+   "id": "or-fourmile-lake",
+   "state": "OR",
    "name": "Fourmile Lake",
    "type": "lake",
    "odfw_names": [
@@ -1347,7 +1410,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "freeway-lake-east",
+   "id": "or-freeway-lake-east",
+   "state": "OR",
    "name": "Freeway Lake East",
    "type": "lake",
    "odfw_names": [
@@ -1369,7 +1433,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "frog-lake",
+   "id": "or-frog-lake",
+   "state": "OR",
    "name": "Frog Lake",
    "type": "lake",
    "odfw_names": [
@@ -1389,7 +1454,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "galesville-reservoir",
+   "id": "or-galesville-reservoir",
+   "state": "OR",
    "name": "Galesville Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1417,7 +1483,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "garrison-lake",
+   "id": "or-garrison-lake",
+   "state": "OR",
    "name": "Garrison Lake",
    "type": "lake",
    "odfw_names": [
@@ -1440,7 +1507,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "grande-ronde-lake",
+   "id": "or-grande-ronde-lake",
+   "state": "OR",
    "name": "Grande Ronde Lake",
    "type": "lake",
    "odfw_names": [
@@ -1463,7 +1531,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "green-peter-reservoir",
+   "id": "or-green-peter-reservoir",
+   "state": "OR",
    "name": "Green Peter Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1485,7 +1554,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "harriet-lake",
+   "id": "or-harriet-lake",
+   "state": "OR",
    "name": "Harriet Lake",
    "type": "lake",
    "odfw_names": [
@@ -1506,7 +1576,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "hat-rock-pond",
+   "id": "or-hat-rock-pond",
+   "state": "OR",
    "name": "Hat Rock Pond",
    "type": "pond",
    "odfw_names": [
@@ -1526,7 +1597,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "heart-lake",
+   "id": "or-heart-lake",
+   "state": "OR",
    "name": "Heart Lake",
    "type": "lake",
    "odfw_names": [
@@ -1554,7 +1626,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "hebo-lake",
+   "id": "or-hebo-lake",
+   "state": "OR",
    "name": "Hebo Lake",
    "type": "lake",
    "odfw_names": [
@@ -1578,7 +1651,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "hemlock-lake",
+   "id": "or-hemlock-lake",
+   "state": "OR",
    "name": "Hemlock Lake",
    "type": "lake",
    "odfw_names": [
@@ -1601,7 +1675,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "henry-hagg-lake",
+   "id": "or-henry-hagg-lake",
+   "state": "OR",
    "name": "Henry Hagg Lake",
    "type": "lake",
    "odfw_names": [
@@ -1629,7 +1704,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "highway-203-pond",
+   "id": "or-highway-203-pond",
+   "state": "OR",
    "name": "Highway 203 Pond",
    "type": "pond",
    "odfw_names": [
@@ -1648,7 +1724,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "holbrook-reservoir",
+   "id": "or-holbrook-reservoir",
+   "state": "OR",
    "name": "Holbrook Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1670,7 +1747,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "honeymoon-pond",
+   "id": "or-honeymoon-pond",
+   "state": "OR",
    "name": "Honeymoon Pond",
    "type": "pond",
    "odfw_names": [
@@ -1690,7 +1768,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "hosmer-lake",
+   "id": "or-hosmer-lake",
+   "state": "OR",
    "name": "Hosmer Lake",
    "type": "lake",
    "odfw_names": [
@@ -1712,7 +1791,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "howard-prairie-reservoir",
+   "id": "or-howard-prairie-reservoir",
+   "state": "OR",
    "name": "Howard Prairie Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1730,7 +1810,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "huddleston-pond",
+   "id": "or-huddleston-pond",
+   "state": "OR",
    "name": "Huddleston Pond",
    "type": "pond",
    "odfw_names": [
@@ -1754,7 +1835,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "hunter-pond",
+   "id": "or-hunter-pond",
+   "state": "OR",
    "name": "Hunter Pond",
    "type": "pond",
    "odfw_names": [
@@ -1774,7 +1856,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "hyatt-reservoir",
+   "id": "or-hyatt-reservoir",
+   "state": "OR",
    "name": "Hyatt Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1800,7 +1883,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "jubilee-lake",
+   "id": "or-jubilee-lake",
+   "state": "OR",
    "name": "Jubilee Lake",
    "type": "lake",
    "odfw_names": [
@@ -1824,7 +1908,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "junction-city-pond",
+   "id": "or-junction-city-pond",
+   "state": "OR",
    "name": "Junction City Pond",
    "type": "pond",
    "odfw_names": [
@@ -1842,7 +1927,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "kingsley-reservoir",
+   "id": "or-kingsley-reservoir",
+   "state": "OR",
    "name": "Kingsley Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1863,7 +1949,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "kinney-lake",
+   "id": "or-kinney-lake",
+   "state": "OR",
    "name": "Kinney Lake",
    "type": "lake",
    "odfw_names": [
@@ -1884,7 +1971,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "krumbo-reservoir",
+   "id": "or-krumbo-reservoir",
+   "state": "OR",
    "name": "Krumbo Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -1905,7 +1993,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lake-lytle",
+   "id": "or-lake-lytle",
+   "state": "OR",
    "name": "Lake Lytle",
    "type": "lake",
    "odfw_names": [
@@ -1928,7 +2017,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lake-marie",
+   "id": "or-lake-marie",
+   "state": "OR",
    "name": "Lake Marie",
    "type": "lake",
    "odfw_names": [
@@ -1951,7 +2041,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lake-selmac",
+   "id": "or-lake-selmac",
+   "state": "OR",
    "name": "Lake Selmac",
    "type": "lake",
    "odfw_names": [
@@ -1978,7 +2069,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lake-in-the-woods",
+   "id": "or-lake-in-the-woods",
+   "state": "OR",
    "name": "Lake in the Woods",
    "type": "lake",
    "odfw_names": [
@@ -1996,7 +2088,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lake-of-the-woods",
+   "id": "or-lake-of-the-woods",
+   "state": "OR",
    "name": "Lake of the Woods",
    "type": "lake",
    "odfw_names": [
@@ -2028,7 +2121,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "laurance-lake",
+   "id": "or-laurance-lake",
+   "state": "OR",
    "name": "Laurance Lake",
    "type": "lake",
    "odfw_names": [
@@ -2051,7 +2145,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "leaburg-lake",
+   "id": "or-leaburg-lake",
+   "state": "OR",
    "name": "Leaburg Lake",
    "type": "lake",
    "odfw_names": [
@@ -2069,7 +2164,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lemolo-reservoir",
+   "id": "or-lemolo-reservoir",
+   "state": "OR",
    "name": "Lemolo Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2092,7 +2188,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "little-hyatt-reservoir",
+   "id": "or-little-hyatt-reservoir",
+   "state": "OR",
    "name": "Little Hyatt Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2112,7 +2209,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lofton-reservoir",
+   "id": "or-lofton-reservoir",
+   "state": "OR",
    "name": "Lofton Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2134,7 +2232,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "long-creek-reservoir",
+   "id": "or-long-creek-reservoir",
+   "state": "OR",
    "name": "Long Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2153,7 +2252,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "loon-lake",
+   "id": "or-loon-lake",
+   "state": "OR",
    "name": "Loon Lake",
    "type": "lake",
    "odfw_names": [
@@ -2180,7 +2280,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "loren-s-pond",
+   "id": "or-loren-s-pond",
+   "state": "OR",
    "name": "Loren's Pond",
    "type": "pond",
    "odfw_names": [
@@ -2201,7 +2302,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "lost-creek-reservoir",
+   "id": "or-lost-creek-reservoir",
+   "state": "OR",
    "name": "Lost Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2229,7 +2331,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "luger-pond",
+   "id": "or-luger-pond",
+   "state": "OR",
    "name": "Luger Pond",
    "type": "pond",
    "odfw_names": [
@@ -2249,7 +2352,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "magone-lake",
+   "id": "or-magone-lake",
+   "state": "OR",
    "name": "Magone Lake",
    "type": "lake",
    "odfw_names": [
@@ -2273,7 +2377,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "marr-pond",
+   "id": "or-marr-pond",
+   "state": "OR",
    "name": "Marr Pond",
    "type": "pond",
    "odfw_names": [
@@ -2294,7 +2399,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "mcgraw-pond",
+   "id": "or-mcgraw-pond",
+   "state": "OR",
    "name": "McGraw Pond",
    "type": "pond",
    "odfw_names": [
@@ -2315,7 +2421,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "medco-pond",
+   "id": "or-medco-pond",
+   "state": "OR",
    "name": "Medco Pond",
    "type": "pond",
    "odfw_names": [
@@ -2335,7 +2442,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "mercer-lake",
+   "id": "or-mercer-lake",
+   "state": "OR",
    "name": "Mercer Lake",
    "type": "lake",
    "odfw_names": [
@@ -2358,7 +2466,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "miller-lake",
+   "id": "or-miller-lake",
+   "state": "OR",
    "name": "Miller Lake",
    "type": "lake",
    "odfw_names": [
@@ -2382,7 +2491,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "morgan-lake",
+   "id": "or-morgan-lake",
+   "state": "OR",
    "name": "Morgan Lake",
    "type": "lake",
    "odfw_names": [
@@ -2405,7 +2515,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "mt-hood-pond",
+   "id": "or-mt-hood-pond",
+   "state": "OR",
    "name": "Mt. Hood Pond",
    "type": "pond",
    "odfw_names": [
@@ -2423,7 +2534,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "munsel-lake",
+   "id": "or-munsel-lake",
+   "state": "OR",
    "name": "Munsel Lake",
    "type": "lake",
    "odfw_names": [
@@ -2445,7 +2557,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "murray-reservoir",
+   "id": "or-murray-reservoir",
+   "state": "OR",
    "name": "Murray Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2463,7 +2576,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "nedonna-pond",
+   "id": "or-nedonna-pond",
+   "state": "OR",
    "name": "Nedonna Pond",
    "type": "pond",
    "odfw_names": [
@@ -2481,7 +2595,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "north-fork-reservoir",
+   "id": "or-north-fork-reservoir",
+   "state": "OR",
    "name": "North Fork Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2506,7 +2621,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "north-lake",
+   "id": "or-north-lake",
+   "state": "OR",
    "name": "North Lake",
    "type": "lake",
    "odfw_names": [
@@ -2526,7 +2642,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "ochoco-reservoir",
+   "id": "or-ochoco-reservoir",
+   "state": "OR",
    "name": "Ochoco Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2552,7 +2669,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "olalla-creek-reservoir",
+   "id": "or-olalla-creek-reservoir",
+   "state": "OR",
    "name": "Olalla Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2571,7 +2689,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "olallie-lake",
+   "id": "or-olallie-lake",
+   "state": "OR",
    "name": "Olallie Lake",
    "type": "lake",
    "odfw_names": [
@@ -2592,7 +2711,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "olive-lake",
+   "id": "or-olive-lake",
+   "state": "OR",
    "name": "Olive Lake",
    "type": "lake",
    "odfw_names": [
@@ -2617,7 +2737,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "paulina-lake",
+   "id": "or-paulina-lake",
+   "state": "OR",
    "name": "Paulina Lake",
    "type": "lake",
    "odfw_names": [
@@ -2640,7 +2761,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "penland-lake",
+   "id": "or-penland-lake",
+   "state": "OR",
    "name": "Penland Lake",
    "type": "lake",
    "odfw_names": [
@@ -2661,7 +2783,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "perkins-lake",
+   "id": "or-perkins-lake",
+   "state": "OR",
    "name": "Perkins Lake",
    "type": "lake",
    "odfw_names": [
@@ -2679,7 +2802,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "pilcher-creek-reservoir",
+   "id": "or-pilcher-creek-reservoir",
+   "state": "OR",
    "name": "Pilcher Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2702,7 +2826,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "pine-hollow-reservoir",
+   "id": "or-pine-hollow-reservoir",
+   "state": "OR",
    "name": "Pine Hollow Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2727,7 +2852,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "plat-i-reservoir",
+   "id": "or-plat-i-reservoir",
+   "state": "OR",
    "name": "Plat I Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2749,7 +2875,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "poison-creek-reservoir",
+   "id": "or-poison-creek-reservoir",
+   "state": "OR",
    "name": "Poison Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2767,7 +2894,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "powers-pond",
+   "id": "or-powers-pond",
+   "state": "OR",
    "name": "Powers Pond",
    "type": "pond",
    "odfw_names": [
@@ -2790,7 +2918,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "priday-reservoir",
+   "id": "or-priday-reservoir",
+   "state": "OR",
    "name": "Priday Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2812,7 +2941,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "progress-lake",
+   "id": "or-progress-lake",
+   "state": "OR",
    "name": "Progress Lake",
    "type": "lake",
    "odfw_names": [
@@ -2832,7 +2962,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "quartzville-creek",
+   "id": "or-quartzville-creek",
+   "state": "OR",
    "name": "Quartzville Creek",
    "type": "river",
    "odfw_names": [
@@ -2853,7 +2984,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "red-top-pond",
+   "id": "or-red-top-pond",
+   "state": "OR",
    "name": "Red Top Pond",
    "type": "pond",
    "odfw_names": [
@@ -2873,7 +3005,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "reinhart-pond",
+   "id": "or-reinhart-pond",
+   "state": "OR",
    "name": "Reinhart Pond",
    "type": "pond",
    "odfw_names": [
@@ -2893,7 +3026,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "roaring-river-park-pond",
+   "id": "or-roaring-river-park-pond",
+   "state": "OR",
    "name": "Roaring River Park Pond",
    "type": "river",
    "odfw_names": [
@@ -2909,7 +3043,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "rock-creek-reservoir",
+   "id": "or-rock-creek-reservoir",
+   "state": "OR",
    "name": "Rock Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2933,7 +3068,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "rogue-river-above-lost-creek",
+   "id": "or-rogue-river-above-lost-creek",
+   "state": "OR",
    "name": "Rogue River above Lost Creek",
    "type": "river",
    "odfw_names": [
@@ -2956,7 +3092,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "roulet-pond",
+   "id": "or-roulet-pond",
+   "state": "OR",
    "name": "Roulet Pond",
    "type": "pond",
    "odfw_names": [
@@ -2974,7 +3111,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "rowe-creek-reservoir",
+   "id": "or-rowe-creek-reservoir",
+   "state": "OR",
    "name": "Rowe Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -2994,7 +3132,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "salish-pond-west",
+   "id": "or-salish-pond-west",
+   "state": "OR",
    "name": "Salish Pond West",
    "type": "pond",
    "odfw_names": [
@@ -3018,7 +3157,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "salmonberry-lake",
+   "id": "or-salmonberry-lake",
+   "state": "OR",
    "name": "Salmonberry Lake",
    "type": "lake",
    "odfw_names": [
@@ -3036,7 +3176,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "salt-creek-summit-pond",
+   "id": "or-salt-creek-summit-pond",
+   "state": "OR",
    "name": "Salt Creek Summit Pond",
    "type": "river",
    "odfw_names": [
@@ -3056,7 +3197,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "saunders-lake",
+   "id": "or-saunders-lake",
+   "state": "OR",
    "name": "Saunders Lake",
    "type": "lake",
    "odfw_names": [
@@ -3080,7 +3222,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "sheridan-pond",
+   "id": "or-sheridan-pond",
+   "state": "OR",
    "name": "Sheridan Pond",
    "type": "pond",
    "odfw_names": [
@@ -3101,7 +3244,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "shevlin-pond",
+   "id": "or-shevlin-pond",
+   "state": "OR",
    "name": "Shevlin Pond",
    "type": "pond",
    "odfw_names": [
@@ -3124,7 +3268,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "siltcoos-lake",
+   "id": "or-siltcoos-lake",
+   "state": "OR",
    "name": "Siltcoos Lake",
    "type": "lake",
    "odfw_names": [
@@ -3148,7 +3293,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "silver-creek-reservoir",
+   "id": "or-silver-creek-reservoir",
+   "state": "OR",
    "name": "Silver Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -3167,7 +3313,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "small-fry-lake",
+   "id": "or-small-fry-lake",
+   "state": "OR",
    "name": "Small Fry Lake",
    "type": "lake",
    "odfw_names": [
@@ -3188,7 +3335,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "smith-lake",
+   "id": "or-smith-lake",
+   "state": "OR",
    "name": "Smith Lake",
    "type": "lake",
    "odfw_names": [
@@ -3212,7 +3360,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "south-lake",
+   "id": "or-south-lake",
+   "state": "OR",
    "name": "South Lake",
    "type": "lake",
    "odfw_names": [
@@ -3232,7 +3381,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "spalding-pond",
+   "id": "or-spalding-pond",
+   "state": "OR",
    "name": "Spalding Pond",
    "type": "pond",
    "odfw_names": [
@@ -3255,7 +3405,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "spring-lake",
+   "id": "or-spring-lake",
+   "state": "OR",
    "name": "Spring Lake",
    "type": "lake",
    "odfw_names": [
@@ -3274,7 +3425,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "sru-lake",
+   "id": "or-sru-lake",
+   "state": "OR",
    "name": "Sru Lake",
    "type": "lake",
    "odfw_names": [
@@ -3294,7 +3446,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "st-louis-ponds",
+   "id": "or-st-louis-ponds",
+   "state": "OR",
    "name": "St. Louis Ponds",
    "type": "pond",
    "odfw_names": [
@@ -3322,7 +3475,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "sunnyside-pond",
+   "id": "or-sunnyside-pond",
+   "state": "OR",
    "name": "Sunnyside Pond",
    "type": "pond",
    "odfw_names": [
@@ -3343,7 +3497,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "sunset-lake",
+   "id": "or-sunset-lake",
+   "state": "OR",
    "name": "Sunset Lake",
    "type": "lake",
    "odfw_names": [
@@ -3368,7 +3523,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "sutton-lake",
+   "id": "or-sutton-lake",
+   "state": "OR",
    "name": "Sutton Lake",
    "type": "lake",
    "odfw_names": [
@@ -3392,7 +3548,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "tahoe-lake",
+   "id": "or-tahoe-lake",
+   "state": "OR",
    "name": "Tahoe Lake",
    "type": "lake",
    "odfw_names": [
@@ -3416,7 +3573,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "tatone-pond",
+   "id": "or-tatone-pond",
+   "state": "OR",
    "name": "Tatone Pond",
    "type": "pond",
    "odfw_names": [
@@ -3434,7 +3592,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "taylor-lake",
+   "id": "or-taylor-lake",
+   "state": "OR",
    "name": "Taylor Lake",
    "type": "lake",
    "odfw_names": [
@@ -3456,7 +3615,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "tenmile-lake",
+   "id": "or-tenmile-lake",
+   "state": "OR",
    "name": "Tenmile Lake",
    "type": "lake",
    "odfw_names": [
@@ -3485,7 +3645,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "thief-valley-reservoir",
+   "id": "or-thief-valley-reservoir",
+   "state": "OR",
    "name": "Thief Valley Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -3510,7 +3671,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "thissel-pond",
+   "id": "or-thissel-pond",
+   "state": "OR",
    "name": "Thissel Pond",
    "type": "pond",
    "odfw_names": [
@@ -3528,7 +3690,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "thompson-valley-reservoir",
+   "id": "or-thompson-valley-reservoir",
+   "state": "OR",
    "name": "Thompson Valley Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -3550,7 +3713,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "three-creeks-lake",
+   "id": "or-three-creeks-lake",
+   "state": "OR",
    "name": "Three Creeks Lake",
    "type": "lake",
    "odfw_names": [
@@ -3571,7 +3735,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "timber-linn-lake",
+   "id": "or-timber-linn-lake",
+   "state": "OR",
    "name": "Timber Linn Lake",
    "type": "lake",
    "odfw_names": [
@@ -3594,7 +3759,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "timothy-lake",
+   "id": "or-timothy-lake",
+   "state": "OR",
    "name": "Timothy Lake",
    "type": "lake",
    "odfw_names": [
@@ -3618,7 +3784,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "town-lake",
+   "id": "or-town-lake",
+   "state": "OR",
    "name": "Town Lake",
    "type": "lake",
    "odfw_names": [
@@ -3642,7 +3809,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "trillium-lake",
+   "id": "or-trillium-lake",
+   "state": "OR",
    "name": "Trillium Lake",
    "type": "lake",
    "odfw_names": [
@@ -3663,7 +3831,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "trojan-pond",
+   "id": "or-trojan-pond",
+   "state": "OR",
    "name": "Trojan Pond",
    "type": "pond",
    "odfw_names": [
@@ -3681,7 +3850,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "trout-farm-pond",
+   "id": "or-trout-farm-pond",
+   "state": "OR",
    "name": "Trout Farm Pond",
    "type": "pond",
    "odfw_names": [
@@ -3702,7 +3872,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "twin-lake-north",
+   "id": "or-twin-lake-north",
+   "state": "OR",
    "name": "Twin Lake North",
    "type": "lake",
    "odfw_names": [
@@ -3720,7 +3891,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "twin-lake-south",
+   "id": "or-twin-lake-south",
+   "state": "OR",
    "name": "Twin Lake South",
    "type": "lake",
    "odfw_names": [
@@ -3742,7 +3914,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "twin-lakes",
+   "id": "or-twin-lakes",
+   "state": "OR",
    "name": "Twin Lakes",
    "type": "lake",
    "odfw_names": [
@@ -3764,7 +3937,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "twin-ponds",
+   "id": "or-twin-ponds",
+   "state": "OR",
    "name": "Twin Ponds",
    "type": "pond",
    "odfw_names": [
@@ -3782,7 +3956,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "vernonia-pond",
+   "id": "or-vernonia-pond",
+   "state": "OR",
    "name": "Vernonia Pond",
    "type": "pond",
    "odfw_names": [
@@ -3813,7 +3988,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "victor-pond",
+   "id": "or-victor-pond",
+   "state": "OR",
    "name": "Victor Pond",
    "type": "pond",
    "odfw_names": [
@@ -3831,7 +4007,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "wallowa-lake",
+   "id": "or-wallowa-lake",
+   "state": "OR",
    "name": "Wallowa Lake",
    "type": "lake",
    "odfw_names": [
@@ -3853,7 +4030,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "wallowa-wildlife-pond",
+   "id": "or-wallowa-wildlife-pond",
+   "state": "OR",
    "name": "Wallowa Wildlife Pond",
    "type": "pond",
    "odfw_names": [
@@ -3872,7 +4050,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "walter-wirth-lake",
+   "id": "or-walter-wirth-lake",
+   "state": "OR",
    "name": "Walter Wirth Lake",
    "type": "lake",
    "odfw_names": [
@@ -3896,7 +4075,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "walton-lake",
+   "id": "or-walton-lake",
+   "state": "OR",
    "name": "Walton Lake",
    "type": "lake",
    "odfw_names": [
@@ -3919,7 +4099,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "waverly-lake",
+   "id": "or-waverly-lake",
+   "state": "OR",
    "name": "Waverly Lake",
    "type": "lake",
    "odfw_names": [
@@ -3945,7 +4126,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "willow-creek-reservoir",
+   "id": "or-willow-creek-reservoir",
+   "state": "OR",
    "name": "Willow Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -3973,7 +4155,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "willow-lake",
+   "id": "or-willow-lake",
+   "state": "OR",
    "name": "Willow Lake",
    "type": "lake",
    "odfw_names": [
@@ -4001,7 +4184,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "woahink-lake",
+   "id": "or-woahink-lake",
+   "state": "OR",
    "name": "Woahink Lake",
    "type": "lake",
    "odfw_names": [
@@ -4025,7 +4209,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "wolf-creek-reservoir",
+   "id": "or-wolf-creek-reservoir",
+   "state": "OR",
    "name": "Wolf Creek Reservoir",
    "type": "reservoir",
    "odfw_names": [
@@ -4047,7 +4232,8 @@
    "source": "ODFW trout stocking maps"
   },
   {
-   "id": "yellow-jacket-pond",
+   "id": "or-yellow-jacket-pond",
+   "state": "OR",
    "name": "Yellow Jacket Pond",
    "type": "pond",
    "odfw_names": [

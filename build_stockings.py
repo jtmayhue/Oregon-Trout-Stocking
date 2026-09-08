@@ -45,9 +45,15 @@ def main():
     ap.add_argument('--out', default='./stockings.json')
     a = ap.parse_args()
 
-    waters = json.load(open(a.waters))['waters']
+    waters_doc = json.load(open(a.waters))
+    waters = waters_doc['waters']
+    # ODFW's raw names are unique WITHIN a state, not across states -- Washington
+    # publishes its own "FISH LK". This ingest is Oregon-only, so scope the
+    # lookup to OR and ignore anything else already in waters.json.
     lookup = {}
     for w in waters:
+        if w.get('state', 'OR') != 'OR':
+            continue
         for n in w['odfw_names']:
             lookup[n.strip().upper()] = w['id']
 
@@ -108,6 +114,7 @@ def main():
 
     payload = {
         'generated': __import__('datetime').date.today().isoformat(),
+        'states': waters_doc.get('states', ['OR']),
         'kind': 'planned',      # THE SCHEDULE IS INTENT, NOT A RECEIPT.
         'note': 'ODFW publishes the WEEK a water is scheduled, not the day, '
                 'and fish are sometimes diverted. Confirmations come from the '
