@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-08",
+ "generated": "2026-09-10",
  "states": [
   "OR"
  ],
  "kind": "planned",
  "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
- "water_count": 169,
- "event_count": 628,
+ "water_count": 173,
+ "event_count": 652,
  "stockings": {
   "or-huddleston-pond": [
    {
@@ -16,6 +16,22 @@
     "brood": 0,
     "fingerling": 0,
     "total": 200
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 335,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 335
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
    },
    {
     "week": "2026-03-09",
@@ -34,12 +50,12 @@
     "total": 25
    },
    {
-    "week": "2026-03-30",
-    "legals": 800,
+    "week": "2026-04-13",
+    "legals": 1563,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 800
+    "total": 1563
    },
    {
     "week": "2026-04-13",
@@ -64,6 +80,72 @@
     "brood": 0,
     "fingerling": 0,
     "total": 600
+   }
+  ],
+  "or-sheridan-pond": [
+   {
+    "week": "2026-01-26",
+    "legals": 200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 340,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 340
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 798,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 798
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
    }
   ],
   "or-ee-wilson-pond": [
@@ -108,14 +190,6 @@
     "total": 1400
    },
    {
-    "week": "2026-03-16",
-    "legals": 1300,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1300
-   },
-   {
     "week": "2026-03-23",
     "legals": 1625,
     "trophy": 0,
@@ -149,6 +223,14 @@
    },
    {
     "week": "2026-04-27",
+    "legals": 1875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1875
+   },
+   {
+    "week": "2026-05-04",
     "legals": 1875,
     "trophy": 0,
     "brood": 0,
@@ -220,14 +302,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1500
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 2750,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2750
    },
    {
     "week": "2026-04-06",
@@ -326,14 +400,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1560
-   },
-   {
-    "week": "2026-02-23",
-    "legals": 1520,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1520
    },
    {
     "week": "2026-03-02",
@@ -440,65 +506,123 @@
     "total": 1500
    }
   ],
-  "or-sheridan-pond": [
+  "or-sunnyside-pond": [
    {
-    "week": "2026-01-26",
-    "legals": 200,
-    "trophy": 0,
+    "week": "2026-02-02",
+    "legals": 1000,
+    "trophy": 40,
     "brood": 0,
     "fingerling": 0,
-    "total": 200
+    "total": 1040
    },
    {
-    "week": "2026-02-23",
-    "legals": 1200,
-    "trophy": 0,
+    "week": "2026-03-02",
+    "legals": 1100,
+    "trophy": 40,
     "brood": 0,
     "fingerling": 0,
-    "total": 1200
-   },
-   {
-    "week": "2026-03-09",
-    "legals": 400,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 400
+    "total": 1140
    },
    {
     "week": "2026-03-23",
-    "legals": 340,
-    "trophy": 0,
+    "legals": 1000,
+    "trophy": 40,
     "brood": 0,
     "fingerling": 0,
-    "total": 340
+    "total": 1040
    },
    {
-    "week": "2026-03-30",
-    "legals": 600,
-    "trophy": 0,
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 40,
     "brood": 0,
     "fingerling": 0,
-    "total": 600
-   },
-   {
-    "week": "2026-05-04",
-    "legals": 798,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 798
+    "total": 1040
    },
    {
     "week": "2026-05-04",
-    "legals": 0,
-    "trophy": 1000,
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 1100,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1140
+   }
+  ],
+  "or-waverly-lake": [
+   {
+    "week": "2026-02-02",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-03-02",
+    "legals": 1000,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 1000
    },
    {
-    "week": "2026-05-18",
+    "week": "2026-03-30",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 890,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 890
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1000,
+    "trophy": 40,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1040
+   },
+   {
+    "week": "2026-11-23",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-12-21",
     "legals": 800,
     "trophy": 0,
     "brood": 0,
@@ -572,6 +696,14 @@
     "total": 1250
    },
    {
+    "week": "2026-04-20",
+    "legals": 1230,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1230
+   },
+   {
     "week": "2026-04-27",
     "legals": 900,
     "trophy": 0,
@@ -586,14 +718,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1040
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 1800,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1840
    },
    {
     "week": "2026-05-18",
@@ -730,6 +854,22 @@
     "total": 1000
    },
    {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
+   },
+   {
     "week": "2026-04-27",
     "legals": 1250,
     "trophy": 0,
@@ -778,14 +918,6 @@
     "total": 900
    },
    {
-    "week": "2026-06-22",
-    "legals": 900,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 900
-   },
-   {
     "week": "2026-06-29",
     "legals": 900,
     "trophy": 0,
@@ -827,14 +959,6 @@
    },
    {
     "week": "2026-08-03",
-    "legals": 900,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 900
-   },
-   {
-    "week": "2026-08-10",
     "legals": 900,
     "trophy": 0,
     "brood": 0,
@@ -972,12 +1096,36 @@
     "total": 1916
    },
    {
+    "week": "2026-04-13",
+    "legals": 3730,
+    "trophy": 292,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4022
+   },
+   {
     "week": "2026-05-04",
     "legals": 1500,
     "trophy": 150,
     "brood": 0,
     "fingerling": 0,
     "total": 1650
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 2532,
+    "trophy": 36,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2568
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
    }
   ],
   "or-munsel-lake": [
@@ -1048,6 +1196,14 @@
     "total": 706
    },
    {
+    "week": "2026-05-04",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
     "week": "2026-05-25",
     "legals": 600,
     "trophy": 0,
@@ -1064,75 +1220,141 @@
     "total": 2300
    }
   ],
-  "or-sunnyside-pond": [
+  "or-olalla-creek-reservoir": [
    {
-    "week": "2026-02-02",
-    "legals": 1000,
-    "trophy": 40,
+    "week": "2026-02-09",
+    "legals": 2500,
+    "trophy": 200,
     "brood": 0,
     "fingerling": 0,
-    "total": 1040
+    "total": 2700
    },
    {
-    "week": "2026-03-02",
-    "legals": 1100,
-    "trophy": 40,
+    "week": "2026-03-16",
+    "legals": 2500,
+    "trophy": 200,
     "brood": 0,
     "fingerling": 0,
-    "total": 1140
+    "total": 2700
    },
    {
-    "week": "2026-03-23",
-    "legals": 1000,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1040
-   },
-   {
-    "week": "2026-04-06",
-    "legals": 1000,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1040
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 1100,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1140
-   },
-   {
-    "week": "2026-05-04",
-    "legals": 1100,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1140
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 1100,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1140
-   }
-  ],
-  "or-waverly-lake": [
-   {
-    "week": "2026-02-02",
-    "legals": 900,
+    "week": "2026-04-13",
+    "legals": 2332,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 900
+    "total": 2332
    },
    {
-    "week": "2026-03-02",
+    "week": "2026-05-11",
+    "legals": 2500,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2700
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 4000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "or-henry-hagg-lake": [
+   {
+    "week": "2026-02-09",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-02-23",
+    "legals": 12000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 12000
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 4000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5500
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 2335,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3335
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 4026,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4026
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 2950,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2950
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 3000,
+    "trophy": 1100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4100
+   },
+   {
+    "week": "2026-10-19",
+    "legals": 3000,
+    "trophy": 1100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4100
+   }
+  ],
+  "or-big-creek-reservoir-1": [
+   {
+    "week": "2026-02-09",
     "legals": 1000,
     "trophy": 0,
     "brood": 0,
@@ -1141,30 +1363,6 @@
    },
    {
     "week": "2026-03-16",
-    "legals": 2200,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2200
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 800,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 800
-   },
-   {
-    "week": "2026-05-04",
-    "legals": 1000,
-    "trophy": 40,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1040
-   },
-   {
-    "week": "2026-11-23",
     "legals": 1000,
     "trophy": 0,
     "brood": 0,
@@ -1172,12 +1370,28 @@
     "total": 1000
    },
    {
-    "week": "2026-12-21",
-    "legals": 800,
+    "week": "2026-04-13",
+    "legals": 1500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 800
+    "total": 1500
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2040,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2090
    }
   ],
   "or-mt-hood-pond": [
@@ -1199,14 +1413,6 @@
    },
    {
     "week": "2026-04-13",
-    "legals": 666,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 666
-   },
-   {
-    "week": "2026-04-27",
     "legals": 666,
     "trophy": 0,
     "brood": 0,
@@ -1266,14 +1472,6 @@
     "total": 5000
    },
    {
-    "week": "2026-05-11",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
     "week": "2026-05-25",
     "legals": 1000,
     "trophy": 0,
@@ -1300,28 +1498,12 @@
     "total": 1000
    },
    {
-    "week": "2026-03-16",
-    "legals": 0,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
     "week": "2026-04-06",
     "legals": 1563,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 1563
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 1250,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1250
    },
    {
     "week": "2026-04-27",
@@ -1376,12 +1558,20 @@
     "total": 2100
    },
    {
-    "week": "2026-03-16",
-    "legals": 3600,
+    "week": "2026-04-13",
+    "legals": 3732,
     "trophy": 200,
     "brood": 0,
     "fingerling": 0,
-    "total": 3800
+    "total": 3932
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1800
    },
    {
     "week": "2026-05-25",
@@ -1390,14 +1580,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1500
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 5000,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5200
    }
   ],
   "or-silver-creek-reservoir": [
@@ -1426,180 +1608,6 @@
     "total": 1935
    }
   ],
-  "or-big-creek-reservoir-1": [
-   {
-    "week": "2026-02-09",
-    "legals": 1000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-03-16",
-    "legals": 1000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 1500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1500
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 1000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 0,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 2040,
-    "trophy": 50,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2090
-   }
-  ],
-  "or-olalla-creek-reservoir": [
-   {
-    "week": "2026-02-09",
-    "legals": 2500,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2700
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 2332,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2332
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 2500,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2700
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 4000,
-    "trophy": 1500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5500
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 0,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 200
-   }
-  ],
-  "or-henry-hagg-lake": [
-   {
-    "week": "2026-02-09",
-    "legals": 0,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-02-23",
-    "legals": 12000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 12000
-   },
-   {
-    "week": "2026-03-23",
-    "legals": 2000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-04-06",
-    "legals": 0,
-    "trophy": 2000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 2335,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3335
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 4000,
-    "trophy": 1500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5500
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 4000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4000
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 0,
-    "trophy": 2950,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2950
-   },
-   {
-    "week": "2026-09-21",
-    "legals": 3000,
-    "trophy": 1100,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4100
-   },
-   {
-    "week": "2026-10-19",
-    "legals": 3000,
-    "trophy": 1100,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4100
-   }
-  ],
   "or-roaring-river-park-pond": [
    {
     "week": "2026-02-16",
@@ -1624,17 +1632,9 @@
     "brood": 0,
     "fingerling": 0,
     "total": 125
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 125,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 125
    }
   ],
-  "or-powers-pond": [
+  "or-bradley-lake": [
    {
     "week": "2026-02-23",
     "legals": 3000,
@@ -1645,11 +1645,19 @@
    },
    {
     "week": "2026-03-16",
-    "legals": 3000,
-    "trophy": 150,
+    "legals": 0,
+    "trophy": 200,
     "brood": 0,
     "fingerling": 0,
-    "total": 3150
+    "total": 200
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
    },
    {
     "week": "2026-04-27",
@@ -1660,20 +1668,54 @@
     "total": 3000
    },
    {
-    "week": "2026-05-04",
-    "legals": 0,
-    "trophy": 100,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 100
-   },
-   {
     "week": "2026-10-12",
     "legals": 0,
-    "trophy": 1300,
+    "trophy": 1600,
     "brood": 0,
     "fingerling": 0,
-    "total": 1300
+    "total": 1600
+   }
+  ],
+  "or-dexter-reservoir": [
+   {
+    "week": "2026-02-23",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-03-23",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 5060,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5060
    }
   ],
   "or-progress-lake": [
@@ -1710,7 +1752,7 @@
     "total": 1000
    }
   ],
-  "or-saunders-lake": [
+  "or-powers-pond": [
    {
     "week": "2026-02-23",
     "legals": 3000,
@@ -1720,7 +1762,15 @@
     "total": 3000
    },
    {
-    "week": "2026-03-23",
+    "week": "2026-03-16",
+    "legals": 3000,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3150
+   },
+   {
+    "week": "2026-04-13",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
@@ -1736,46 +1786,20 @@
     "total": 3000
    },
    {
+    "week": "2026-05-04",
+    "legals": 0,
+    "trophy": 100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 100
+   },
+   {
     "week": "2026-10-12",
     "legals": 0,
     "trophy": 1300,
     "brood": 0,
     "fingerling": 0,
     "total": 1300
-   }
-  ],
-  "or-cottage-grove-reservoir": [
-   {
-    "week": "2026-02-23",
-    "legals": 3750,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3750
-   },
-   {
-    "week": "2026-03-09",
-    "legals": 0,
-    "trophy": 4500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4500
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 0,
-    "trophy": 3750,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3750
    }
   ],
   "or-freeway-lake-east": [
@@ -1791,11 +1815,53 @@
   "or-krumbo-reservoir": [
    {
     "week": "2026-03-02",
-    "legals": 13000,
+    "legals": 7000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 13000
+    "total": 7000
+   }
+  ],
+  "or-garrison-lake": [
+   {
+    "week": "2026-03-02",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
    }
   ],
   "or-dorena-reservoir": [
@@ -1832,15 +1898,25 @@
     "total": 2700
    }
   ],
-  "or-garrison-lake": [
+  "or-devil-s-lake": [
    {
-    "week": "2026-03-02",
-    "legals": 0,
-    "trophy": 200,
+    "week": "2026-03-09",
+    "legals": 3250,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 200
+    "total": 3250
    },
+   {
+    "week": "2026-03-23",
+    "legals": 3250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3250
+   }
+  ],
+  "or-priday-reservoir": [
    {
     "week": "2026-03-09",
     "legals": 0,
@@ -1848,22 +1924,42 @@
     "brood": 0,
     "fingerling": 0,
     "total": 200
-   },
+   }
+  ],
+  "or-commonwealth-lake": [
    {
-    "week": "2026-03-30",
-    "legals": 0,
-    "trophy": 200,
+    "week": "2026-03-09",
+    "legals": 800,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 200
+    "total": 800
    },
    {
-    "week": "2026-04-06",
-    "legals": 0,
-    "trophy": 200,
+    "week": "2026-04-13",
+    "legals": 500,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 200
+    "total": 500
+   }
+  ],
+  "or-cottage-grove-reservoir": [
+   {
+    "week": "2026-03-09",
+    "legals": 0,
+    "trophy": 4500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 3750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
    }
   ],
   "or-canby-pond": [
@@ -1900,6 +1996,14 @@
     "total": 694
    },
    {
+    "week": "2026-04-27",
+    "legals": 936,
+    "trophy": 536,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1472
+   },
+   {
     "week": "2026-09-28",
     "legals": 300,
     "trophy": 0,
@@ -1922,48 +2026,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 300
-   }
-  ],
-  "or-dexter-reservoir": [
-   {
-    "week": "2026-03-09",
-    "legals": 0,
-    "trophy": 3000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-03-23",
-    "legals": 0,
-    "trophy": 3000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 0,
-    "trophy": 3000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 0,
-    "trophy": 3000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-10-05",
-    "legals": 5060,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5060
    }
   ],
   "or-thief-valley-reservoir": [
@@ -1994,84 +2056,140 @@
     "total": 566
    }
   ],
-  "or-priday-reservoir": [
+  "or-pine-hollow-reservoir": [
    {
-    "week": "2026-03-09",
-    "legals": 0,
+    "week": "2026-03-16",
+    "legals": 2500,
     "trophy": 200,
-    "brood": 0,
+    "brood": 50,
     "fingerling": 0,
-    "total": 200
-   }
-  ],
-  "or-commonwealth-lake": [
+    "total": 2750
+   },
    {
-    "week": "2026-03-09",
-    "legals": 800,
+    "week": "2026-03-30",
+    "legals": 2500,
     "trophy": 0,
-    "brood": 0,
+    "brood": 50,
     "fingerling": 0,
-    "total": 800
+    "total": 2550
    },
    {
     "week": "2026-04-13",
-    "legals": 500,
+    "legals": 2500,
     "trophy": 0,
-    "brood": 0,
+    "brood": 50,
     "fingerling": 0,
-    "total": 500
-   }
-  ],
-  "or-devil-s-lake": [
-   {
-    "week": "2026-03-09",
-    "legals": 3250,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3250
+    "total": 2550
    },
    {
-    "week": "2026-03-23",
-    "legals": 3250,
-    "trophy": 0,
+    "week": "2026-09-28",
+    "legals": 1600,
+    "trophy": 375,
     "brood": 0,
     "fingerling": 0,
-    "total": 3250
+    "total": 1975
    },
    {
-    "week": "2026-04-20",
-    "legals": 8000,
-    "trophy": 0,
+    "week": "2026-10-26",
+    "legals": 1600,
+    "trophy": 375,
     "brood": 0,
     "fingerling": 0,
-    "total": 8000
+    "total": 1975
    }
   ],
-  "or-cooper-creek-reservoir": [
+  "or-empire-lakes": [
    {
     "week": "2026-03-16",
-    "legals": 4500,
-    "trophy": 0,
+    "legals": 0,
+    "trophy": 400,
     "brood": 0,
     "fingerling": 0,
-    "total": 4500
+    "total": 400
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
    },
    {
     "week": "2026-04-06",
-    "legals": 1500,
-    "trophy": 0,
+    "legals": 0,
+    "trophy": 250,
     "brood": 0,
     "fingerling": 0,
-    "total": 1500
+    "total": 250
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
    },
    {
     "week": "2026-04-27",
-    "legals": 1500,
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "or-bethany-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 600,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1500
+    "total": 600
+   }
+  ],
+  "or-ben-irving-reservoir": [
+   {
+    "week": "2026-03-16",
+    "legals": 4000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
    },
    {
     "week": "2026-05-11",
@@ -2082,42 +2200,58 @@
     "total": 2500
    }
   ],
-  "or-loren-s-pond": [
+  "or-bikini-pond": [
    {
     "week": "2026-03-16",
-    "legals": 1500,
+    "legals": 350,
     "trophy": 0,
-    "brood": 0,
+    "brood": 10,
     "fingerling": 0,
-    "total": 1500
-   }
-  ],
-  "or-south-lake": [
-   {
-    "week": "2026-03-16",
-    "legals": 1800,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1800
-   }
-  ],
-  "or-lake-lytle": [
-   {
-    "week": "2026-03-16",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
+    "total": 360
    },
    {
-    "week": "2026-04-13",
-    "legals": 2000,
+    "week": "2026-03-30",
+    "legals": 350,
+    "trophy": 0,
+    "brood": 10,
+    "fingerling": 0,
+    "total": 360
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 650,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 2000
+    "total": 650
+   }
+  ],
+  "or-spring-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   }
+  ],
+  "or-eckman-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 1332,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1382
    }
   ],
   "or-taylor-lake": [
@@ -2172,140 +2306,6 @@
     "total": 1000
    }
   ],
-  "or-pine-hollow-reservoir": [
-   {
-    "week": "2026-03-16",
-    "legals": 2500,
-    "trophy": 200,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 2750
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 2550
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 2550
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 2550
-   },
-   {
-    "week": "2026-09-28",
-    "legals": 1600,
-    "trophy": 375,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1975
-   },
-   {
-    "week": "2026-10-26",
-    "legals": 1600,
-    "trophy": 375,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1975
-   }
-  ],
-  "or-empire-lakes": [
-   {
-    "week": "2026-03-16",
-    "legals": 0,
-    "trophy": 400,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 400
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 0,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-04-06",
-    "legals": 0,
-    "trophy": 250,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 250
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 0,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 0,
-    "trophy": 2000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 0,
-    "trophy": 2000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 0,
-    "trophy": 2000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-05-18",
-    "legals": 0,
-    "trophy": 1000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-10-12",
-    "legals": 0,
-    "trophy": 3000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   }
-  ],
-  "or-bethany-pond": [
-   {
-    "week": "2026-03-16",
-    "legals": 600,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 600
-   }
-  ],
   "or-rock-creek-reservoir": [
    {
     "week": "2026-03-16",
@@ -2340,88 +2340,14 @@
     "total": 3250
    }
   ],
-  "or-coffenbury-lake": [
+  "or-plat-i-reservoir": [
    {
     "week": "2026-03-16",
-    "legals": 2200,
+    "legals": 1500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 2200
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 1750,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1750
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 2000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-09-14",
-    "legals": 0,
-    "trophy": 500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 500
-   }
-  ],
-  "or-lost-creek-reservoir": [
-   {
-    "week": "2026-03-16",
-    "legals": 20000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 20000
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 15000,
-    "trophy": 800,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 15800
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 10000,
-    "trophy": 1500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 11500
-   },
-   {
-    "week": "2026-06-15",
-    "legals": 10000,
-    "trophy": 1500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 11500
-   },
-   {
-    "week": "2026-10-05",
-    "legals": 5000,
-    "trophy": 2300,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 7300
+    "total": 1500
    }
   ],
   "or-cullaby-lake": [
@@ -2598,6 +2524,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
    }
   ],
   "or-sunset-lake": [
@@ -2626,40 +2560,6 @@
     "total": 150
    }
   ],
-  "or-bradley-lake": [
-   {
-    "week": "2026-03-16",
-    "legals": 0,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 200
-   },
-   {
-    "week": "2026-04-06",
-    "legals": 0,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 200
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-10-12",
-    "legals": 0,
-    "trophy": 1600,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1600
-   }
-  ],
   "or-eel-lake": [
    {
     "week": "2026-03-16",
@@ -2676,24 +2576,24 @@
     "brood": 0,
     "fingerling": 0,
     "total": 2500
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 4000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4000
    }
   ],
-  "or-plat-i-reservoir": [
+  "or-lake-marie": [
    {
     "week": "2026-03-16",
-    "legals": 1500,
+    "legals": 2500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1500
+    "total": 2500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1250,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1250
    }
   ],
   "or-vernonia-pond": [
@@ -2822,6 +2722,14 @@
     "total": 300
    },
    {
+    "week": "2026-04-13",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
     "week": "2026-06-01",
     "legals": 500,
     "trophy": 0,
@@ -2830,70 +2738,156 @@
     "total": 500
    }
   ],
-  "or-foster-reservoir": [
+  "or-dorman-pond": [
    {
-    "week": "2026-03-23",
-    "legals": 3300,
+    "week": "2026-03-16",
+    "legals": 1000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3300
-   },
-   {
-    "week": "2026-03-30",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
-   },
-   {
-    "week": "2026-04-06",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
+    "total": 1000
    },
    {
     "week": "2026-04-13",
-    "legals": 4125,
+    "legals": 1000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 4125
+    "total": 1000
    },
    {
-    "week": "2026-04-20",
-    "legals": 4125,
+    "week": "2026-04-27",
+    "legals": 1200,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 4125
-   },
+    "total": 1200
+   }
+  ],
+  "or-cape-meares-lake": [
    {
-    "week": "2026-05-04",
-    "legals": 4875,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4875
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 3900,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3900
-   },
-   {
-    "week": "2026-09-14",
+    "week": "2026-03-16",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 3000
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "or-shevlin-pond": [
+   {
+    "week": "2026-03-16",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 666,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 966
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 0,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 0,
+    "trophy": 280,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 280
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 666,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 666
+   }
+  ],
+  "or-woahink-lake": [
+   {
+    "week": "2026-03-16",
+    "legals": 1332,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1332
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
    }
   ],
   "or-lake-of-the-woods": [
@@ -2912,14 +2906,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1270
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 1000,
-    "trophy": 600,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1600
    },
    {
     "week": "2026-05-04",
@@ -2954,87 +2940,75 @@
     "total": 1500
    }
   ],
-  "or-baker-pond": [
+  "or-foster-reservoir": [
    {
-    "week": "2026-03-30",
-    "legals": 350,
-    "trophy": 0,
-    "brood": 10,
-    "fingerling": 0,
-    "total": 360
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 350,
-    "trophy": 0,
-    "brood": 10,
-    "fingerling": 0,
-    "total": 360
-   }
-  ],
-  "or-highway-203-pond": [
-   {
-    "week": "2026-03-30",
-    "legals": 2250,
-    "trophy": 825,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3075
-   }
-  ],
-  "or-trojan-pond": [
-   {
-    "week": "2026-03-30",
-    "legals": 2000,
+    "week": "2026-03-23",
+    "legals": 3300,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 2000
+    "total": 3300
    },
    {
     "week": "2026-04-06",
-    "legals": 1000,
-    "trophy": 750,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1750
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 0,
-    "trophy": 750,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 2400,
+    "legals": 2500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 2400
+    "total": 2500
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 4125,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4125
    },
    {
     "week": "2026-05-04",
-    "legals": 0,
-    "trophy": 3000,
+    "legals": 4875,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4875
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 3900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3900
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 3000,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 3000
    },
    {
-    "week": "2026-05-11",
-    "legals": 0,
-    "trophy": 1000,
+    "week": "2026-09-21",
+    "legals": 3000,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1000
+    "total": 3000
    }
   ],
-  "or-butterfield-lake": [
+  "or-saunders-lake": [
    {
-    "week": "2026-03-30",
+    "week": "2026-03-23",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
@@ -3044,10 +3018,10 @@
    {
     "week": "2026-10-12",
     "legals": 0,
-    "trophy": 1600,
+    "trophy": 1300,
     "brood": 0,
     "fingerling": 0,
-    "total": 1600
+    "total": 1300
    }
   ],
   "or-murray-reservoir": [
@@ -3070,22 +3044,38 @@
     "total": 2550
    }
   ],
-  "or-bikini-pond": [
+  "or-coffenbury-lake": [
    {
     "week": "2026-03-30",
-    "legals": 350,
-    "trophy": 0,
-    "brood": 10,
-    "fingerling": 0,
-    "total": 360
-   },
-   {
-    "week": "2026-09-28",
-    "legals": 650,
+    "legals": 1750,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 650
+    "total": 1750
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
    }
   ],
   "or-long-creek-reservoir": [
@@ -3122,6 +3112,102 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1100
+   }
+  ],
+  "or-butterfield-lake": [
+   {
+    "week": "2026-03-30",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3500
+   },
+   {
+    "week": "2026-10-12",
+    "legals": 0,
+    "trophy": 1600,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1600
+   }
+  ],
+  "or-baker-pond": [
+   {
+    "week": "2026-03-30",
+    "legals": 350,
+    "trophy": 0,
+    "brood": 10,
+    "fingerling": 0,
+    "total": 360
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 350,
+    "trophy": 0,
+    "brood": 10,
+    "fingerling": 0,
+    "total": 360
+   }
+  ],
+  "or-arizona-pond": [
+   {
+    "week": "2026-04-06",
+    "legals": 1900,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1950
+   },
+   {
+    "week": "2026-04-13",
+    "legals": 1700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1700
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   },
+   {
+    "week": "2026-12-21",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   }
+  ],
+  "or-floras-lake": [
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 150,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 150
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 5450,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5450
    }
   ],
   "or-fall-river": [
@@ -3188,6 +3274,32 @@
     "brood": 0,
     "fingerling": 0,
     "total": 500
+   }
+  ],
+  "or-trojan-pond": [
+   {
+    "week": "2026-04-06",
+    "legals": 1000,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1750
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 0,
+    "trophy": 3000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
    }
   ],
   "or-green-peter-reservoir": [
@@ -3258,16 +3370,6 @@
     "total": 1332
    }
   ],
-  "or-morgan-lake": [
-   {
-    "week": "2026-04-06",
-    "legals": 500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 500
-   }
-  ],
   "or-harriet-lake": [
    {
     "week": "2026-04-06",
@@ -3318,118 +3420,14 @@
     "total": 2167
    }
   ],
-  "or-arizona-pond": [
+  "or-morgan-lake": [
    {
     "week": "2026-04-06",
-    "legals": 1900,
-    "trophy": 50,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1950
-   },
-   {
-    "week": "2026-04-13",
-    "legals": 1700,
+    "legals": 500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1700
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 0,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 200
-   },
-   {
-    "week": "2026-12-21",
-    "legals": 0,
-    "trophy": 400,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 400
-   }
-  ],
-  "or-floras-lake": [
-   {
-    "week": "2026-04-06",
-    "legals": 0,
-    "trophy": 150,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 150
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 5450,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5450
-   }
-  ],
-  "or-salmonberry-lake": [
-   {
-    "week": "2026-04-13",
-    "legals": 1000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   },
-   {
-    "week": "2026-04-20",
-    "legals": 1000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1000
-   }
-  ],
-  "or-red-top-pond": [
-   {
-    "week": "2026-04-13",
-    "legals": 1250,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1250
-   },
-   {
-    "week": "2026-05-11",
-    "legals": 750,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   }
-  ],
-  "or-cape-meares-lake": [
-   {
-    "week": "2026-04-13",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 2000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-09-14",
-    "legals": 0,
-    "trophy": 300,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 300
+    "total": 500
    }
   ],
   "or-benson-lake": [
@@ -3450,6 +3448,24 @@
     "brood": 0,
     "fingerling": 0,
     "total": 300
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 300
+   }
+  ],
+  "or-lake-lytle": [
+   {
+    "week": "2026-04-13",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
    }
   ],
   "or-kingsley-reservoir": [
@@ -3470,6 +3486,40 @@
     "total": 3500
    }
   ],
+  "or-lost-creek-reservoir": [
+   {
+    "week": "2026-04-13",
+    "legals": 15000,
+    "trophy": 800,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 15800
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 10000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 11500
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 10000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 11500
+   },
+   {
+    "week": "2026-10-05",
+    "legals": 5000,
+    "trophy": 2300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7300
+   }
+  ],
   "or-twin-lake-south": [
    {
     "week": "2026-04-13",
@@ -3486,6 +3536,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 200
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
    },
    {
     "week": "2026-06-22",
@@ -3512,99 +3570,29 @@
     "total": 500
    }
   ],
-  "or-magone-lake": [
+  "or-trout-farm-pond": [
    {
-    "week": "2026-04-20",
-    "legals": 3500,
+    "week": "2026-04-13",
+    "legals": 1150,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3500
+    "total": 1150
    }
   ],
-  "or-tenmile-lake": [
+  "or-loren-s-pond": [
    {
-    "week": "2026-04-20",
-    "legals": 3000,
+    "week": "2026-04-13",
+    "legals": 1500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-04-27",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
+    "total": 1500
    }
   ],
-  "or-spalding-pond": [
+  "or-loon-lake": [
    {
-    "week": "2026-04-20",
-    "legals": 600,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 600
-   },
-   {
-    "week": "2026-05-04",
-    "legals": 600,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 600
-   }
-  ],
-  "or-medco-pond": [
-   {
-    "week": "2026-04-20",
-    "legals": 2000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 2000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
-   },
-   {
-    "week": "2026-06-15",
-    "legals": 1100,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1100
-   }
-  ],
-  "or-wolf-creek-reservoir": [
-   {
-    "week": "2026-04-20",
-    "legals": 4500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4500
-   }
-  ],
-  "or-clear-lake": [
-   {
-    "week": "2026-04-20",
-    "legals": 3125,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3125
-   },
-   {
-    "week": "2026-05-04",
+    "week": "2026-04-13",
     "legals": 3750,
     "trophy": 0,
     "brood": 0,
@@ -3612,138 +3600,76 @@
     "total": 3750
    },
    {
-    "week": "2026-05-04",
-    "legals": 3000,
-    "trophy": 200,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 3250
-   },
-   {
-    "week": "2026-05-18",
-    "legals": 3000,
-    "trophy": 200,
-    "brood": 25,
-    "fingerling": 0,
-    "total": 3225
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 3000,
+    "week": "2026-04-27",
+    "legals": 3500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3000
+    "total": 3500
    },
    {
-    "week": "2026-06-15",
-    "legals": 3000,
+    "week": "2026-05-11",
+    "legals": 3500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-07-06",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-07-20",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
-   },
-   {
-    "week": "2026-08-17",
-    "legals": 3000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3000
+    "total": 3500
    }
   ],
-  "or-howard-prairie-reservoir": [
+  "or-north-lake": [
    {
-    "week": "2026-04-20",
-    "legals": 7500,
+    "week": "2026-04-13",
+    "legals": 200,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 7500
+    "total": 200
    }
   ],
-  "or-shevlin-pond": [
+  "or-applegate-reservoir": [
    {
-    "week": "2026-04-20",
-    "legals": 666,
-    "trophy": 300,
+    "week": "2026-04-13",
+    "legals": 10000,
+    "trophy": 800,
     "brood": 0,
     "fingerling": 0,
-    "total": 966
-   },
-   {
-    "week": "2026-05-18",
-    "legals": 666,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 666
-   },
-   {
-    "week": "2026-06-15",
-    "legals": 666,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 666
-   },
-   {
-    "week": "2026-06-29",
-    "legals": 0,
-    "trophy": 300,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 300
-   },
-   {
-    "week": "2026-07-06",
-    "legals": 666,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 666
-   },
-   {
-    "week": "2026-07-13",
-    "legals": 0,
-    "trophy": 280,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 280
-   },
-   {
-    "week": "2026-08-17",
-    "legals": 666,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 666
+    "total": 10800
    }
   ],
-  "or-pilcher-creek-reservoir": [
+  "or-red-top-pond": [
    {
-    "week": "2026-04-20",
-    "legals": 4500,
+    "week": "2026-04-13",
+    "legals": 1250,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 4500
+    "total": 1250
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "or-salmonberry-lake": [
+   {
+    "week": "2026-04-13",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-20",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
    }
   ],
   "or-antelope-flat-reservoir": [
@@ -3782,14 +3708,6 @@
     "total": 4500
    },
    {
-    "week": "2026-05-18",
-    "legals": 0,
-    "trophy": 500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 500
-   },
-   {
     "week": "2026-05-25",
     "legals": 3500,
     "trophy": 0,
@@ -3804,6 +3722,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 2250
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
    },
    {
     "week": "2026-06-15",
@@ -3866,6 +3792,34 @@
     "total": 550
    }
   ],
+  "or-hyatt-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 7500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7500
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 7450,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 7450
+   }
+  ],
+  "or-pilcher-creek-reservoir": [
+   {
+    "week": "2026-04-20",
+    "legals": 4500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4500
+   }
+  ],
   "or-bully-creek-reservoir": [
    {
     "week": "2026-04-20",
@@ -3886,12 +3840,20 @@
     "total": 2250
    },
    {
-    "week": "2026-05-11",
+    "week": "2026-04-27",
     "legals": 1250,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 1250
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
    },
    {
     "week": "2026-05-25",
@@ -3910,7 +3872,23 @@
     "total": 1000
    },
    {
+    "week": "2026-06-08",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
     "week": "2026-06-15",
+    "legals": 1000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-06-22",
     "legals": 1000,
     "trophy": 0,
     "brood": 0,
@@ -4000,42 +3978,68 @@
     "total": 550
    }
   ],
-  "or-sru-lake": [
+  "or-tenmile-lake": [
    {
-    "week": "2026-04-27",
-    "legals": 1000,
+    "week": "2026-04-20",
+    "legals": 3000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1000
-   }
-  ],
-  "or-cutsforth-pond": [
+    "total": 3000
+   },
    {
     "week": "2026-04-27",
-    "legals": 700,
+    "legals": 3000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 700
+    "total": 3000
    }
   ],
-  "or-loon-lake": [
+  "or-spalding-pond": [
    {
-    "week": "2026-04-27",
+    "week": "2026-04-20",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 600,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 600
+   }
+  ],
+  "or-magone-lake": [
+   {
+    "week": "2026-04-20",
     "legals": 3500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 3500
+   }
+  ],
+  "or-cooper-creek-reservoir": [
+   {
+    "week": "2026-04-27",
+    "legals": 1500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1500
    },
    {
     "week": "2026-05-11",
-    "legals": 3500,
+    "legals": 2500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3500
+    "total": 2500
    }
   ],
   "or-penland-lake": [
@@ -4064,6 +4068,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1400
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 1650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1650
    },
    {
     "week": "2026-06-15",
@@ -4166,6 +4178,14 @@
     "total": 2500
    },
    {
+    "week": "2026-06-22",
+    "legals": 0,
+    "trophy": 500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 500
+   },
+   {
     "week": "2026-07-13",
     "legals": 0,
     "trophy": 500,
@@ -4182,14 +4202,198 @@
     "total": 500
    }
   ],
-  "or-rowe-creek-reservoir": [
+  "or-cutsforth-pond": [
    {
-    "week": "2026-05-04",
-    "legals": 650,
+    "week": "2026-04-27",
+    "legals": 700,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 650
+    "total": 700
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 700
+   }
+  ],
+  "or-clear-lake": [
+   {
+    "week": "2026-05-04",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-05-04",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   },
+   {
+    "week": "2026-05-11",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 25,
+    "fingerling": 0,
+    "total": 3225
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 3000,
+    "trophy": 200,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 3250
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-07-20",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-08-17",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "or-walton-lake": [
+   {
+    "week": "2026-05-04",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   },
+   {
+    "week": "2026-09-07",
+    "legals": 0,
+    "trophy": 750,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "or-fourmile-lake": [
+   {
+    "week": "2026-05-04",
+    "legals": 1000,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2400
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1000,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   }
+  ],
+  "or-laurance-lake": [
+   {
+    "week": "2026-05-04",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
    }
   ],
   "or-timothy-lake": [
@@ -4224,14 +4428,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 2650
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 2100,
-    "trophy": 550,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2650
    }
   ],
   "or-olive-lake": [
@@ -4242,6 +4438,64 @@
     "brood": 0,
     "fingerling": 0,
     "total": 3050
+   }
+  ],
+  "or-rowe-creek-reservoir": [
+   {
+    "week": "2026-05-04",
+    "legals": 650,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 650
+   }
+  ],
+  "or-frog-lake": [
+   {
+    "week": "2026-05-11",
+    "legals": 2250,
+    "trophy": 400,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2700
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 2250,
+    "trophy": 400,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2700
+   }
+  ],
+  "or-poison-creek-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 700,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 700
+   }
+  ],
+  "or-victor-pond": [
+   {
+    "week": "2026-05-11",
+    "legals": 500,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   }
+  ],
+  "or-little-hyatt-reservoir": [
+   {
+    "week": "2026-05-11",
+    "legals": 800,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 800
    }
   ],
   "or-duncan-reservoir": [
@@ -4264,178 +4518,20 @@
     "total": 3750
    },
    {
+    "week": "2026-05-25",
+    "legals": 3750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3750
+   },
+   {
     "week": "2026-06-08",
     "legals": 2750,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 2750
-   }
-  ],
-  "or-eckman-lake": [
-   {
-    "week": "2026-05-11",
-    "legals": 1332,
-    "trophy": 50,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1382
-   }
-  ],
-  "or-little-hyatt-reservoir": [
-   {
-    "week": "2026-05-11",
-    "legals": 800,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 800
-   }
-  ],
-  "or-lake-in-the-woods": [
-   {
-    "week": "2026-05-11",
-    "legals": 750,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   },
-   {
-    "week": "2026-06-08",
-    "legals": 750,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   }
-  ],
-  "or-walton-lake": [
-   {
-    "week": "2026-05-11",
-    "legals": 0,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 200
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
-   },
-   {
-    "week": "2026-07-13",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
-   },
-   {
-    "week": "2026-09-07",
-    "legals": 0,
-    "trophy": 750,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   }
-  ],
-  "or-lemolo-reservoir": [
-   {
-    "week": "2026-05-11",
-    "legals": 6350,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 6350
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 5000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5000
-   },
-   {
-    "week": "2026-06-08",
-    "legals": 5100,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 5100
-   }
-  ],
-  "or-lake-marie": [
-   {
-    "week": "2026-05-11",
-    "legals": 1250,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1250
-   }
-  ],
-  "or-detroit-lake": [
-   {
-    "week": "2026-05-11",
-    "legals": 0,
-    "trophy": 12000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 12000
-   },
-   {
-    "week": "2026-05-18",
-    "legals": 2000,
-    "trophy": 7000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 9000
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 0,
-    "trophy": 8000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 8000
-   },
-   {
-    "week": "2026-06-01",
-    "legals": 0,
-    "trophy": 4000,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4000
-   },
-   {
-    "week": "2026-06-15",
-    "legals": 8000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 8000
-   },
-   {
-    "week": "2026-06-22",
-    "legals": 13000,
-    "trophy": 1500,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 14500
-   },
-   {
-    "week": "2026-06-29",
-    "legals": 6900,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 6900
    }
   ],
   "or-yellow-jacket-pond": [
@@ -4474,42 +4570,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 970
-   }
-  ],
-  "or-lofton-reservoir": [
-   {
-    "week": "2026-05-11",
-    "legals": 1330,
-    "trophy": 450,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1780
-   },
-   {
-    "week": "2026-05-25",
-    "legals": 670,
-    "trophy": 300,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 970
    },
    {
     "week": "2026-06-22",
-    "legals": 1000,
-    "trophy": 300,
+    "legals": 2000,
+    "trophy": 450,
     "brood": 0,
     "fingerling": 0,
-    "total": 1300
-   }
-  ],
-  "or-ben-irving-reservoir": [
-   {
-    "week": "2026-05-11",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
+    "total": 2450
    }
   ],
   "or-chickahominy-reservoir": [
@@ -4678,32 +4746,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 300
-   }
-  ],
-  "or-trillium-lake": [
+   },
    {
-    "week": "2026-05-18",
-    "legals": 0,
+    "week": "2026-06-22",
+    "legals": 670,
     "trophy": 0,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 50
-   },
-   {
-    "week": "2026-06-08",
-    "legals": 2000,
-    "trophy": 167,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 2217
-   },
-   {
-    "week": "2026-08-24",
-    "legals": 2000,
-    "trophy": 133,
     "brood": 0,
     "fingerling": 0,
-    "total": 2133
+    "total": 670
    }
   ],
   "or-breitenbush-river": [
@@ -4716,7 +4766,7 @@
     "total": 1400
    },
    {
-    "week": "2026-06-01",
+    "week": "2026-05-25",
     "legals": 900,
     "trophy": 0,
     "brood": 0,
@@ -4724,7 +4774,7 @@
     "total": 900
    },
    {
-    "week": "2026-06-08",
+    "week": "2026-06-01",
     "legals": 900,
     "trophy": 0,
     "brood": 0,
@@ -4740,7 +4790,23 @@
     "total": 1400
    },
    {
+    "week": "2026-06-22",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
     "week": "2026-06-29",
+    "legals": 900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 900
+   },
+   {
+    "week": "2026-07-06",
     "legals": 900,
     "trophy": 0,
     "brood": 0,
@@ -4796,14 +4862,62 @@
     "total": 900
    }
   ],
-  "or-jubilee-lake": [
+  "or-detroit-lake": [
    {
     "week": "2026-05-18",
-    "legals": 7700,
+    "legals": 2000,
+    "trophy": 7000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 9000
+   },
+   {
+    "week": "2026-05-25",
+    "legals": 0,
+    "trophy": 8000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 8000
+   },
+   {
+    "week": "2026-06-01",
+    "legals": 0,
+    "trophy": 4000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 0,
+    "trophy": 4000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 4000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 8000,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 7700
+    "total": 8000
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 13000,
+    "trophy": 1500,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 14500
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 6900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 6900
    }
   ],
   "or-wallowa-lake": [
@@ -4856,6 +4970,50 @@
     "total": 180
    }
   ],
+  "or-trillium-lake": [
+   {
+    "week": "2026-05-18",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-05-18",
+    "legals": 0,
+    "trophy": 0,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 50
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 2000,
+    "trophy": 167,
+    "brood": 50,
+    "fingerling": 0,
+    "total": 2217
+   },
+   {
+    "week": "2026-08-24",
+    "legals": 2000,
+    "trophy": 133,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2133
+   }
+  ],
+  "or-lofton-reservoir": [
+   {
+    "week": "2026-05-25",
+    "legals": 670,
+    "trophy": 300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 970
+   }
+  ],
   "or-small-fry-lake": [
    {
     "week": "2026-05-25",
@@ -4872,6 +5030,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 334
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
    },
    {
     "week": "2026-09-14",
@@ -4898,6 +5064,118 @@
     "total": 334
    }
   ],
+  "or-medco-pond": [
+   {
+    "week": "2026-05-25",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1100,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1100
+   }
+  ],
+  "or-lemolo-reservoir": [
+   {
+    "week": "2026-05-25",
+    "legals": 5000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 5000
+   }
+  ],
+  "or-olallie-lake": [
+   {
+    "week": "2026-05-25",
+    "legals": 9335,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 9335
+   },
+   {
+    "week": "2026-06-08",
+    "legals": 0,
+    "trophy": 125,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 125
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 0,
+    "trophy": 1300,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   },
+   {
+    "week": "2026-06-22",
+    "legals": 0,
+    "trophy": 125,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 125
+   }
+  ],
+  "or-estacada-lake": [
+   {
+    "week": "2026-05-25",
+    "legals": 1300,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1300
+   },
+   {
+    "week": "2026-06-15",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-06-29",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-14",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
+    "week": "2026-09-28",
+    "legals": 1400,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1400
+   }
+  ],
   "or-north-fork-reservoir": [
    {
     "week": "2026-05-25",
@@ -4908,12 +5186,12 @@
     "total": 7500
    },
    {
-    "week": "2026-06-08",
-    "legals": 3600,
+    "week": "2026-06-01",
+    "legals": 7500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 3600
+    "total": 7500
    },
    {
     "week": "2026-06-15",
@@ -4956,62 +5234,14 @@
     "total": 3702
    }
   ],
-  "or-olallie-lake": [
+  "or-twin-lakes": [
    {
-    "week": "2026-05-25",
-    "legals": 9335,
+    "week": "2026-06-01",
+    "legals": 200,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 9335
-   },
-   {
-    "week": "2026-06-15",
-    "legals": 0,
-    "trophy": 1300,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1300
-   }
-  ],
-  "or-twin-ponds": [
-   {
-    "week": "2026-06-01",
-    "legals": 1850,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1850
-   }
-  ],
-  "or-anthony-lake": [
-   {
-    "week": "2026-06-01",
-    "legals": 3450,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 3450
-   }
-  ],
-  "or-big-lava-lake": [
-   {
-    "week": "2026-06-01",
-    "legals": 8100,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 8100
-   }
-  ],
-  "or-frog-lake": [
-   {
-    "week": "2026-06-01",
-    "legals": 2250,
-    "trophy": 400,
-    "brood": 50,
-    "fingerling": 0,
-    "total": 2700
+    "total": 200
    }
   ],
   "or-devils-lake": [
@@ -5040,48 +5270,22 @@
     "total": 1384
    }
   ],
-  "or-grande-ronde-lake": [
+  "or-miller-lake": [
    {
     "week": "2026-06-01",
-    "legals": 3000,
-    "trophy": 0,
+    "legals": 1500,
+    "trophy": 450,
     "brood": 0,
     "fingerling": 0,
-    "total": 3000
-   }
-  ],
-  "or-fourmile-lake": [
-   {
-    "week": "2026-06-01",
-    "legals": 2000,
-    "trophy": 400,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2400
+    "total": 1950
    },
    {
-    "week": "2026-06-15",
-    "legals": 1000,
-    "trophy": 400,
+    "week": "2026-06-22",
+    "legals": 1500,
+    "trophy": 450,
     "brood": 0,
     "fingerling": 0,
-    "total": 1400
-   },
-   {
-    "week": "2026-06-29",
-    "legals": 1000,
-    "trophy": 400,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1400
-   },
-   {
-    "week": "2026-07-13",
-    "legals": 1000,
-    "trophy": 400,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1400
+    "total": 1950
    },
    {
     "week": "2026-09-14",
@@ -5092,14 +5296,54 @@
     "total": 2000
    }
   ],
-  "or-victor-pond": [
+  "or-bolan-lake": [
    {
-    "week": "2026-06-08",
-    "legals": 500,
-    "trophy": 50,
+    "week": "2026-06-01",
+    "legals": 800,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 550
+    "total": 800
+   }
+  ],
+  "or-grande-ronde-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   }
+  ],
+  "or-twin-ponds": [
+   {
+    "week": "2026-06-01",
+    "legals": 1850,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1850
+   }
+  ],
+  "or-anthony-lake": [
+   {
+    "week": "2026-06-01",
+    "legals": 3450,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3450
+   }
+  ],
+  "or-lake-in-the-woods": [
+   {
+    "week": "2026-06-08",
+    "legals": 750,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
    }
   ],
   "or-honeymoon-pond": [
@@ -5120,126 +5364,48 @@
     "total": 100
    }
   ],
-  "or-estacada-lake": [
-   {
-    "week": "2026-06-15",
-    "legals": 1334,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1334
-   },
-   {
-    "week": "2026-06-29",
-    "legals": 1334,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1334
-   },
-   {
-    "week": "2026-09-14",
-    "legals": 1334,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1334
-   },
-   {
-    "week": "2026-09-21",
-    "legals": 1334,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1334
-   },
-   {
-    "week": "2026-09-28",
-    "legals": 1400,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 1400
-   }
-  ],
-  "or-big-cultus-lake": [
+  "or-salt-creek-summit-pond": [
    {
     "week": "2026-06-22",
-    "legals": 2500,
-    "trophy": 0,
+    "legals": 500,
+    "trophy": 50,
     "brood": 0,
     "fingerling": 0,
-    "total": 2500
-   },
-   {
-    "week": "2026-08-17",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
-   }
-  ],
-  "or-three-creeks-lake": [
-   {
-    "week": "2026-06-22",
-    "legals": 4000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 4000
-   },
-   {
-    "week": "2026-06-29",
-    "legals": 0,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 200
-   }
-  ],
-  "or-kinney-lake": [
-   {
-    "week": "2026-06-22",
-    "legals": 2500,
-    "trophy": 200,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2700
-   },
-   {
-    "week": "2026-07-06",
-    "legals": 0,
-    "trophy": 100,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 100
+    "total": 550
    },
    {
     "week": "2026-07-13",
-    "legals": 1200,
+    "legals": 700,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 100,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1200
+    "total": 100
    }
   ],
-  "or-deadhorse-lake": [
+  "or-campbell-lake": [
    {
     "week": "2026-06-22",
-    "legals": 2400,
+    "legals": 2200,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 2400
+    "total": 2200
    },
    {
     "week": "2026-07-06",
-    "legals": 1900,
+    "legals": 1600,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1900
+    "total": 1600
    },
    {
     "week": "2026-09-14",
@@ -5268,14 +5434,86 @@
     "total": 2500
    }
   ],
-  "or-campbell-lake": [
+  "or-mcgraw-pond": [
    {
-    "week": "2026-07-06",
-    "legals": 1600,
+    "week": "2026-06-22",
+    "legals": 500,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 550
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 700,
+    "trophy": 50,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 750
+   }
+  ],
+  "or-paulina-lake": [
+   {
+    "week": "2026-06-22",
+    "legals": 2500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 1600
+    "total": 2500
+   },
+   {
+    "week": "2026-07-06",
+    "legals": 2500,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2500
+   }
+  ],
+  "or-three-creeks-lake": [
+   {
+    "week": "2026-06-29",
+    "legals": 0,
+    "trophy": 200,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 200
+   }
+  ],
+  "or-kinney-lake": [
+   {
+    "week": "2026-07-06",
+    "legals": 0,
+    "trophy": 100,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 100
+   },
+   {
+    "week": "2026-07-13",
+    "legals": 1200,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1200
+   },
+   {
+    "week": "2026-09-21",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   }
+  ],
+  "or-deadhorse-lake": [
+   {
+    "week": "2026-07-06",
+    "legals": 1900,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1900
    },
    {
     "week": "2026-09-14",
@@ -5284,16 +5522,6 @@
     "brood": 0,
     "fingerling": 0,
     "total": 1000
-   }
-  ],
-  "or-paulina-lake": [
-   {
-    "week": "2026-07-06",
-    "legals": 2500,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2500
    }
   ],
   "or-hosmer-lake": [
@@ -5306,42 +5534,14 @@
     "total": 750
    }
   ],
-  "or-salt-creek-summit-pond": [
+  "or-big-cultus-lake": [
    {
-    "week": "2026-07-13",
-    "legals": 700,
-    "trophy": 50,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   },
-   {
-    "week": "2026-09-21",
-    "legals": 100,
+    "week": "2026-08-17",
+    "legals": 2500,
     "trophy": 0,
     "brood": 0,
     "fingerling": 0,
-    "total": 100
-   }
-  ],
-  "or-mcgraw-pond": [
-   {
-    "week": "2026-07-13",
-    "legals": 700,
-    "trophy": 50,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 750
-   }
-  ],
-  "or-miller-lake": [
-   {
-    "week": "2026-09-14",
-    "legals": 2000,
-    "trophy": 0,
-    "brood": 0,
-    "fingerling": 0,
-    "total": 2000
+    "total": 2500
    }
   ],
   "or-faraday-lake": [
