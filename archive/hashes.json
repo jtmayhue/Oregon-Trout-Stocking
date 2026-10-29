@@ -1,10 +1,10 @@
 {
-  "northwest-zone": "0954f86f440e919e0bd3c228337ecbf63a0271f998a120b5a14b0f90b44f55db",
-  "southwest-zone": "82ecb136e183906c26c7fa92149344b29995db8add06bac8383137c1226456ef",
-  "willamette-zone": "99b462119cea8f5a5263414fc6c876d81f24a7e2e51fa4352f2c250783307476",
-  "central-zone": "498b677cb167267e07fdc3bef1d0314a74839ae6005ceea2a4bd3a7cb829d17a",
-  "northeast-zone": "161e12d968d8746f6c9dd7e2d2966982673b198a6e89a192fcf6e13cf278d384",
-  "southeast-zone": "3d9ac62020c37edeeaf9920c8f75792afe89e5bd3f6332802b47ccd33ce65eca",
-  "snake-zone": "38e011fd4ff82e4bcda8f68b6c6814661e968efe7f65ec1c9f47612fff8693bc",
+  "northwest-zone": "9bc92531bf9b35d1d328f4fd6be1c50ede36dac2ae88667e6f256fa279c45eee",
+  "southwest-zone": "d58f3a12cceebdfd921bef340ac03eba702068772f99ce3e11d8be31a9a126fc",
+  "willamette-zone": "1198a784d8e30cc70b248a4384c1be8f84d540a6d66e60888289c5f6af510e98",
+  "central-zone": "5d83444c886d7c0e634a10e59669788f8b411d47ef4a15ce4b874ee0b379c52a",
+  "northeast-zone": "a7e6408b122738ec922bbf8fb6226607df191fbf2c4a5b27ad88aeab1d68fe2e",
+  "southeast-zone": "c7270a374524a9ceaf8256dd366b10d07b5aa169640a8c6fb77c37f23ea2d9bd",
+  "snake-zone": "a2a8c20f1bab8aa6c6a69b1063b7a0e24e77c58fa5d6998590faf766677c15ec",
   "marine-zone": "3d1ff512c2e02a0e60ea27803832e6164b20edd026847dc9c898eb9264d3cf40"
 }
