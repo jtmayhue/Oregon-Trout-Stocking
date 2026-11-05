@@ -151,7 +151,7 @@ def fetch_schedule(start: str, end: str) -> list[dict]:
         sys.exit("ODFW returned 403 on the bare page -- IP or headers blocked.")
 
     rows, headers = [], None
-    for page in range(0, 60):                      # hard stop; a year is ~20
+    for page in range(0, 160):                     # hard stop; a year is ~21, the 3-year window ~65
         r = sess.get(SCHEDULE, params={P_START: start, P_END: end, "page": page},
                      timeout=45)
         if r.status_code == 403:
