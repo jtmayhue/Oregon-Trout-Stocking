@@ -31,6 +31,23 @@ jobs:
       - name: Capture zone reports
         run: python zone_snapshot.py --root ./archive
 
+      # Version 1.2+ reads stockings-v2.json: Jan 1 of LAST year through Dec 31
+      # of NEXT year. That keeps each water's history across New Year and picks
+      # up next year's weeks as soon as ODFW publishes them (2027 was already
+      # online in Nov 2026). stockings.json below stays current-year-only, so
+      # version 1.1, which assumes a single calendar year, is unaffected.
+      - name: Pull wide schedule (last year through next year)
+        id: schedule_wide
+        continue-on-error: true
+        run: |
+          YEAR=$(date +%Y)
+          python odfw_ingest.py --start "$((YEAR-1))-01-01" --end "$((YEAR+1))-12-31" --out ./data-wide
+
+      - name: Build stockings-v2.json
+        if: steps.schedule_wide.outcome == 'success'
+        continue-on-error: true
+        run: python build_stockings.py --events ./data-wide/stocking_events.json --waters ./waters.json --out ./stockings-v2.json
+
       - name: Pull stocking schedule
         id: schedule
         continue-on-error: true
@@ -47,7 +64,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A archive data stockings.json unmatched.json 2>/dev/null || true
+          git add -A archive data data-wide stockings.json stockings-v2.json unmatched.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "nothing changed this run"
           else
@@ -60,6 +77,11 @@ jobs:
         run: |
           echo "::warning::Schedule pull failed. Open this job's 'Pull stocking schedule' step for the reason -- do not assume the cause."
           echo "The zone report archive still captured, which is the part that cannot be redone."
+
+      - name: Warn if the wide schedule pull failed
+        if: steps.schedule_wide.outcome != 'success'
+        run: |
+          echo "::warning::Wide schedule pull failed. stockings-v2.json was not updated this run; version 1.2+ keeps showing the previous copy."
 
       # CANARY. The workflow watches itself: if the newest capture on disk is
       # older than 10 days, runs have been silently skipped or the schedule was
