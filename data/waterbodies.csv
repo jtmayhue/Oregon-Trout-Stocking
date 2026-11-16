@@ -11,7 +11,6 @@ arizona-pond,Arizona Pond,,ARIZONA PD,
 baker-pond,Baker Pond,,BAKER PD,
 balm-creek-reservoir,Balm Creek Reservoir,,BALM CREEK RES,
 becker-pond,Becker Pond,,BECKER PD,
-ben-irving-reservoir,Ben Irving Reservoir,,BEN IRVING RES,
 benson-lake,Benson Lake,,BENSON LK,
 bethany-pond,Bethany Pond,,BETHANY PD,
 big-creek-res-1,Big Creek RES-1,,BIG CREEK RES-1,
@@ -25,9 +24,6 @@ bradley-lake,Bradley Lake,,BRADLEY LK,
 brandon-s-pond,Brandon's Pond,Jd Screen.Sp Pd,BRANDON'S PD (JD SCREEN.SP PD),alt_name
 breitenbush-river,Breitenbush River,,BREITENBUSH R,
 buck-lake,Buck Lake,,BUCK LK,
-bull-prairie-reservoir,Bull Prairie Reservoir,,BULL PRAIRIE RES,
-bully-creek-reservoir,Bully Creek Reservoir,,BULLY CREEK RES,
-burma-pond-little,Burma Pond Little,,"BURMA PD, L",comma_modifier
 burns-gravel-pond,Burns Gravel Pond,,BURNS GRAVEL PD,
 butterfield-lake,Butterfield Lake,,BUTTERFIELD LK,
 campbell-lake,Campbell Lake,,CAMPBELL LK,
@@ -44,7 +40,6 @@ coffenbury-lake,Coffenbury Lake,,COFFENBURY LK,
 commonwealth-lake,Commonwealth Lake,,COMMONWEALTH LK,
 cooper-creek-reservoir,Cooper Creek Reservoir,,COOPER CR RES,
 cottage-grove-reservoir,Cottage Grove Reservoir,,COTTAGE GROVE RES,
-cottonwood-pit,Cottonwood Pit,,COTTONWOOD PIT,
 cullaby-lake,Cullaby Lake,,CULLABY LK,
 cultus-lake-big,Cultus Lake Big,,"CULTUS LK, B",comma_modifier
 cutsforth-pond,Cutsforth Pond,,CUTSFORTH PD,
@@ -90,6 +85,7 @@ heart-lake,Heart Lake,,HEART LK,
 hebo-lake,Hebo Lake,,HEBO LK,
 hemlock-lake,Hemlock Lake,Hemlock Meadow Res,HEMLOCK LK (HEMLOCK MEADOW RES),alt_name
 henry-hagg-lake,Henry Hagg Lake,,HENRY HAGG LK,
+highway-203-pond,Highway 203 Pond,,HIGHWAY 203 PD,
 hills-creek-reservoir,Hills Creek Reservoir,,HILLS CR RES,
 hog-creek-pond,Hog Creek Pond,,HOG CR PD,
 holbrook-reservoir,Holbrook Reservoir,,HOLBROOK RES,
@@ -136,16 +132,16 @@ metolius-pond,Metolius Pond,,METOLIUS PD,
 middle-fork-pond-hood-r,Middle Fork Pond (Hood R),,MIDDLE FK PD (HOOD R),qualifier_kept
 miller-lake,Miller Lake,,MILLER LK,
 morgan-lake,Morgan Lake,,MORGAN LK,
+morrow-co-ohv-park-pond-1,Morrow Co Ohv Park Pond #1,Trout Lk,MORROW CO OHV PARK PD #1 (Trout Lk),alt_name
 morrow-co-ohv-park-pond-2,Morrow Co Ohv Park Pond #2,Red Rock,MORROW CO OHV PARK PD #2 (Red Rock),alt_name
 morrow-co-ohv-park-pond-3,Morrow Co Ohv Park Pond #3,O'Brien,MORROW CO OHV PARK PD #3 (O'Brien),alt_name
+morrow-co-ohv-park-pond-4,Morrow Co Ohv Park Pond #4,Wilson,MORROW CO OHV PARK PD #4 (Wilson),alt_name
 mt-hood-pond-mhcc-campus,Mt Hood Pond (Mhcc Campus),,MT HOOD PD (MHCC CAMPUS),qualifier_kept
 munsel-lake,Munsel Lake,,MUNSEL LK,
 murray-reservoir,Murray Reservoir,Hardy Murray Res,MURRAY RES (FMR HARDY MURRAY RES),renamed
 nedonna-pond,Nedonna Pond,,NEDONNA PD,
 north-fork-reservoir,North Fork Reservoir,,NORTH FORK RES,
-north-lake,North Lake,,NORTH LK,
 north-powder-pd-1,North Powder PD-1,,NORTH POWDER PD-1,
-ochoco-reservoir,Ochoco Reservoir,,OCHOCO RES,
 olalla-creek-reservoir,Olalla Creek Reservoir,,OLALLA CR RES,
 olallie-lake,Olallie Lake,,OLALLIE LK,
 olive-lake,Olive Lake,,OLIVE LK,
@@ -171,7 +167,6 @@ rock-creek-reservoir,Rock Creek Reservoir,,ROCK CREEK RES,
 rogue-river-above-lost-creek,Rogue River above Lost Creek,,ROGUE R above Lost Creek,river_reach
 roulet-pond,Roulet Pond,,ROULET PD,
 row-river-nature-park,Row River Nature Park,Cott. Grv. Pd,ROW R NATURE PK-Fmr Cott. Grv. Pd,renamed
-rowe-creek-reservoir,Rowe Creek Reservoir,,ROWE CREEK RES,
 running-y-pond,Running Y Pond,,RUNNING Y PD,
 salish-pond-west,Salish Pond West,,"SALISH PD, W",comma_modifier
 salmon-creek,Salmon Creek,,SALMON CR,
@@ -193,7 +188,6 @@ smock-prairie-reservoir,Smock Prairie Reservoir,,SMOCK PRAIRIE RES,
 south-lake,South Lake,,SOUTH LK,
 spalding-pond,Spalding Pond,,SPALDING PD,
 sprague-pit-pond,Sprague Pit Pond,,SPRAGUE PIT PD,
-spring-lake,Spring Lake,,SPRING LK,
 st-louis-pond,St Louis Pond,,ST LOUIS PD,
 summit-prairie-pond,Summit Prairie Pond,,SUMMIT PRAIRIE PD,
 sunnyside-park-pond,Sunnyside Park Pond,,SUNNYSIDE PARK PD,
@@ -216,9 +210,7 @@ tipton-pond-north,Tipton Pond North,,"TIPTON PD, N",comma_modifier
 town-lake,Town Lake,,TOWN LK,
 trillium-lake,Trillium Lake,,TRILLIUM LK,
 trojan-recreation-lake,Trojan Recreation Lake,,TROJAN RECREATION LK,
-trout-farm-pond,Trout Farm Pond,,TROUT FARM PD,
 turner-lake,Turner Lake,,TURNER LK,
-twin-lake,Twin Lake,,TWIN LK,
 twin-lake-north,Twin Lake North,,"TWIN LK, N",comma_modifier
 twin-lake-south,Twin Lake South,,"TWIN LK, S",comma_modifier
 twin-ponds,Twin Ponds,,TWIN PDS,
@@ -235,8 +227,8 @@ wallowa-wildlife-pond,Wallowa Wildlife Pond,Weavrs Pd,WALLOWA WLDLIFE PD (WEAVRS
 walter-wirth-lake,Walter Wirth Lake,,WALTER WIRTH LK,
 walton-lake,Walton Lake,,WALTON LK,
 waverly-lake,Waverly Lake,,WAVERLY LK,
-weaver-road-pond,Weaver Road Pond,,Weaver Road Pd,
 weston-highway-pond,Weston Highway Pond,,WESTON HIGHWAY PD,
+wildcat-pond,Wildcat Pond,,WILDCAT PD,
 willamette-river-coast-fork,Willamette River Coast Fork,,"WILLAMETTE R, CST FK",comma_modifier
 willow-creek,Willow Creek,,WILLOW CR,
 willow-creek-reservoir,Willow Creek Reservoir,,WILLOW CREEK RES,
