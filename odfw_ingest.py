@@ -9,7 +9,8 @@ selectors on first run.
     pip install requests beautifulsoup4 lxml pdfplumber
     python odfw_ingest.py --out ./data
 """
-import argparse, csv, json, re, sys, time, time
+import argparse, csv, json, re, sys, time
+from datetime import date, timedelta
 from pathlib import Path
 
 import requests
@@ -139,68 +140,187 @@ def slug(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def fetch_schedule(start: str, end: str) -> list[dict]:
-    """Full-year pull, all pages. NEVER derive the waterbody universe from a
-    default view: it is date-windowed and silently omits out-of-season waters.
-    A 2026-09-03 default pull returned 103 waters; the full year has 231."""
-    sess = requests.Session()
-    sess.headers.update(UA)
+ZONE_PARAM = "field_zone_value"
+# The zone dropdown on the live form (checked 2026-11-17): 1 Central,
+# 2 Northeast, 3 Northwest, 4 Southeast, 5 Southwest, 6 Willamette.
+ZONES = ["1", "2", "3", "4", "5", "6"]
+EXPECTED_HEADERS = {"week of", "waterbody", "total"}
+NAME_PARAM = "field_waterbody_name_value_1"   # case-insensitive "contains"
+# Waters ODFW lists with no zone at all. A zone query can never return them,
+# so they are also fetched by name. Any new ones seen in a run are added.
+NO_ZONE_SEED = ["BOLAN LK", "SMITH LK", "HYATT RES, LITTLE"]
+DELAY = 0.4
 
-    bare = sess.get(SCHEDULE, timeout=45)
-    if bare.status_code == 403:
-        sys.exit("ODFW returned 403 on the bare page -- IP or headers blocked.")
 
-    rows, headers = [], None
-    for page in range(0, 160):                     # hard stop; a year is ~21, the 3-year window ~65
-        r = sess.get(SCHEDULE, params={P_START: start, P_END: end, "page": page},
-                     timeout=45)
+class MarkupChanged(Exception):
+    pass
+
+
+def _row_key(row: dict) -> tuple:
+    return tuple(sorted(row.items()))
+
+
+def _query(sess, params: dict) -> tuple[list[dict], int]:
+    """Every page of one query. Returns (rows, slots).
+
+    `slots` is the number of rows ODFW's pager handed out, counting repeats.
+    That is ODFW's own count of how many rows the query matched, which is what
+    the completeness check compares against.
+
+    No table at all is NORMAL here: an empty week, an empty zone, or the page
+    after the last one all come back without a table.
+    """
+    rows, slots = [], 0
+    for page in range(0, 20):
+        r = sess.get(SCHEDULE, params={**params, "page": page}, timeout=45)
         if r.status_code == 403:
-            sys.exit(f"403 on page {page}. If page 0 worked, you are being rate "
-                     f"limited -- raise the delay. If page 0 failed, the field "
-                     f"names changed; re-inspect the form.")
+            sys.exit(f"403 for {params} page {page}. If earlier requests worked "
+                     f"you are being rate limited -- raise DELAY.")
         r.raise_for_status()
-
-        soup = BeautifulSoup(r.text, "lxml")
-        table = soup.find("table")
+        table = BeautifulSoup(r.text, "lxml").find("table")
+        time.sleep(DELAY)
         if not table:
-            # Past the last page ODFW returns a page with NO table at all --
-            # that is the normal end of pagination, not a broken selector.
-            # Only page 0 having no table means the page really changed.
-            if page == 0:
-                sys.exit("No table on page 0. ODFW changed the page markup; "
-                         "the CSS selector needs updating.")
-            print(f"  page {page}: no table -- end of results")
             break
-        if headers is None:
-            headers = [th.get_text(strip=True).lower() for th in table.find_all("th")]
-
+        headers = [th.get_text(strip=True).lower() for th in table.find_all("th")]
+        if not EXPECTED_HEADERS.issubset(headers):
+            raise MarkupChanged(f"unexpected table headers {headers}")
         page_rows = []
         for tr in table.select("tbody tr"):
             cells = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
             if cells:
                 page_rows.append(dict(zip(headers, cells)))
-
         if not page_rows:
-            break                     # an EMPTY page is the only reliable end
+            break
+        slots += len(page_rows)
         rows.extend(page_rows)
-        print(f"  page {page}: {len(page_rows)} rows")
-        # Do NOT stop on a short page. ODFW returns short pages mid-run and
-        # breaking there silently truncates the rest of the year.
-        time.sleep(0.4)                             # be polite
+        # Keep going until an empty page. Short pages are not a reliable end.
+    return rows, slots
 
-    # ODFW repeats rows across page boundaries. Dedupe on the whole row.
-    seen, deduped = set(), []
-    for row in rows:
-        key = tuple(sorted(row.items()))
-        if key in seen:
-            continue
-        seen.add(key)
-        deduped.append(row)
-    if len(deduped) != len(rows):
-        print(f"  dropped {len(rows) - len(deduped)} duplicate rows")
 
-    _check_coverage(deduped, start, end)
-    return deduped
+def _no_zone(row: dict) -> bool:
+    z = next((v for k, v in row.items() if k.startswith("zone")), "")
+    return not z.strip() or z.strip().startswith("/")
+
+
+def _week_monday(row: dict) -> date | None:
+    v = next((v for k, v in row.items() if "week" in k), "")
+    m = re.search(r"([A-Za-z]{3})\w*\.?\s+(\d{1,2}),\s*(\d{4})", v or "")
+    if not m or m.group(1) not in _MONTHS:
+        return None
+    d = date(int(m.group(3)), _MONTHS[m.group(1)], int(m.group(2)))
+    return d - timedelta(days=d.weekday())
+
+
+def _mondays(start: str, end: str):
+    lo, hi = date.fromisoformat(start), date.fromisoformat(end)
+    d = lo - timedelta(days=lo.weekday())
+    while d <= hi:
+        yield d
+        d += timedelta(days=7)
+
+
+def fetch_week(sess, monday: date) -> tuple[list[dict], int, int]:
+    """One week, complete. Returns (rows, odfw_count, missing).
+
+    Why per week, and why zones: when a query matches more than 50 rows, ODFW's
+    pager repeats rows from page 1 on page 2 instead of showing the rest, so
+    the overflow can never be reached. Verified 2026-11-17 in a real browser:
+    the week of Apr 12 2027 matches 64 rows, the all-Oregon query only ever
+    shows 50, and the six zone queries (each under 50, one page) show all 64.
+
+    Rows with no zone at all (Bolan Lake, Little Hyatt Reservoir) only appear
+    in the all-Oregon query, so both are fetched and merged.
+    """
+    wk = {P_START: monday.isoformat(),
+          P_END: (monday + timedelta(days=6)).isoformat()}
+    rows, odfw_count = _query(sess, wk)
+    found = {_row_key(r): r for r in rows}
+    if odfw_count > PAGE_SIZE:
+        for z in ZONES:
+            zrows, _ = _query(sess, {**wk, ZONE_PARAM: z})
+            for r in zrows:
+                found.setdefault(_row_key(r), r)
+    missing = max(odfw_count - len(found), 0)
+    return list(found.values()), odfw_count, missing
+
+
+def fetch_schedule(start: str, end: str, report_path: Path | None = None) -> list[dict]:
+    """Every row from start to end, fetched week by week.
+
+    Replaces the old single paged pull over the whole range, which lost about
+    1 row in 10 to ODFW's pager -- a different 1 in 10 on every run.
+    """
+    sess = requests.Session()
+    sess.headers.update(UA)
+    bare = sess.get(SCHEDULE, timeout=45)
+    if bare.status_code == 403:
+        sys.exit("ODFW returned 403 on the bare page -- IP or headers blocked.")
+
+    all_rows, seen = [], set()
+    counts, found_in = {}, {}            # per week: ODFW's count, keys we hold
+    weeks = zone_weeks = 0
+
+    def keep(r, monday=None):
+        k = _row_key(r)
+        wk = monday or _week_monday(r)
+        if wk is not None:
+            found_in.setdefault(wk, set()).add(k)
+        if k not in seen:                # a row can straddle two windows
+            seen.add(k)
+            all_rows.append(r)
+
+    try:
+        for monday in _mondays(start, end):
+            rows, count, _ = fetch_week(sess, monday)
+            weeks += 1
+            counts[monday] = count
+            if count > PAGE_SIZE:
+                zone_weeks += 1
+            for r in rows:
+                keep(r, monday)
+
+        # Rows with no zone that sat in a busy week's hidden overflow are
+        # reachable only by name. Fetch every no-zone water across the range.
+        names = set(NO_ZONE_SEED)
+        names.update(next((v for k, v in r.items() if "water" in k), "")
+                     for r in all_rows if _no_zone(r))
+        names.discard("")
+        for name in sorted(names):
+            rows, _ = _query(sess, {P_START: start, P_END: end, NAME_PARAM: name})
+            for r in rows:
+                keep(r)
+    except MarkupChanged as e:
+        sys.exit(f"ODFW changed the schedule table: {e}. Not publishing.")
+
+    odfw_total = sum(counts.values())
+    short_weeks = []
+    for monday, count in sorted(counts.items()):
+        have = len(found_in.get(monday, ()))
+        if have < count:
+            short_weeks.append({"week": monday.isoformat(),
+                                "odfw_count": count, "missing": count - have})
+            print(f"  week {monday}: ODFW lists {count}, recovered {have}")
+    missing_total = sum(w["missing"] for w in short_weeks)
+
+    print(f"  {weeks} weeks, {zone_weeks} needed zone queries, "
+          f"{len(all_rows)} rows (ODFW's count {odfw_total}, missing {missing_total})")
+    if report_path:
+        report_path.write_text(json.dumps({
+            "start": start, "end": end, "weeks": weeks,
+            "zone_weeks": zone_weeks, "rows": len(all_rows),
+            "odfw_count": odfw_total, "missing": missing_total,
+            "short_weeks": short_weeks}, indent=2))
+    if not all_rows:
+        sys.exit("No rows at all for the whole range. ODFW changed the page "
+                 "or ignored the date filter. Not publishing.")
+    # A row that is genuinely listed twice also counts as 'missing', so allow
+    # a little slack. Beyond 1%, something structural is wrong.
+    if odfw_total and missing_total / odfw_total > 0.01:
+        sys.exit(f"{missing_total} of {odfw_total} rows could not be recovered "
+                 f"(over 1%). Not publishing; see the report.")
+
+    _check_coverage(all_rows, start, end)
+    return all_rows
 
 
 _MONTHS = {m: i for i, m in enumerate(
@@ -250,7 +370,7 @@ def main():
     a = ap.parse_args()
 
     out = Path(a.out); out.mkdir(parents=True, exist_ok=True)
-    rows = fetch_schedule(a.start, a.end)
+    rows = fetch_schedule(a.start, a.end, report_path=out / "ingest_report.json")
     print(f"fetched {len(rows)} rows for {a.start}..{a.end}")
 
     waters, events, rejects = {}, [], []

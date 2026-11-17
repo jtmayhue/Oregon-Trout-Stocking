@@ -43,6 +43,9 @@ def main():
     ap.add_argument('--events', default='./data/stocking_events.json')
     ap.add_argument('--waters', default='./waters.json')
     ap.add_argument('--out', default='./stockings.json')
+    ap.add_argument('--year', default=None,
+                    help="Keep only weeks in this calendar year. stockings.json "
+                         "for version 1.1 is built this way from the wide pull.")
     a = ap.parse_args()
 
     waters_doc = json.load(open(a.waters))
@@ -91,6 +94,8 @@ def main():
         wk = next((parse_week(v) for k, v in e.items() if 'week' in k.lower()), None)
         if not wk:
             skipped_no_week += 1
+            continue
+        if a.year and not wk.startswith(f"{a.year}-"):
             continue
         g = lambda key: num(next((v for k, v in e.items() if k.lower().startswith(key)), 0))
         by_water[wid].append({
