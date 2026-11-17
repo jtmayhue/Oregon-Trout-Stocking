@@ -32536,5 +32536,49 @@
     "brood": "0",
     "fingerling": "0",
     "total": "800"
+  },
+  {
+    "waterbody_id": "mckenzie-r-1-below-leaburg-dam",
+    "week of": "May. 12, 2025 - May. 23, 2025",
+    "waterbody": "MCKENZIE R-1 (below Leaburg Dam)",
+    "zone/office": "Willamette / Springfield",
+    "legals": "5,000",
+    "trophy": "0",
+    "brood": "0",
+    "fingerling": "0",
+    "total": "5,000"
+  },
+  {
+    "waterbody_id": "mckenzie-r-2-above-leaburg-dam",
+    "week of": "Jun. 02, 2025 - Jun. 13, 2025",
+    "waterbody": "MCKENZIE R-2 (above Leaburg Dam)",
+    "zone/office": "Willamette / Springfield",
+    "legals": "8,350",
+    "trophy": "0",
+    "brood": "0",
+    "fingerling": "0",
+    "total": "8,350"
+  },
+  {
+    "waterbody_id": "faraday-lake",
+    "week of": "May. 31, 2027 - Jun. 11, 2027",
+    "waterbody": "FARADAY LK",
+    "zone/office": "Willamette / Clackamas",
+    "legals": "1,334",
+    "trophy": "0",
+    "brood": "0",
+    "fingerling": "0",
+    "total": "1,334"
+  },
+  {
+    "waterbody_id": "three-creeks-lake",
+    "week of": "Jul. 26, 2027 - Aug. 06, 2027",
+    "waterbody": "THREE CREEKS LK",
+    "zone/office": "Central / Bend",
+    "legals": "2,000",
+    "trophy": "0",
+    "brood": "0",
+    "fingerling": "0",
+    "total": "2,000"
   }
 ]

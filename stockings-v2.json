@@ -6,7 +6,7 @@
  "kind": "planned",
  "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
  "water_count": 183,
- "event_count": 2318,
+ "event_count": 2320,
  "stockings": {
   "or-sheridan-pond": [
    {
@@ -17066,6 +17066,14 @@
     "total": 1300
    },
    {
+    "week": "2027-05-31",
+    "legals": 1334,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1334
+   },
+   {
     "week": "2027-06-14",
     "legals": 1334,
     "trophy": 0,
@@ -18366,6 +18374,14 @@
     "brood": 0,
     "fingerling": 0,
     "total": 2200
+   },
+   {
+    "week": "2027-07-26",
+    "legals": 2000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
    }
   ],
   "or-deadhorse-lake": [
