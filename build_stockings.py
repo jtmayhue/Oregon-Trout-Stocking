@@ -43,6 +43,10 @@ def main():
     ap.add_argument('--events', default='./data/stocking_events.json')
     ap.add_argument('--waters', default='./waters.json')
     ap.add_argument('--out', default='./stockings.json')
+    ap.add_argument('--known-unmatched', default=None,
+                    help="JSON list of ODFW names deliberately left out of the app "
+                         "(river reaches, waters with no map point). Any other "
+                         "unmatched name is reported as a GitHub warning.")
     ap.add_argument('--year', default=None,
                     help="Keep only weeks in this calendar year. stockings.json "
                          "for version 1.1 is built this way from the wide pull.")
@@ -116,18 +120,26 @@ def main():
             'legals': g('legal'), 'trophy': g('trophy'),
             'brood': g('brood'), 'fingerling': g('fingerling'),
             'total': g('total'),
+            # Identity of the ODFW row, for dedupe only (removed before output).
+            '_src': (raw.strip().upper(),
+                     next((v for k, v in e.items() if 'week' in k.lower()), '')),
         })
 
-    # Dedupe and sort; ODFW repeats rows across pages.
+    # Drop exact repeats of the SAME ODFW row only. Two different ODFW rows in
+    # one week are two stockings, even with equal totals: Upper and Lower
+    # Empire Lake are one water here, and each gets its own fish. (Keying on
+    # week + total used to silently drop the second one.) The app adds up
+    # several rows in the same week itself.
     out = {}
     for wid, evs in by_water.items():
         seen, uniq = set(), []
         for ev in sorted(evs, key=lambda x: x['week']):
-            k = (ev['week'], ev['total'])
+            k = (ev['_src'], ev['legals'], ev['trophy'], ev['brood'],
+                 ev['fingerling'], ev['total'])
             if k in seen:
                 continue
             seen.add(k)
-            uniq.append(ev)
+            uniq.append({k2: v for k2, v in ev.items() if k2 != '_src'})
         out[wid] = uniq
 
     payload = {
@@ -153,6 +165,17 @@ def main():
     if matched_pct < 50:
         print(f"  WARNING: only {matched_pct:.0f}% of waters matched waters.json. "
               f"That usually means the event key or the name format changed.")
+    if a.known_unmatched:
+        kp = Path(a.known_unmatched)
+        known = set(json.loads(kp.read_text())) if kp.exists() else set()
+        new = sorted(((n, c) for n, c in unmatched.items() if n not in known),
+                     key=lambda x: -x[1])
+        # '::warning::' lines show up as yellow annotations on the run page.
+        for n, c in new:
+            print(f"::warning::New ODFW water not in the app: {n} ({c} stockings). "
+                  f"Add it to waters.json, or to known_unmatched.json to leave it out.")
+        print(f"  {len(new)} new unmatched ODFW names "
+              f"({len(unmatched) - len(new)} already known and left out)")
     if unmatched:
         print(f"{len(unmatched)} ODFW names not in waters.json -> unmatched.json")
         for n, c in list(sorted(unmatched.items(), key=lambda x: -x[1]))[:5]:
