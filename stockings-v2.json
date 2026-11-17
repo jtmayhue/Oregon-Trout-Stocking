@@ -6,7 +6,7 @@
  "kind": "planned",
  "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
  "water_count": 216,
- "event_count": 2491,
+ "event_count": 2512,
  "stockings": {
   "or-sheridan-pond": [
    {
@@ -9062,6 +9062,22 @@
     "total": 400
    },
    {
+    "week": "2025-03-17",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
+    "week": "2025-03-31",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
     "week": "2025-03-31",
     "legals": 0,
     "trophy": 1000,
@@ -9110,6 +9126,14 @@
     "total": 2000
    },
    {
+    "week": "2025-04-28",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
     "week": "2025-05-26",
     "legals": 0,
     "trophy": 1000,
@@ -9134,12 +9158,36 @@
     "total": 400
    },
    {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
     "week": "2026-03-30",
     "legals": 0,
     "trophy": 1000,
     "brood": 0,
     "fingerling": 0,
     "total": 1000
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 250,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 250
    },
    {
     "week": "2026-04-06",
@@ -9182,6 +9230,14 @@
     "total": 2000
    },
    {
+    "week": "2026-04-27",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
     "week": "2026-05-18",
     "legals": 0,
     "trophy": 1000,
@@ -9206,12 +9262,36 @@
     "total": 400
    },
    {
+    "week": "2027-03-15",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
     "week": "2027-03-29",
     "legals": 0,
     "trophy": 1000,
     "brood": 0,
     "fingerling": 0,
     "total": 1000
+   },
+   {
+    "week": "2027-03-29",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2027-04-05",
+    "legals": 0,
+    "trophy": 250,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 250
    },
    {
     "week": "2027-04-05",
@@ -9239,6 +9319,14 @@
    },
    {
     "week": "2027-04-19",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2027-04-26",
     "legals": 0,
     "trophy": 2000,
     "brood": 0,
@@ -12010,7 +12098,31 @@
     "total": 3000
    },
    {
+    "week": "2025-04-14",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
     "week": "2025-04-28",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2025-04-28",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2025-05-26",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
@@ -12034,7 +12146,31 @@
     "total": 3000
    },
    {
+    "week": "2026-04-20",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
     "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-05-18",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
@@ -12058,7 +12194,31 @@
     "total": 3000
    },
    {
+    "week": "2027-04-12",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
     "week": "2027-04-26",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2027-04-26",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2027-05-24",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
@@ -18817,6 +18977,14 @@
     "week": "2025-05-26",
     "legals": 0,
     "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2025-05-26",
+    "legals": 2000,
+    "trophy": 0,
     "brood": 0,
     "fingerling": 0,
     "total": 2000

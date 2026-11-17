@@ -6,7 +6,7 @@
  "kind": "planned",
  "note": "ODFW publishes the WEEK a water is scheduled, not the day, and fish are sometimes diverted. Confirmations come from the zone reports, not this file.",
  "water_count": 205,
- "event_count": 803,
+ "event_count": 810,
  "stockings": {
   "or-huddleston-pond": [
    {
@@ -2782,12 +2782,36 @@
     "total": 400
    },
    {
+    "week": "2026-03-16",
+    "legals": 0,
+    "trophy": 400,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 400
+   },
+   {
     "week": "2026-03-30",
     "legals": 0,
     "trophy": 1000,
     "brood": 0,
     "fingerling": 0,
     "total": 1000
+   },
+   {
+    "week": "2026-03-30",
+    "legals": 0,
+    "trophy": 1000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 1000
+   },
+   {
+    "week": "2026-04-06",
+    "legals": 0,
+    "trophy": 250,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 250
    },
    {
     "week": "2026-04-06",
@@ -2815,6 +2839,14 @@
    },
    {
     "week": "2026-04-20",
+    "legals": 0,
+    "trophy": 2000,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 2000
+   },
+   {
+    "week": "2026-04-27",
     "legals": 0,
     "trophy": 2000,
     "brood": 0,
@@ -4490,7 +4522,31 @@
     "total": 3000
    },
    {
+    "week": "2026-04-20",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
     "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-04-27",
+    "legals": 3000,
+    "trophy": 0,
+    "brood": 0,
+    "fingerling": 0,
+    "total": 3000
+   },
+   {
+    "week": "2026-05-18",
     "legals": 3000,
     "trophy": 0,
     "brood": 0,
