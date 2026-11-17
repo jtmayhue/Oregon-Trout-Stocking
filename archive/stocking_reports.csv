@@ -1,0 +1,30 @@
+week,location,water_id,legals,one_lb,trophy,hatchery,zone,first_seen,last_seen
+2026-10-19,Alton Baker Canal,or-alton-baker-canal,750,0,0,Leaburg,NW,2026-10-26,2026-10-26
+2026-10-19,Bradley Lake,or-bradley-lake,0,0,800,Cole Rivers,SW,2026-10-26,2026-11-05
+2026-10-19,Butterfield Lake,or-butterfield-lake,0,0,1600,Cole Rivers,SW,2026-10-26,2026-11-05
+2026-10-19,Empire Lake,or-empire-lakes,0,0,3000,Cole Rivers,SW,2026-10-26,2026-11-05
+2026-10-19,Row River Nature Park,or-row-river-nature-park-ponds,750,0,0,Leaburg,NW,2026-10-26,2026-10-26
+2026-10-19,Saunders Lake,or-saunders-lake,0,0,1300,Cole Rivers,SW,2026-10-26,2026-11-05
+2026-10-19,Upper Powers Pond,,0,0,1300,Cole Rivers,SW,2026-10-26,2026-11-05
+2026-10-26,Alton Baker Canal,or-alton-baker-canal,750,0,0,Leaburg,Willamette,2026-10-29,2026-11-17
+2026-10-26,Bradley Lake,or-bradley-lake,0,0,800,Cole Rivers,SW,2026-11-09,2026-11-17
+2026-10-26,Butterfield Lake,or-butterfield-lake,0,0,1600,Cole Rivers,SW,2026-11-09,2026-11-17
+2026-10-26,Empire Lake,or-empire-lakes,0,0,3000,Cole Rivers,SW,2026-11-09,2026-11-17
+2026-10-26,Pine Hollow Res,or-pine-hollow-reservoir,1600,0,375,Cole Rivers,Central,2026-11-09,2026-11-17
+2026-10-26,Row River Nature Park,or-row-river-nature-park-ponds,750,0,0,Leaburg,Willamette,2026-10-29,2026-11-12
+2026-10-26,Saunders Lake,or-saunders-lake,0,0,1300,Cole Rivers,SW,2026-11-09,2026-11-17
+2026-10-26,Taylor Lake,or-taylor-lake,1600,0,375,Cole Rivers,Central,2026-11-09,2026-11-17
+2026-10-26,Upper Powers Pond,,0,0,1300,Cole Rivers,SW,2026-11-09,2026-11-17
+2026-11-02,Alton Baker Canal,or-alton-baker-canal,750,0,0,Leaburg,Willamette,2026-11-09,2026-11-17
+2026-11-02,Cottage Grove Res.,or-cottage-grove-reservoir,4000,0,0,Oak Springs,Willamette,2026-11-09,2026-11-17
+2026-11-02,Dexter Reservoir,or-dexter-reservoir,4000,0,0,Oak Springs,Willamette,2026-11-09,2026-11-17
+2026-11-02,Dorena Reservoir,or-dorena-reservoir,4000,0,0,Oak Springs,Willamette,2026-11-09,2026-11-17
+2026-11-02,Henry Hagg Lake,or-henry-hagg-lake,9000,0,0,Oak Springs,Willamette,2026-11-09,2026-11-17
+2026-11-02,Hills Creek Reservoir,,4000,0,0,Oak Springs,Willamette,2026-11-09,2026-11-17
+2026-11-02,Timber Linn Lake,or-timber-linn-lake,900,0,0,Leaburg,Willamette,2026-11-09,2026-11-17
+2026-11-02,Turner Lake,,2500,0,0,Oak Springs,Willamette,2026-11-09,2026-11-17
+2026-11-02,Walter Wirth Lake,or-walter-wirth-lake,1000,0,0,Leaburg,Willamette,2026-11-09,2026-11-17
+2026-11-09,Alton Baker Canal,or-alton-baker-canal,0,0,0,Leaburg,Willamette,2026-11-16,2026-11-17
+2026-11-09,S Louis Ponds,,0,0,90,Roaring River,,2026-11-16,2026-11-17
+2026-11-09,Turner Lake,,1000,0,0,Willamette,Willamette,2026-11-16,2026-11-17
+2026-11-09,Walter Wirth Lake,or-walter-wirth-lake,0,0,90,Roaring River,Willamette,2026-11-16,2026-11-17
