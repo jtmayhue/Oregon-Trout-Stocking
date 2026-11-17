@@ -54,11 +54,18 @@ def main():
     # publishes its own "FISH LK". This ingest is Oregon-only, so scope the
     # lookup to OR and ignore anything else already in waters.json.
     lookup = {}
+    # One ODFW name can cover several real waters ("LOST LK" is four lakes).
+    # Those waters carry odfw_office, and the stocking row's Zone/Office
+    # column decides which one a row belongs to.
+    by_office = defaultdict(list)          # name -> [(office, water id)]
     for w in waters:
         if w.get('state', 'OR') != 'OR':
             continue
         for n in w['odfw_names']:
-            lookup[n.strip().upper()] = w['id']
+            if w.get('odfw_office'):
+                by_office[n.strip().upper()].append((w['odfw_office'].lower(), w['id']))
+            else:
+                lookup[n.strip().upper()] = w['id']
 
     events = json.load(open(a.events))
 
@@ -87,7 +94,13 @@ def main():
         if not raw:
             skipped_no_name += 1
             continue
-        wid = lookup.get(raw.strip().upper())
+        key = raw.strip().upper()
+        wid = lookup.get(key)
+        if not wid and key in by_office:
+            office = next((v for k, v in e.items() if 'office' in k.lower()), '') or ''
+            wid = next((i for o, i in by_office[key] if o in office.lower()), None)
+            if not wid:
+                raw = f"{raw} [{office.strip() or 'no office'}]"
         if not wid:
             unmatched[raw] += 1
             continue

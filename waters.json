@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-08",
+ "generated": "2026-11-17",
  "source": "ODFW trout stocking maps + weekly stocking schedule",
  "states": [
   "OR"
  ],
- "water_count": 183,
+ "water_count": 216,
  "waters": [
   {
    "id": "or-aldrich-ponds",
@@ -63,6 +63,25 @@
     "dock",
     "accessible"
    ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-ana-river",
+   "state": "OR",
+   "name": "Ana River",
+   "type": "river",
+   "odfw_names": [
+    "ANA R"
+   ],
+   "lat": 42.99281,
+   "lon": -120.7446,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
    "species": [
     "rainbow"
    ],
@@ -201,6 +220,29 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-balm-creek-reservoir",
+   "state": "OR",
+   "name": "Balm Creek Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "BALM CREEK RES"
+   ],
+   "lat": 44.97067,
+   "lon": -117.49114,
+   "coord_precision": "water",
+   "acres": 110,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow",
+    "smallmouth",
+    "crappie"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-ben-irving-reservoir",
    "state": "OR",
    "name": "Ben Irving Reservoir",
@@ -278,6 +320,28 @@
     "bullhead"
    ],
    "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-beulah-reservoir",
+   "state": "OR",
+   "name": "Beulah Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "BEULAH RES"
+   ],
+   "lat": 43.90581,
+   "lon": -118.11401,
+   "coord_precision": "water",
+   "acres": 2060,
+   "amenities": [
+    "camping",
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -393,6 +457,53 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-blue-lake",
+   "state": "OR",
+   "name": "Blue Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BLUE LK"
+   ],
+   "lat": 45.55529,
+   "lon": -122.44836,
+   "coord_precision": "water",
+   "acres": 64,
+   "amenities": [
+    "boat_ramp",
+    "restroom"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bullhead",
+    "crappie",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-bluebill-lake",
+   "state": "OR",
+   "name": "Bluebill Lake",
+   "type": "lake",
+   "odfw_names": [
+    "BLUEBILL LK"
+   ],
+   "lat": 43.44918,
+   "lon": -124.26159,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-bolan-lake",
    "state": "OR",
    "name": "Bolan Lake",
@@ -432,6 +543,25 @@
    "species": [
     "rainbow",
     "largemouth"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-brandon-pond",
+   "state": "OR",
+   "name": "Brandon Pond",
+   "type": "pond",
+   "odfw_names": [
+    "BRANDON'S PD (JD SCREEN.SP PD)"
+   ],
+   "lat": 44.42358,
+   "lon": -118.9717,
+   "coord_precision": "water",
+   "acres": 1,
+   "amenities": [],
+   "species": [
+    "rainbow"
    ],
    "has_camping": false,
    "source": "ODFW trout stocking maps"
@@ -684,6 +814,25 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-clearwater-forebay-2",
+   "state": "OR",
+   "name": "Clearwater Forebay No. 2",
+   "type": "reservoir",
+   "odfw_names": [
+    "CLEARWATER BAY-2"
+   ],
+   "lat": 43.26249,
+   "lon": -122.40456,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-cleawox-lake",
    "state": "OR",
    "name": "Cleawox Lake",
@@ -888,6 +1037,31 @@
     "accessible",
     "camping",
     "no_motors"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-delintment-reservoir",
+   "state": "OR",
+   "name": "Delintment Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "DELINTMENT LK"
+   ],
+   "lat": 43.89016,
+   "lon": -119.62595,
+   "coord_precision": "water",
+   "acres": 50,
+   "amenities": [
+    "camping",
+    "boat_ramp",
+    "dock",
+    "accessible",
+    "bank_access"
    ],
    "species": [
     "rainbow"
@@ -1267,6 +1441,30 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-expo-pond",
+   "state": "OR",
+   "name": "Expo Pond",
+   "type": "pond",
+   "odfw_names": [
+    "EXPO PD 1 (ROGUE)"
+   ],
+   "lat": 42.38882,
+   "lon": -122.91384,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "crappie",
+    "bluegill"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-fall-river",
    "state": "OR",
    "name": "Fall River",
@@ -1507,6 +1705,27 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-georgia-lake",
+   "state": "OR",
+   "name": "Georgia Lake",
+   "type": "lake",
+   "odfw_names": [
+    "GEORGIA LK"
+   ],
+   "lat": 43.87067,
+   "lon": -124.13036,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-grande-ronde-lake",
    "state": "OR",
    "name": "Grande Ronde Lake",
@@ -1554,6 +1773,25 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-haines-pond",
+   "state": "OR",
+   "name": "Haines Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HAINES PD-1"
+   ],
+   "lat": 44.92264,
+   "lon": -117.94587,
+   "coord_precision": "water",
+   "acres": 1,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-harriet-lake",
    "state": "OR",
    "name": "Harriet Lake",
@@ -1573,6 +1811,27 @@
     "rainbow"
    ],
    "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-hartman-pond",
+   "state": "OR",
+   "name": "Hartman Pond",
+   "type": "pond",
+   "odfw_names": [
+    "HARTMAN PD (WAHKEENA LK)"
+   ],
+   "lat": 45.577,
+   "lon": -122.13179,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "crappie",
+    "perch"
+   ],
+   "has_camping": false,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -2331,6 +2590,79 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-lost-lake-clatsop",
+   "state": "OR",
+   "name": "Lost Lake (Clatsop County)",
+   "type": "lake",
+   "odfw_names": [
+    "LOST LK"
+   ],
+   "lat": 45.8262,
+   "lon": -123.57817,
+   "coord_precision": "water",
+   "acres": 15,
+   "amenities": [
+    "camping",
+    "boat_ramp",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow",
+    "steelhead"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps",
+   "odfw_office": "Tillamook"
+  },
+  {
+   "id": "or-lost-lake-mt-hood",
+   "state": "OR",
+   "name": "Lost Lake (Mt. Hood)",
+   "type": "lake",
+   "odfw_names": [
+    "LOST LK"
+   ],
+   "lat": 45.49648,
+   "lon": -121.8188,
+   "coord_precision": "water",
+   "acres": 231,
+   "amenities": [
+    "camping",
+    "boat_ramp",
+    "no_motors"
+   ],
+   "species": [
+    "rainbow",
+    "brown",
+    "kokanee"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps",
+   "odfw_office": "The Dalles"
+  },
+  {
+   "id": "or-lost-lake-florence",
+   "state": "OR",
+   "name": "Lost Lake (near Florence)",
+   "type": "lake",
+   "odfw_names": [
+    "LOST LK"
+   ],
+   "lat": 43.83214,
+   "lon": -124.14765,
+   "coord_precision": "water",
+   "acres": 6,
+   "amenities": [
+    "camping"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps",
+   "odfw_office": "Newport"
+  },
+  {
    "id": "or-luger-pond",
    "state": "OR",
    "name": "Luger Pond",
@@ -2377,6 +2709,28 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-malheur-reservoir",
+   "state": "OR",
+   "name": "Malheur Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "MALHEUR RES"
+   ],
+   "lat": 44.36043,
+   "lon": -117.68211,
+   "coord_precision": "water",
+   "acres": 1200,
+   "amenities": [
+    "boat_ramp",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-marr-pond",
    "state": "OR",
    "name": "Marr Pond",
@@ -2418,6 +2772,49 @@
     "rainbow"
    ],
    "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-mchaley-pond",
+   "state": "OR",
+   "name": "McHaley Pond",
+   "type": "pond",
+   "odfw_names": [
+    "MCHALEY PD"
+   ],
+   "lat": 44.46025,
+   "lon": -118.69487,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-mcnary-ponds",
+   "state": "OR",
+   "name": "McNary Ponds",
+   "type": "pond",
+   "odfw_names": [
+    "MCNARY CHANNEL PDS"
+   ],
+   "lat": 45.92769,
+   "lon": -119.32238,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "accessible"
+   ],
+   "species": [
+    "rainbow",
+    "largemouth",
+    "bluegill",
+    "catfish"
+   ],
+   "has_camping": false,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -2510,6 +2907,84 @@
    "species": [
     "rainbow",
     "crappie"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-morrow-county-ohv-pond-1",
+   "state": "OR",
+   "name": "Morrow County OHV Pond 1 (Trout Lake)",
+   "type": "pond",
+   "odfw_names": [
+    "MORROW CO OHV PARK PD #1 (Trout Lk)"
+   ],
+   "lat": 45.02087,
+   "lon": -119.67454,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "crappie"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-morrow-county-ohv-pond-2",
+   "state": "OR",
+   "name": "Morrow County OHV Pond 2 (Red Rock)",
+   "type": "pond",
+   "odfw_names": [
+    "MORROW CO OHV PARK PD #2 (Red Rock)"
+   ],
+   "lat": 45.01005,
+   "lon": -119.63195,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow",
+    "crappie"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-morrow-county-ohv-pond-3",
+   "state": "OR",
+   "name": "Morrow County OHV Pond 3 (O'Brien)",
+   "type": "pond",
+   "odfw_names": [
+    "MORROW CO OHV PARK PD #3 (O'Brien)"
+   ],
+   "lat": 45.00681,
+   "lon": -119.68921,
+   "coord_precision": "water",
+   "acres": 1,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-morrow-county-ohv-pond-4",
+   "state": "OR",
+   "name": "Morrow County OHV Pond 4 (Wilson)",
+   "type": "pond",
+   "odfw_names": [
+    "MORROW CO OHV PARK PD #4 (Wilson)"
+   ],
+   "lat": 44.98638,
+   "lon": -119.63134,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
    ],
    "has_camping": false,
    "source": "ODFW trout stocking maps"
@@ -2621,6 +3096,28 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-north-georgia-lake",
+   "state": "OR",
+   "name": "North Georgia Lake",
+   "type": "lake",
+   "odfw_names": [
+    "GEORGIA LK, N"
+   ],
+   "lat": 43.8735,
+   "lon": -124.13107,
+   "coord_precision": "water",
+   "acres": 2,
+   "amenities": [
+    "camping",
+    "parking"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-north-lake",
    "state": "OR",
    "name": "North Lake",
@@ -2639,6 +3136,25 @@
     "rainbow"
    ],
    "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-north-powder-pond",
+   "state": "OR",
+   "name": "North Powder Pond",
+   "type": "pond",
+   "odfw_names": [
+    "NORTH POWDER PD-1"
+   ],
+   "lat": 45.01369,
+   "lon": -117.93371,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -2761,6 +3277,28 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-peach-pond",
+   "state": "OR",
+   "name": "Peach Pond (Ladd Marsh)",
+   "type": "pond",
+   "odfw_names": [
+    "LADD (PEACH) PD"
+   ],
+   "lat": 45.25352,
+   "lon": -117.95346,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [
+    "parking"
+   ],
+   "species": [
+    "rainbow",
+    "smallmouth"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-penland-lake",
    "state": "OR",
    "name": "Penland Lake",
@@ -2799,6 +3337,31 @@
     "rainbow"
    ],
    "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-phillips-reservoir",
+   "state": "OR",
+   "name": "Phillips Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "PHILLIPS RES"
+   ],
+   "lat": 44.67732,
+   "lon": -118.00721,
+   "coord_precision": "water",
+   "acres": 2450,
+   "amenities": [
+    "camping",
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow",
+    "perch",
+    "crappie",
+    "smallmouth"
+   ],
+   "has_camping": true,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -3111,6 +3674,23 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-row-river-nature-park-ponds",
+   "state": "OR",
+   "name": "Row River Nature Park Ponds",
+   "type": "pond",
+   "odfw_names": [
+    "ROW R NATURE PK-Fmr Cott. Grv. Pd"
+   ],
+   "lat": 43.79373,
+   "lon": -123.02906,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-rowe-creek-reservoir",
    "state": "OR",
    "name": "Rowe Creek Reservoir",
@@ -3222,6 +3802,25 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-scout-lake",
+   "state": "OR",
+   "name": "Scout Lake",
+   "type": "lake",
+   "odfw_names": [
+    "SCOUT LK (Fmrly Scout Camp Lk)"
+   ],
+   "lat": 46.04482,
+   "lon": -123.17965,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-sheridan-pond",
    "state": "OR",
    "name": "Sheridan Pond",
@@ -3261,6 +3860,25 @@
     "restroom",
     "bank_access"
    ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-shortys-pond",
+   "state": "OR",
+   "name": "Shorty's Pond",
+   "type": "pond",
+   "odfw_names": [
+    "SHORTY'S PD"
+   ],
+   "lat": 45.13751,
+   "lon": -122.57228,
+   "coord_precision": "water",
+   "acres": 4,
+   "amenities": [],
    "species": [
     "rainbow"
    ],
@@ -3357,6 +3975,30 @@
     "perch"
    ],
    "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-smith-reservoir",
+   "state": "OR",
+   "name": "Smith Reservoir",
+   "type": "reservoir",
+   "odfw_names": [
+    "SMITH R RES"
+   ],
+   "lat": 44.30676,
+   "lon": -122.04569,
+   "coord_precision": "water",
+   "acres": 170,
+   "amenities": [
+    "camping",
+    "boat_ramp"
+   ],
+   "species": [
+    "rainbow",
+    "cutthroat",
+    "brook"
+   ],
+   "has_camping": true,
    "source": "ODFW trout stocking maps"
   },
   {
@@ -3956,6 +4598,30 @@
    "source": "ODFW trout stocking maps"
   },
   {
+   "id": "or-vee-lake",
+   "state": "OR",
+   "name": "Vee Lake",
+   "type": "lake",
+   "odfw_names": [
+    "VEE LK"
+   ],
+   "lat": 42.42169,
+   "lon": -120.16185,
+   "coord_precision": "water",
+   "acres": 14,
+   "amenities": [
+    "camping",
+    "boat_ramp",
+    "restroom",
+    "bank_access"
+   ],
+   "species": [
+    "rainbow"
+   ],
+   "has_camping": true,
+   "source": "ODFW trout stocking maps"
+  },
+  {
    "id": "or-vernonia-pond",
    "state": "OR",
    "name": "Vernonia Pond",
@@ -4121,6 +4787,42 @@
     "largemouth",
     "crappie",
     "catfish"
+   ],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-weaver-road-pond",
+   "state": "OR",
+   "name": "Weaver Road Pond",
+   "type": "pond",
+   "odfw_names": [
+    "Weaver Road Pd"
+   ],
+   "lat": 43.12289,
+   "lon": -123.68732,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [],
+   "has_camping": false,
+   "source": "ODFW trout stocking maps"
+  },
+  {
+   "id": "or-weston-pond",
+   "state": "OR",
+   "name": "Weston Pond",
+   "type": "pond",
+   "odfw_names": [
+    "WESTON HIGHWAY PD"
+   ],
+   "lat": 45.79005,
+   "lon": -118.2475,
+   "coord_precision": "water",
+   "acres": null,
+   "amenities": [],
+   "species": [
+    "rainbow"
    ],
    "has_camping": false,
    "source": "ODFW trout stocking maps"
