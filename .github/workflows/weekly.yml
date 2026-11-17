@@ -31,34 +31,45 @@ jobs:
       - name: Capture zone reports
         run: python zone_snapshot.py --root ./archive
 
-      # Version 1.2+ reads stockings-v2.json: Jan 1 of LAST year through Dec 31
-      # of NEXT year. That keeps each water's history across New Year and picks
-      # up next year's weeks as soon as ODFW publishes them (2027 was already
-      # online in Nov 2026). stockings.json below stays current-year-only, so
-      # version 1.1, which assumes a single calendar year, is unaffected.
-      - name: Pull wide schedule (last year through next year)
+      # ONE schedule pull, week by week, Jan 1 of LAST year through Dec 31 of
+      # NEXT year. Both data files are built from it:
+      #   stockings-v2.json -- the whole window, read by version 1.2+
+      #   stockings.json    -- current year only, read by version 1.1
+      # Week by week (with zone queries for weeks over 50 rows) because ODFW's
+      # pager hides every row past the 50th; see fetch_week in odfw_ingest.py.
+      - name: Keep the published files for comparison
+        run: |
+          mkdir -p /tmp/prev
+          cp stockings-v2.json /tmp/prev/ 2>/dev/null || true
+          cp stockings.json /tmp/prev/ 2>/dev/null || true
+
+      - name: Pull schedule week by week (last year through next year)
         id: schedule_wide
         continue-on-error: true
         run: |
           YEAR=$(date +%Y)
           python odfw_ingest.py --start "$((YEAR-1))-01-01" --end "$((YEAR+1))-12-31" --out ./data-wide
 
-      - name: Build stockings-v2.json
+      - name: Build stockings-v2.json and stockings.json
+        id: build
         if: steps.schedule_wide.outcome == 'success'
-        continue-on-error: true
-        run: python build_stockings.py --events ./data-wide/stocking_events.json --waters ./waters.json --out ./stockings-v2.json
-
-      - name: Pull stocking schedule
-        id: schedule
         continue-on-error: true
         run: |
           YEAR=$(date +%Y)
-          python odfw_ingest.py --start "$YEAR-01-01" --end "$YEAR-12-31" --out ./data
+          python build_stockings.py --events ./data-wide/stocking_events.json --waters ./waters.json --out ./stockings-v2.json
+          python build_stockings.py --events ./data-wide/stocking_events.json --waters ./waters.json --out ./stockings.json --year "$YEAR"
 
-      - name: Build stockings.json
-        if: steps.schedule.outcome == 'success'
+      # Never let a thinner file replace a good one. On failure the previous
+      # file is restored, so the commit below publishes nothing worse.
+      - name: Guard against publishing fewer rows
+        id: guard
+        if: steps.build.outcome == 'success'
         continue-on-error: true
-        run: python build_stockings.py --events ./data/stocking_events.json --waters ./waters.json --out ./stockings.json
+        run: |
+          rc=0
+          python guard_publish.py --new stockings-v2.json --old /tmp/prev/stockings-v2.json || rc=1
+          python guard_publish.py --new stockings.json --old /tmp/prev/stockings.json || rc=1
+          exit $rc
 
       - name: Commit whatever we captured
         run: |
@@ -72,16 +83,14 @@ jobs:
             git push
           fi
 
-      - name: Warn if the schedule pull failed
-        if: steps.schedule.outcome != 'success'
+      # Turn the run RED (GitHub emails you) when the schedule did not publish.
+      # The zone reports above were still archived, and the app keeps showing
+      # the previous data, so nothing is lost while this gets looked at.
+      - name: Fail if the schedule was not published
+        if: steps.schedule_wide.outcome != 'success' || steps.build.outcome != 'success' || steps.guard.outcome != 'success'
         run: |
-          echo "::warning::Schedule pull failed. Open this job's 'Pull stocking schedule' step for the reason -- do not assume the cause."
-          echo "The zone report archive still captured, which is the part that cannot be redone."
-
-      - name: Warn if the wide schedule pull failed
-        if: steps.schedule_wide.outcome != 'success'
-        run: |
-          echo "::warning::Wide schedule pull failed. stockings-v2.json was not updated this run; version 1.2+ keeps showing the previous copy."
+          echo "::error::Schedule not updated this run (pull=${{ steps.schedule_wide.outcome }}, build=${{ steps.build.outcome }}, guard=${{ steps.guard.outcome }}). Open the first failed step for the reason. The previous stockings files are still live."
+          exit 1
 
       # CANARY. The workflow watches itself: if the newest capture on disk is
       # older than 10 days, runs have been silently skipped or the schedule was
