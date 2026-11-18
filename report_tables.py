@@ -98,7 +98,16 @@ def main():
         if len(exact) == 1:
             return exact.pop()
         within = {wid for ts, wid in index if lt and lt <= ts}
-        return within.pop() if len(within) == 1 else ""
+        if len(within) == 1:
+            return within.pop()
+        # ODFW sometimes abbreviates a word to one letter ("S Louis Ponds" for
+        # St. Louis Ponds). Retry without single letters, if still unambiguous.
+        core = {t for t in lt if len(t) > 1}
+        if core and core != lt:
+            loose = {wid for ts, wid in index if core <= ts}
+            if len(loose) == 1:
+                return loose.pop()
+        return ""
 
     found = {}
     pages = sorted(Path(a.archive, "raw").glob("*/*.html"))
