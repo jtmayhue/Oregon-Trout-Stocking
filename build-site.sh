@@ -7,7 +7,7 @@
 set -euo pipefail
 
 mkdir -p dist
-for f in waters.json stockings.json stockings-v2.json quarantine.json unmatched.json; do
+for f in waters.json stockings.json stockings-v2.json quarantine.json unmatched.json news.json; do
   [ -f "$f" ] && cp "$f" dist/ && echo "  published $f" || echo "  (skipped $f -- not present)"
 done
 cp index.html dist/ 2>/dev/null || true

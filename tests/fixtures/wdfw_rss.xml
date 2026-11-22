@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xml:base="https://wdfw.wa.gov/newsroom/rss">
+  <channel>
+    <title>WDFW Newsroom</title>
+    <link>https://wdfw.wa.gov/newsroom/rss</link>
+    <description>Washington Department of Fish and Wildlife Newsroom</description>
+    <language>en</language>
+    <atom:link href="https://wdfw.wa.gov/newsroom/rss" rel="self" type="application/rss+xml"/>
+<item>
+  <title>WDFW seeks applicants for volunteer Puget Sound Recreational Fisheries Enhancement Oversight Committee</title>
+  <link>https://wdfw.wa.gov/newsroom/news-release/wdfw-seeks-applicants-volunteer-puget-sound-recreational-fisheries-enhancement-oversight-committee</link>
+  <description>&lt;p&gt;text&lt;/p&gt;</description>
+  <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Washington Department of Fish and Wildlife</dc:creator>
+    <guid isPermaLink="false">node/137909</guid>
+    </item>
+<item>
+  <title>WDFW approves five days of razor clam digs at Copalis and Mocrocks beaches beginning Tuesday, Nov. 24</title>
+  <link>https://wdfw.wa.gov/newsroom/news-release/wdfw-approves-five-days-razor-clam-digs-copalis-and-mocrocks-beaches-beginning-tuesday-nov-24</link>
+  <description>&lt;p&gt;text&lt;/p&gt;</description>
+  <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Washington Department of Fish and Wildlife</dc:creator>
+    <guid isPermaLink="false">node/137903</guid>
+    </item>
+<item>
+  <title>Fish and Wildlife Commission to meet Nov. 19-21 in Spokane</title>
+  <link>https://wdfw.wa.gov/newsroom/news-release/fish-and-wildlife-commission-meet-nov-19-21-spokane</link>
+  <description>&lt;p&gt;text&lt;/p&gt;</description>
+  <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Washington Department of Fish and Wildlife</dc:creator>
+    <guid isPermaLink="false">node/137883</guid>
+    </item>
+<item>
+  <title>Get outdoors on Black Friday with trout fishing opportunities</title>
+  <link>https://wdfw.wa.gov/newsroom/news-release/get-outdoors-black-friday-trout-fishing-opportunities</link>
+  <description>&lt;p&gt;text&lt;/p&gt;</description>
+  <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Washington Department of Fish and Wildlife</dc:creator>
+    <guid isPermaLink="false">node/137869</guid>
+    </item>
+  </channel>
+</rss>
