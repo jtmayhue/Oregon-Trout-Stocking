@@ -1,0 +1,293 @@
+{
+ "generated": "2026-11-22T22:43:16+00:00",
+ "show_days": 14,
+ "sources": {
+  "odfw_news": "ok (54)",
+  "odfw_report": "ok (1)",
+  "oha_algae": "ok (51)",
+  "wdfw_news": "ok (7)",
+  "wdfw_plants": "ok (13)"
+ },
+ "items": [
+  {
+   "id": "a9a787eb977b",
+   "state": "OR",
+   "kind": "report",
+   "source": "ODFW",
+   "title": "Weekly Recreation Report",
+   "date": "2026-11-19",
+   "url": "https://myodfw.com/recreation-report/fishing-report",
+   "_src": "odfw_report"
+  },
+  {
+   "id": "8ea72852e91c",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution lifted: Phillips Lake",
+   "date": "2026-11-19",
+   "url": "https://www.oregon.gov/oha/ph/healthyenvironments/recreation/harmfulalgaeblooms/pages/blue-greenalgaeadvisories.aspx",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "50d03ddd4eb9",
+   "state": "OR",
+   "kind": "news",
+   "source": "ODFW",
+   "title": "Unwind after your Thanksgiving dinner with Free Fishing Days Nov. 27 and 28",
+   "date": "2026-11-19",
+   "url": "https://myodfw.com/news/unwind-after-your-thanksgiving-dinner-free-fishing-days-nov-27-and-28",
+   "_src": "odfw_news"
+  },
+  {
+   "id": "8d0355e723b2",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae advisory: Detroit Reservoir",
+   "date": "2026-11-16",
+   "url": "https://content.govdelivery.com/accounts/ORHA/bulletins/433052f",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "fa852741e394",
+   "state": "OR",
+   "kind": "news",
+   "source": "ODFW",
+   "title": "One steelhead bag limit on Umatilla River below Threemile Dam",
+   "date": "2026-11-13",
+   "url": "https://myodfw.com/news/one-steelhead-bag-limit-umatilla-river-below-threemile-dam",
+   "_src": "odfw_news"
+  },
+  {
+   "id": "bc77dc6004f6",
+   "state": "OR",
+   "kind": "news",
+   "source": "ODFW",
+   "title": "Chetco and Winchuck anglers can stop bobbing around after ODFW lifts gear restrictions",
+   "date": "2026-11-13",
+   "url": "https://myodfw.com/news/chetco-and-winchuck-anglers-can-stop-bobbing-around-after-odfw-lifts-gear-restrictions",
+   "_src": "odfw_news"
+  },
+  {
+   "id": "95baa7cea3d8",
+   "state": "OR",
+   "kind": "news",
+   "source": "ODFW",
+   "title": "UPDATE: Leaburg Hatchery closed to public access through Nov. 20",
+   "date": "2026-11-13",
+   "url": "https://myodfw.com/news/update-leaburg-hatchery-closed-public-access-through-nov-20",
+   "_src": "odfw_news"
+  },
+  {
+   "id": "827df3d34a27",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution: Brownlee Reservoir, Powder Arm",
+   "date": "2026-11-03",
+   "url": "https://content.govdelivery.com/accounts/ORHA/bulletins/4316e33",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "66b79e7ffa79",
+   "state": "OR",
+   "kind": "news",
+   "source": "ODFW",
+   "title": "Gear restrictions extended on Chetco, Winchuck rivers",
+   "date": "2026-11-02",
+   "url": "https://myodfw.com/news/gear-restrictions-extended-chetco-winchuck-rivers",
+   "_src": "odfw_news"
+  },
+  {
+   "id": "cccd11d0fb8d",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution: North Tenmile Lake",
+   "date": "2026-10-30",
+   "url": "https://www.oregon.gov/oha/ph/healthyenvironments/recreation/harmfulalgaeblooms/pages/blue-greenalgaeadvisories.aspx",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "89bb3a33a7df",
+   "state": "OR",
+   "kind": "news",
+   "source": "ODFW",
+   "title": "Rogue Basin, South Coast winter steelhead anglers: validation and harvest tags on sale beginning Nov. 1",
+   "date": "2026-10-30",
+   "url": "https://myodfw.com/news/rogue-basin-south-coast-winter-steelhead-anglers-validation-and-harvest-tags-sale-beginning",
+   "_src": "odfw_news"
+  },
+  {
+   "id": "08c12a3d28ed",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution: Eckman Lake",
+   "date": "2026-10-29",
+   "url": "https://content.govdelivery.com/accounts/ORHA/bulletins/430fa75",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "4150c1468e96",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "2,000 trout stocked at Battle Ground Lake",
+   "date": "2026-11-20",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "63277eef1e41",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "2,000 trout stocked at Klineline Pond",
+   "date": "2026-11-19",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "0baf40c3e13d",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "150 trout stocked at Fio Rito Lake North",
+   "date": "2026-11-18",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "686f80a7ce4b",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "3,382 trout stocked at Ballinger Lake, Gissburg Pond North and 2 more waters",
+   "date": "2026-11-17",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "914be91c41c7",
+   "state": "WA",
+   "kind": "news",
+   "source": "WDFW",
+   "title": "WDFW approves five days of razor clam digs at Copalis and Mocrocks beaches beginning Tuesday, Nov. 24",
+   "date": "2026-11-17",
+   "url": "https://wdfw.wa.gov/newsroom/news-release/wdfw-approves-five-days-razor-clam-digs-copalis-and-mocrocks-beaches-beginning-tuesday-nov-24",
+   "_src": "wdfw_news"
+  },
+  {
+   "id": "58c05c6c900d",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "4,436 trout stocked at Beaver Lakes, Cranberry Lake and 2 more waters",
+   "date": "2026-11-16",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "247e26e854a6",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "881 trout stocked at Mattoon Lake and Tye Lake",
+   "date": "2026-11-12",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "4cb332956a8e",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "12,243 trout stocked at Cranberry Lake, Deep Lake and 2 more waters",
+   "date": "2026-11-10",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "076bf67369fe",
+   "state": "WA",
+   "kind": "news",
+   "source": "WDFW",
+   "title": "Get outdoors on Black Friday with trout fishing opportunities",
+   "date": "2026-11-10",
+   "url": "https://wdfw.wa.gov/newsroom/news-release/get-outdoors-black-friday-trout-fishing-opportunities",
+   "_src": "wdfw_news"
+  },
+  {
+   "id": "12c021146e75",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "1,510 trout stocked at Blackmans Lake, Lake Alice and Lake Desire",
+   "date": "2026-11-09",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "d8c85b55f04d",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "4,480 trout stocked at Blue Lake and Rainbow Lake",
+   "date": "2026-11-05",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "29996f3b5bec",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "8,047 trout stocked at Cranberry Lake, Gissburg Pond North and 2 more waters",
+   "date": "2026-11-04",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "433bab96a92a",
+   "state": "WA",
+   "kind": "news",
+   "source": "WDFW",
+   "title": "WDFW approves five days of razor clam digs at Copalis and Mocrocks beaches beginning Saturday, Nov. 7",
+   "date": "2026-11-03",
+   "url": "https://wdfw.wa.gov/newsroom/news-release/wdfw-approves-five-days-razor-clam-digs-copalis-and-mocrocks-beaches-beginning-saturday-nov-7-0",
+   "_src": "wdfw_news"
+  },
+  {
+   "id": "7e5b2d41238e",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "500 trout stocked at Munn Lake",
+   "date": "2026-10-30",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "cfaf070ea841",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "5,080 trout stocked at Battle Ground Lake and Lacamas Lake",
+   "date": "2026-10-27",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "dcffb6450102",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "3,456 trout stocked at Battle Ground Lake, Klineline Pond and 2 more waters",
+   "date": "2026-10-26",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  }
+ ]
+}
