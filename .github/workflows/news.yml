@@ -1,0 +1,55 @@
+name: News for the This Week card
+
+on:
+  schedule:
+    # Twice a day, off the top of the hour (GitHub delays :00 runs).
+    - cron: '47 15 * * *'   # 7:47am / 8:47am Pacific
+    - cron: '47 1 * * *'    # 5:47pm / 6:47pm Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Same group as the weekly capture, so the two never push at the same time.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # Playwright is only for OHA's algae table, which the page draws with
+      # JavaScript. The other four sources are plain HTML or RSS.
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Offline tests
+        run: python tests/test_news.py
+
+      # Each source fails on its own and keeps its previous items; the step
+      # only fails (RED, emails you) if every source failed at once.
+      - name: Build news.json
+        run: python news.py --out news.json --prev news.json
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "no news changes"
+          else
+            git commit -m "News $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi

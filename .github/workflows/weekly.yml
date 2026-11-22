@@ -13,6 +13,12 @@ on:
 permissions:
   contents: write
 
+# Shared with the news workflow, so the two never push at the same time.
+# A queued run waits for the other to finish instead of being cancelled.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
 jobs:
   capture:
     runs-on: ubuntu-latest
