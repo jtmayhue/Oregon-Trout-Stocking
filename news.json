@@ -1,14 +1,44 @@
 {
- "generated": "2026-11-22T22:43:16+00:00",
+ "generated": "2026-11-24T02:37:05+00:00",
  "show_days": 14,
  "sources": {
   "odfw_news": "ok (54)",
   "odfw_report": "ok (1)",
   "oha_algae": "ok (51)",
   "wdfw_news": "ok (7)",
-  "wdfw_plants": "ok (13)"
+  "wdfw_plants": "ok (14)"
  },
  "items": [
+  {
+   "id": "14fae030f9e4",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution lifted: Diamond Lake",
+   "date": "2026-11-23",
+   "url": "https://www.oregon.gov/oha/ph/healthyenvironments/recreation/harmfulalgaeblooms/pages/blue-greenalgaeadvisories.aspx",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "af5de5ec16ae",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution lifted: Lemolo Lake",
+   "date": "2026-11-23",
+   "url": "https://www.oregon.gov/oha/ph/healthyenvironments/recreation/harmfulalgaeblooms/pages/blue-greenalgaeadvisories.aspx",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "104966ae13ea",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution lifted: Oswego Lake",
+   "date": "2026-11-23",
+   "url": "https://www.oregon.gov/oha/ph/healthyenvironments/recreation/harmfulalgaeblooms/pages/blue-greenalgaeadvisories.aspx",
+   "_src": "oha_algae"
+  },
   {
    "id": "a9a787eb977b",
    "state": "OR",
@@ -130,11 +160,21 @@
    "_src": "oha_algae"
   },
   {
-   "id": "4150c1468e96",
+   "id": "bdfac3f35a58",
    "state": "WA",
    "kind": "stocking",
    "source": "WDFW stocking report",
-   "title": "2,000 trout stocked at Battle Ground Lake",
+   "title": "18,671 trout stocked at Battle Ground Lake, Black Lake and 14 more waters",
+   "date": "2026-11-23",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "c6bceaa22484",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "3,536 trout stocked at Battle Ground Lake and Tye Lake",
    "date": "2026-11-20",
    "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
    "_src": "wdfw_plants"
