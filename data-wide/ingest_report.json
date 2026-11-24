@@ -1,10 +1,10 @@
 {
   "start": "2025-01-01",
   "end": "2027-12-31",
-  "rows": 2962,
+  "rows": 2961,
   "multi_week_rows": 4,
   "windows": 314,
-  "odfw_count_all_windows": 8878,
+  "odfw_count_all_windows": 8875,
   "missing": 0,
   "short_windows": []
 }

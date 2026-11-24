@@ -1,0 +1,51 @@
+[
+  {
+    "zone": "northwest-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/northwest-zone",
+    "sha256": "44466bd21f61da4c64832a3b9b5842e291aef43bf8f8cbe5b5eac7b13f709fed",
+    "changed": true,
+    "bytes": 83399
+  },
+  {
+    "zone": "southwest-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/southwest-zone",
+    "sha256": "dab0915b496d1b4f86719526db496a834c8dc627236aca79f50b07875e7523e7",
+    "changed": true,
+    "bytes": 81759
+  },
+  {
+    "zone": "willamette-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/willamette-zone",
+    "sha256": "849ccee838be3e604c7102c2c532e87ad644e65b8ba1664d3c59d7df71e134ce",
+    "changed": true,
+    "bytes": 84281
+  },
+  {
+    "zone": "central-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/central-zone",
+    "sha256": "bed06a4cf9f68d4ed4020d8c2124517cea47759014ec0cf71c059970fcad03b9",
+    "changed": true,
+    "bytes": 80793
+  },
+  {
+    "zone": "northeast-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/northeast-zone",
+    "sha256": "4522bd69aeaf10794e71aa190723cc2f710312924641f98bef6f9dccae124751",
+    "changed": true,
+    "bytes": 82904
+  },
+  {
+    "zone": "southeast-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/southeast-zone",
+    "sha256": "f3a0d90b7a6eb63af5723aa3350374689d8d037f3c46c9a114e330ae77f79431",
+    "changed": true,
+    "bytes": 82562
+  },
+  {
+    "zone": "snake-zone",
+    "url": "https://myodfw.com/recreation-report/fishing-report/snake-zone",
+    "sha256": "de4d952e4b4486e83c8d94f066f1c86e691c5c8762f03fa7ac56e7def1cc4284",
+    "changed": true,
+    "bytes": 81740
+  }
+]
