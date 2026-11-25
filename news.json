@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-25T10:31:24+00:00",
+ "generated": "2026-11-25T23:47:58+00:00",
  "show_days": 14,
  "sources": {
   "odfw_news": "ok (54)",
   "odfw_report": "ok (1)",
   "oha_algae": "ok (51)",
-  "wdfw_news": "ok (7)",
-  "wdfw_plants": "ok (13)"
+  "wdfw_news": "ok (8)",
+  "wdfw_plants": "ok (15)"
  },
  "items": [
   {
@@ -178,6 +178,36 @@
    "date": "2026-10-29",
    "url": "https://content.govdelivery.com/accounts/ORHA/bulletins/430fa75",
    "_src": "oha_algae"
+  },
+  {
+   "id": "502c75b89a28",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "8,880 trout stocked at American Lake, Blue Lake and 2 more waters",
+   "date": "2026-11-25",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
+  },
+  {
+   "id": "62b7b9931bde",
+   "state": "WA",
+   "kind": "news",
+   "source": "WDFW",
+   "title": "Invasive golden mussels detected on watercraft traveling into Washington for first time",
+   "date": "2026-11-25",
+   "url": "https://wdfw.wa.gov/newsroom/news-release/invasive-golden-mussels-detected-watercraft-traveling-washington-first-time",
+   "_src": "wdfw_news"
+  },
+  {
+   "id": "3256e7f8b70b",
+   "state": "WA",
+   "kind": "stocking",
+   "source": "WDFW stocking report",
+   "title": "4,046 trout stocked at Cranberry Lake, Harts Lake and 3 more waters",
+   "date": "2026-11-24",
+   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
+   "_src": "wdfw_plants"
   },
   {
    "id": "bdfac3f35a58",
