@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:37:05+00:00",
+ "generated": "2026-11-25T00:08:56+00:00",
  "show_days": 14,
  "sources": {
   "odfw_news": "ok (54)",
@@ -9,6 +9,26 @@
   "wdfw_plants": "ok (14)"
  },
  "items": [
+  {
+   "id": "731b97660fc3",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution lifted: Cullaby Lake",
+   "date": "2026-11-24",
+   "url": "https://content.govdelivery.com/accounts/ORHA/bulletins/4300202",
+   "_src": "oha_algae"
+  },
+  {
+   "id": "21fd7a6dd4e0",
+   "state": "OR",
+   "kind": "algae",
+   "source": "Oregon Health Authority",
+   "title": "Toxic algae precaution lifted: Wapato Marsh at Oaks Bottom",
+   "date": "2026-11-24",
+   "url": "https://www.oregon.gov/oha/ph/healthyenvironments/recreation/harmfulalgaeblooms/pages/blue-greenalgaeadvisories.aspx",
+   "_src": "oha_algae"
+  },
   {
    "id": "14fae030f9e4",
    "state": "OR",
