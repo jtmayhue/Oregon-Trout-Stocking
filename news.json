@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-25T00:08:56+00:00",
+ "generated": "2026-11-25T10:31:24+00:00",
  "show_days": 14,
  "sources": {
   "odfw_news": "ok (54)",
   "odfw_report": "ok (1)",
   "oha_algae": "ok (51)",
   "wdfw_news": "ok (7)",
-  "wdfw_plants": "ok (14)"
+  "wdfw_plants": "ok (13)"
  },
  "items": [
   {
@@ -336,16 +336,6 @@
    "source": "WDFW stocking report",
    "title": "5,080 trout stocked at Battle Ground Lake and Lacamas Lake",
    "date": "2026-10-27",
-   "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
-   "_src": "wdfw_plants"
-  },
-  {
-   "id": "dcffb6450102",
-   "state": "WA",
-   "kind": "stocking",
-   "source": "WDFW stocking report",
-   "title": "3,456 trout stocked at Battle Ground Lake, Klineline Pond and 2 more waters",
-   "date": "2026-10-26",
    "url": "https://wdfw.wa.gov/fishing/reports/stocking/trout-plants",
    "_src": "wdfw_plants"
   }
